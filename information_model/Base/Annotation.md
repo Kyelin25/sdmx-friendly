@@ -2,21 +2,32 @@
 #Annotation
 
 
+
 ##Subclasses
 
 
+
 ##Attributes
+
 id: string
+
 title: string
+
 type: string
+
 url: string
 
 
+
 ##References
+
 text: [InternationalString](Base/InternationalString.md) (ZeroOrOne)
 
 
+
 ##Referenced By
+
 [AnnotableArtefact](Base/AnnotableArtefact.md)
+
 
     

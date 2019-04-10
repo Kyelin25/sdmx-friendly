@@ -1,18 +1,18 @@
 
-#AnnotableArtefact#
+#AnnotableArtefact
 
 
-##Subclasses##
+##Subclasses
 [IdentifiableArtefact](Base/IdentifiableArtefact.md)
 
 
-##Attributes##
+##Attributes
 
 
-##References##
+##References
 contains: [Annotation](Base/Annotation.md) (ZeroOrMany)
 
 
-##Referenced By##
+##Referenced By
 
     

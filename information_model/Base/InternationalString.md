@@ -1,18 +1,18 @@
 
-#InternationalString#
+#InternationalString
 
 
-##Subclasses##
+##Subclasses
 
 
-##Attributes##
+##Attributes
 
 
-##References##
+##References
 contains: [LocalisedString](Base/LocalisedString.md) (ZeroOrMany)
 
 
-##Referenced By##
+##Referenced By
 [Annotation](Base/Annotation.md)
 [NameableArtefact](Base/NameableArtefact.md)
 [NameableArtefact](Base/NameableArtefact.md)

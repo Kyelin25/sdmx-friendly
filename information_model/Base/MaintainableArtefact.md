@@ -1,20 +1,20 @@
 
-#MaintainableArtefact#
+#MaintainableArtefact
 Inherits from: [VersionableArtefact](Base/VersionableArtefact.md)
 
-##Subclasses##
+##Subclasses
 
 
-##Attributes##
+##Attributes
 final: bool
 isExternalReference: bool
 serviceUrl: Url
 structureUri: Url
 
 
-##References##
+##References
 
 
-##Referenced By##
+##Referenced By
 
     

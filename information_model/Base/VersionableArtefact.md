@@ -1,20 +1,20 @@
 
-#VersionableArtefact#
+#VersionableArtefact
 Inherits from: [NameableArtefact](Base/NameableArtefact.md)
 
-##Subclasses##
+##Subclasses
 [MaintainableArtefact](Base/MaintainableArtefact.md)
 
 
-##Attributes##
+##Attributes
 version: string
 validFrom: Date
 validTo: Date
 
 
-##References##
+##References
 
 
-##Referenced By##
+##Referenced By
 
     

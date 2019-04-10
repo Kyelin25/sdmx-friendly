@@ -1,19 +1,19 @@
 
-#NameableArtefact#
+#NameableArtefact
 Inherits from: [IdentifiableArtefact](Base/IdentifiableArtefact.md)
 
-##Subclasses##
+##Subclasses
 [VersionableArtefact](Base/VersionableArtefact.md)
 
 
-##Attributes##
+##Attributes
 
 
-##References##
+##References
 name: [InternationalString](Base/InternationalString.md) (One)
 description: [InternationalString](Base/InternationalString.md) (ZeroOrOne)
 
 
-##Referenced By##
+##Referenced By
 
     

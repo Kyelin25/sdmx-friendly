@@ -1,20 +1,20 @@
 
-#IdentifiableArtefact#
+#IdentifiableArtefact
 Inherits from: [AnnotableArtefact](Base/AnnotableArtefact.md)
 
-##Subclasses##
+##Subclasses
 [NameableArtefact](Base/NameableArtefact.md)
 
 
-##Attributes##
+##Attributes
 id: string
 url: Url
 urn: Urn
 
 
-##References##
+##References
 
 
-##Referenced By##
+##Referenced By
 
     

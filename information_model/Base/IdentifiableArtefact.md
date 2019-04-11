@@ -1,5 +1,5 @@
 
-#IdentifiableArtefact
+# IdentifiableArtefact
 
 Inherits from: [AnnotableArtefact](AnnotableArtefact.md)
 
@@ -19,11 +19,7 @@ urn: Urn
 
 
 
-## References
 
-
-
-## Referenced By
 
 
     

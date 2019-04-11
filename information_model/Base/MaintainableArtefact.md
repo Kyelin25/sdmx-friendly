@@ -1,9 +1,7 @@
 
-#MaintainableArtefact
+# MaintainableArtefact
 
 Inherits from: [VersionableArtefact](VersionableArtefact.md)
-
-## Subclasses
 
 
 
@@ -19,11 +17,7 @@ structureUri: Url
 
 
 
-## References
 
-
-
-## Referenced By
 
 
     

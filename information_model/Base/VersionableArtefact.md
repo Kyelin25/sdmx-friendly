@@ -1,5 +1,5 @@
 
-#VersionableArtefact
+# VersionableArtefact
 
 Inherits from: [NameableArtefact](NameableArtefact.md)
 
@@ -19,11 +19,7 @@ validTo: Date
 
 
 
-## References
 
-
-
-## Referenced By
 
 
     

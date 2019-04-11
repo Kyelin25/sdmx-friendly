@@ -1,9 +1,7 @@
 
-#LocalisedString
+# LocalisedString
 
 
-
-## Subclasses
 
 
 
@@ -14,8 +12,6 @@ locale: string
 label: string
 
 
-
-## References
 
 
 

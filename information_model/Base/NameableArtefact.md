@@ -1,5 +1,5 @@
 
-#NameableArtefact
+# NameableArtefact
 
 Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
@@ -8,8 +8,6 @@ Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 [VersionableArtefact](VersionableArtefact.md)
 
 
-
-## Attributes
 
 
 
@@ -20,8 +18,6 @@ name: [InternationalString](InternationalString.md) (One)
 description: [InternationalString](InternationalString.md) (ZeroOrOne)
 
 
-
-## Referenced By
 
 
     

@@ -1,13 +1,9 @@
 
-#InternationalString
+# InternationalString
 
 
 
-## Subclasses
 
-
-
-## Attributes
 
 
 

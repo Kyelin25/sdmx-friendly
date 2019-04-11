@@ -1,5 +1,5 @@
 
-#AnnotableArtefact
+# AnnotableArtefact
 
 
 
@@ -9,8 +9,6 @@
 
 
 
-## Attributes
-
 
 
 ## References
@@ -18,8 +16,6 @@
 contains: [Annotation](Annotation.md) (ZeroOrMany)
 
 
-
-## Referenced By
 
 
     

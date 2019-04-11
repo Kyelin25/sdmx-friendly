@@ -15,11 +15,11 @@ contains: [LocalisedString](LocalisedString.md) (ZeroOrMany)
 
 ## Referenced By
 
-[Annotation](Annotation.md)
+[Annotation](Annotation.md) (as text)
 
-[NameableArtefact](NameableArtefact.md)
+[NameableArtefact](NameableArtefact.md) (as name)
 
-[NameableArtefact](NameableArtefact.md)
+[NameableArtefact](NameableArtefact.md) (as description)
 
 
     

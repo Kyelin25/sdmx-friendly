@@ -17,7 +17,7 @@ label: string
 
 ## Referenced By
 
-[InternationalString](InternationalString.md)
+[InternationalString](InternationalString.md) (as contains)
 
 
     

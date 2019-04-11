@@ -25,7 +25,7 @@ text: [InternationalString](InternationalString.md) (ZeroOrOne)
 
 ## Referenced By
 
-[AnnotableArtefact](AnnotableArtefact.md)
+[AnnotableArtefact](AnnotableArtefact.md) (as contains)
 
 
     

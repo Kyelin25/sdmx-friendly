@@ -3,23 +3,23 @@
 
 
 
-##Subclasses
+## Subclasses
 
-[IdentifiableArtefact](Base/IdentifiableArtefact.md)
-
-
-
-##Attributes
+[IdentifiableArtefact](IdentifiableArtefact.md)
 
 
 
-##References
-
-contains: [Annotation](Base/Annotation.md) (ZeroOrMany)
+## Attributes
 
 
 
-##Referenced By
+## References
+
+contains: [Annotation](Annotation.md) (ZeroOrMany)
+
+
+
+## Referenced By
 
 
     

@@ -3,11 +3,11 @@
 
 
 
-##Subclasses
+## Subclasses
 
 
 
-##Attributes
+## Attributes
 
 id: string
 
@@ -19,15 +19,15 @@ url: string
 
 
 
-##References
+## References
 
-text: [InternationalString](Base/InternationalString.md) (ZeroOrOne)
+text: [InternationalString](InternationalString.md) (ZeroOrOne)
 
 
 
-##Referenced By
+## Referenced By
 
-[AnnotableArtefact](Base/AnnotableArtefact.md)
+[AnnotableArtefact](AnnotableArtefact.md)
 
 
     

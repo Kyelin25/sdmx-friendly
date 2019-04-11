@@ -3,27 +3,27 @@
 
 
 
-##Subclasses
+## Subclasses
 
 
 
-##Attributes
+## Attributes
 
 
 
-##References
+## References
 
-contains: [LocalisedString](Base/LocalisedString.md) (ZeroOrMany)
+contains: [LocalisedString](LocalisedString.md) (ZeroOrMany)
 
 
 
-##Referenced By
+## Referenced By
 
-[Annotation](Base/Annotation.md)
+[Annotation](Annotation.md)
 
-[NameableArtefact](Base/NameableArtefact.md)
+[NameableArtefact](NameableArtefact.md)
 
-[NameableArtefact](Base/NameableArtefact.md)
+[NameableArtefact](NameableArtefact.md)
 
 
     

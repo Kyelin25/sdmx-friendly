@@ -3,11 +3,11 @@
 
 
 
-##Subclasses
+## Subclasses
 
 
 
-##Attributes
+## Attributes
 
 locale: string
 
@@ -15,13 +15,13 @@ label: string
 
 
 
-##References
+## References
 
 
 
-##Referenced By
+## Referenced By
 
-[InternationalString](Base/InternationalString.md)
+[InternationalString](InternationalString.md)
 
 
     

@@ -1,15 +1,15 @@
 
 #VersionableArtefact
 
-Inherits from: [NameableArtefact](Base/NameableArtefact.md)
+Inherits from: [NameableArtefact](NameableArtefact.md)
 
-##Subclasses
+## Subclasses
 
-[MaintainableArtefact](Base/MaintainableArtefact.md)
+[MaintainableArtefact](MaintainableArtefact.md)
 
 
 
-##Attributes
+## Attributes
 
 version: string
 
@@ -19,11 +19,11 @@ validTo: Date
 
 
 
-##References
+## References
 
 
 
-##Referenced By
+## Referenced By
 
 
     

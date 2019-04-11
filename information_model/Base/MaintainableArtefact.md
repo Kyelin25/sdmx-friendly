@@ -1,13 +1,13 @@
 
 #MaintainableArtefact
 
-Inherits from: [VersionableArtefact](Base/VersionableArtefact.md)
+Inherits from: [VersionableArtefact](VersionableArtefact.md)
 
-##Subclasses
+## Subclasses
 
 
 
-##Attributes
+## Attributes
 
 final: bool
 
@@ -19,11 +19,11 @@ structureUri: Url
 
 
 
-##References
+## References
 
 
 
-##Referenced By
+## Referenced By
 
 
     

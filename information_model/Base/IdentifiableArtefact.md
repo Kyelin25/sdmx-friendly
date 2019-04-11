@@ -1,15 +1,15 @@
 
 #IdentifiableArtefact
 
-Inherits from: [AnnotableArtefact](Base/AnnotableArtefact.md)
+Inherits from: [AnnotableArtefact](AnnotableArtefact.md)
 
-##Subclasses
+## Subclasses
 
-[NameableArtefact](Base/NameableArtefact.md)
+[NameableArtefact](NameableArtefact.md)
 
 
 
-##Attributes
+## Attributes
 
 id: string
 
@@ -19,11 +19,11 @@ urn: Urn
 
 
 
-##References
+## References
 
 
 
-##Referenced By
+## Referenced By
 
 
     

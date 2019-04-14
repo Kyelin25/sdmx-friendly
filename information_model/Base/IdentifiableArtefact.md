@@ -7,13 +7,17 @@ Inherits from: [AnnotableArtefact](AnnotableArtefact.md)
 
 [NameableArtefact](NameableArtefact.md)
 
+[Component](Component.md)
 
+
+
+{DescriptionStatement}
 
 ## Attributes
 
 id: string
 
-url: Url
+uri: Url
 
 urn: Urn
 

@@ -5,6 +5,8 @@
 
 
 
+{DescriptionStatement}
+
 ## Attributes
 
 id: string
@@ -19,7 +21,7 @@ url: string
 
 ## References
 
-text: [InternationalString](InternationalString.md) (ZeroOrOne)
+text: [InternationalString](InternationalString.md) (ZeroOrOne) - An InternationalString provides the multilingual text content of the Annotation via this role.
 
 
 

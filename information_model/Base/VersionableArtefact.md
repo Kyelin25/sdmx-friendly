@@ -9,13 +9,15 @@ Inherits from: [NameableArtefact](NameableArtefact.md)
 
 
 
+{DescriptionStatement}
+
 ## Attributes
 
-version: string
+version: A version string following an agreed convention.
 
-validFrom: Date
+validFrom: Date from which the version is valid.
 
-validTo: Date
+validTo: Date from which version is superceded.
 
 
 

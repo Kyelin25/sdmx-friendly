@@ -5,6 +5,8 @@
 
 
 
+{DescriptionStatement}
+
 ## Attributes
 
 locale: string

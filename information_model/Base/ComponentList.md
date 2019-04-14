@@ -5,7 +5,7 @@
 
 
 
-{DescriptionStatement}
+An abstract definition of a list of components. A concrete example is a DimensionDescriptor which defines the list of Dimensions in a DataStructureDefinition.
 
 
 

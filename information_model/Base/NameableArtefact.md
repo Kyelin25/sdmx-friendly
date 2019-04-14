@@ -11,7 +11,7 @@ Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
 
 
-{DescriptionStatement}
+Provides a name and description to all derived classes in addition to identification and Annotations.
 
 
 

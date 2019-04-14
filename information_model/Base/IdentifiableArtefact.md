@@ -11,7 +11,7 @@ Inherits from: [AnnotableArtefact](AnnotableArtefact.md)
 
 
 
-{DescriptionStatement}
+Provides identity to all derived classes. It also provides Annotations to derived classes because it is a subclass of AnnotableArtefact
 
 ## Attributes
 

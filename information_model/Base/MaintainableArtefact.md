@@ -11,7 +11,7 @@ Inherits from: [VersionableArtefact](VersionableArtefact.md)
 
 
 
-{DescriptionStatement}
+An abstract class to group together primary structural metadata artefacts that are maintained by an Agency.
 
 ## Attributes
 

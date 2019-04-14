@@ -5,7 +5,7 @@
 
 
 
-{DescriptionStatement}
+A collection of LocalisedStrings.
 
 
 

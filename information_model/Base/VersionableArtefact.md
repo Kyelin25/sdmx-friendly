@@ -9,7 +9,7 @@ Inherits from: [NameableArtefact](NameableArtefact.md)
 
 
 
-{DescriptionStatement}
+Provides versioning information for all derived objects.
 
 ## Attributes
 

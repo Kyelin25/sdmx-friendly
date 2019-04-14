@@ -5,7 +5,7 @@ Inherits from: [MaintainableArtefact](MaintainableArtefact.md)
 
 
 
-{DescriptionStatement}
+The descriptive information for an arrangement or division of objects into groups based on characteristics, which the objects have in common.
 
 ## Attributes
 

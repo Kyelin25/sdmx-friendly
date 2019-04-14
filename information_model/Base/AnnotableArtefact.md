@@ -9,7 +9,7 @@
 
 
 
-{DescriptionStatement}
+Objects of classes derived from this can have attached annotations.
 
 
 

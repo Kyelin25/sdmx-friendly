@@ -5,7 +5,7 @@
 
 
 
-{DescriptionStatement}
+Additional descriptive information attached to an object.
 
 ## Attributes
 

@@ -1,7 +1,7 @@
 
 # InternationalString
 
-
+Inherits from: [](..//.md)
 
 
 
@@ -11,17 +11,8 @@ A collection of LocalisedStrings.
 
 ## References
 
-contains: [LocalisedString](LocalisedString.md) (ZeroOrMany) - No description
+: [LocalisedString](LocalisedString.md) (One) - No description
 
 
 
-## Referenced By
 
-[Annotation](Annotation.md) (as text)
-
-[NameableArtefact](NameableArtefact.md) (as name)
-
-[NameableArtefact](NameableArtefact.md) (as description)
-
-
-    

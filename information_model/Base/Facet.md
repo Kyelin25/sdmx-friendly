@@ -1,7 +1,7 @@
 
 # Facet
 
-
+Inherits from: [](..//.md)
 
 
 
@@ -19,9 +19,4 @@ facetValue: string
 
 
 
-## Referenced By
 
-[Representation](Representation.md) (as nonEnumerated)
-
-
-    

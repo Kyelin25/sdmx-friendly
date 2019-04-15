@@ -27,9 +27,8 @@ structureUrl: The URL of an SDMX-ML document containing the external object
 
 ## References
 
-maintainer: [Placeholder](Placeholder.md) (One) - No description
+: [Placeholder](Placeholder.md) (One) - No description
 
 
 
 
-    

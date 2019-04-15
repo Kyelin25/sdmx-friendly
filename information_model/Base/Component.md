@@ -11,15 +11,10 @@ A component is an abstract super class used to define qualitative and quantitati
 
 ## References
 
-conceptIdentity: [Placeholder](Placeholder.md) (One) - No description
+: [Placeholder](Placeholder.md) (One) - No description
 
-localRepresentation: [Representation](Representation.md) (One) - No description
-
-
-
-## Referenced By
-
-[ComponentList](ComponentList.md) (as components)
+: [Representation](Representation.md) (One) - No description
 
 
-    
+
+

@@ -1,7 +1,7 @@
 
 # Annotation
 
-
+Inherits from: [](..//.md)
 
 
 
@@ -21,13 +21,8 @@ url: string
 
 ## References
 
-text: [InternationalString](InternationalString.md) (ZeroOrOne) - An InternationalString provides the multilingual text content of the Annotation via this role.
+: [InternationalString](InternationalString.md) (ZeroOrOne) - No description
 
 
 
-## Referenced By
 
-[AnnotableArtefact](AnnotableArtefact.md) (as contains)
-
-
-    

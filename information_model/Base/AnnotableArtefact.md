@@ -1,7 +1,7 @@
 
 # AnnotableArtefact
 
-
+Inherits from: [](..//.md)
 
 ## Subclasses
 
@@ -15,9 +15,8 @@ Objects of classes derived from this can have attached annotations.
 
 ## References
 
-contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
+: [Annotation](Annotation.md) (ZeroOrOne) - No description
 
 
 
 
-    

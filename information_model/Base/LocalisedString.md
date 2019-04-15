@@ -1,7 +1,7 @@
 
 # LocalisedString
 
-
+Inherits from: [](..//.md)
 
 
 
@@ -17,9 +17,4 @@ label: string
 
 
 
-## Referenced By
 
-[InternationalString](InternationalString.md) (as contains)
-
-
-    

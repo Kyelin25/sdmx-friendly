@@ -13,6 +13,14 @@ Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
 Provides a name and description to all derived classes in addition to identification and Annotations.
 
+## Attributes
+
+id: string
+
+uri: Url
+
+urn: Urn
+
 
 
 ## References
@@ -20,6 +28,8 @@ Provides a name and description to all derived classes in addition to identifica
 name: [InternationalString](InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+
+contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
 
 
 

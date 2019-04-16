@@ -23,11 +23,29 @@ serviceUrl: The URL of an SDMX-compliant web service from which the external obj
 
 structureUrl: The URL of an SDMX-ML document containing the external object
 
+id: string
+
+uri: Url
+
+urn: Urn
+
+version: A version string following an agreed convention.
+
+validFrom: Date from which the version is valid.
+
+validTo: Date from which version is superceded.
+
 
 
 ## References
 
 maintainer: [Placeholder](Placeholder.md) (One) - No description
+
+contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
+
+name: [InternationalString](InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+
+description: [InternationalString](InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
 
 

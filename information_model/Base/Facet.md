@@ -19,4 +19,8 @@ facetValue: string
 
 
 
+## Referenced By
+
+[Representation](Representation.md) (as nonEnumerated)
+
 

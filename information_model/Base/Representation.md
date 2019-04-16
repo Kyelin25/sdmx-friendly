@@ -19,4 +19,8 @@ nonEnumerated: [ExtendedFacet](ExtendedFacet.md) (ZeroOrMany) - Association to a
 
 
 
+## Referenced By
+
+[Component](Component.md) (as localRepresentation)
+
 

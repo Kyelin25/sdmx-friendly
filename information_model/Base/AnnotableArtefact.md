@@ -15,7 +15,7 @@ Objects of classes derived from this can have attached annotations.
 
 ## References
 
-: [Annotation](Annotation.md) (ZeroOrOne) - No description
+contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
 
 
 

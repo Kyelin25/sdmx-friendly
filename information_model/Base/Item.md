@@ -15,7 +15,7 @@ The Item is an item of content in an ItemScheme. This may be a node in a taxonom
 
 ## References
 
-parent: [Item](Item.md) (One) - The parent of this item.
+child: [Item](Item.md) (ZeroOrMany) - A child of this item.
 
 
 

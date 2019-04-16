@@ -11,11 +11,11 @@ The allowable value or format for Component or Concept.
 
 ## References
 
-: [ItemScheme](ItemScheme.md) (ZeroOrMany) - No description
+enumerated: [ItemScheme](ItemScheme.md) (ZeroOrOne) - Association to an enumerated list that contains the allowable content for the Component when reported in a DataSet or MetadataSet. The type of enumerated list that is allowed for any concrete Component is shown in the constraints on the association (e.g. IdentifierComponent can have any of the sub-classes of ItemScheme, whereas MeasureDimension must have a ConceptScheme).
 
-: [Facet](Facet.md) (One) - No description
+nonEnumerated: [Facet](Facet.md) (ZeroOrMany) - Association to a set of Facets that define the allowable format for the content of the Component when reported in a DataSet or MetadataSet.
 
-: [ExtendedFacet](ExtendedFacet.md) (One) - No description
+nonEnumerated: [ExtendedFacet](ExtendedFacet.md) (ZeroOrMany) - Association to a set of Facets that define the allowable format for the content of the Component when reported in a DataSet or MetadataSet.
 
 
 

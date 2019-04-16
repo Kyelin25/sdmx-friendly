@@ -11,7 +11,7 @@ A collection of LocalisedStrings.
 
 ## References
 
-: [LocalisedString](LocalisedString.md) (One) - No description
+contains: [LocalisedString](LocalisedString.md) (ZeroOrMany) - No description
 
 
 

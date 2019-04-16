@@ -11,7 +11,7 @@ Abstract specification of a list of lists to define a complex tabular structure.
 
 ## References
 
-: [ComponentList](ComponentList.md) (One) - No description
+grouping: [ComponentList](ComponentList.md) (OneOrMany) - A composite association to one or more ComponentLists.
 
 
 

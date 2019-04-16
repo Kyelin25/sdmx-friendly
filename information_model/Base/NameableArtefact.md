@@ -17,9 +17,9 @@ Provides a name and description to all derived classes in addition to identifica
 
 ## References
 
-: [InternationalString](InternationalString.md) (One) - No description
+name: [InternationalString](InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
-: [InternationalString](InternationalString.md) (One) - No description
+description: [InternationalString](InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
 
 

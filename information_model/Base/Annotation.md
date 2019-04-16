@@ -21,7 +21,7 @@ url: string
 
 ## References
 
-: [InternationalString](InternationalString.md) (ZeroOrOne) - No description
+text: [InternationalString](InternationalString.md) (ZeroOrOne) - An InternationalString provides the multilingual text content of the Annotation via this role.
 
 
 

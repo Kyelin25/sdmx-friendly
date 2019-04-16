@@ -19,7 +19,7 @@ isPartial: bool
 
 ## References
 
-: [Item](Item.md) (One) - No description
+items: [Item](Item.md) (ZeroOrMany) - Association to the Items in the scheme.
 
 
 

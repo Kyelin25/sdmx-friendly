@@ -9,6 +9,18 @@ Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
 [Item](Item.md)
 
+[MetadataSet](../MetadataStructureDefinitions/MetadataSet.md)
+
+[Level](../HierarchicalCodelists/Level.md)
+
+[Hierarchy](../HierarchicalCodelists/Hierarchy.md)
+
+[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md)
+
+[HybridCodelistMap](../HybridCodelistMap/HybridCodelistMap.md)
+
+[StructureMap](../StructureMaps/StructureMap.md)
+
 
 
 Provides a name and description to all derived classes in addition to identification and Annotations.

@@ -9,6 +9,14 @@ Inherits from: [VersionableArtefact](VersionableArtefact.md)
 
 [Structure](Structure.md)
 
+[StructureUsage](StructureUsage.md)
+
+[HierarchicalCodelist](../HierarchicalCodelists/HierarchicalCodelist.md)
+
+[StructureSet](../StructureMaps/StructureSet.md)
+
+[Constraint](../Constraints/Constraint.md)
+
 
 
 An abstract class to group together primary structural metadata artefacts that are maintained by an Agency.
@@ -39,7 +47,7 @@ validTo: Date from which version is superceded.
 
 ## References
 
-maintainer: [Placeholder](Placeholder.md) (One) - No description
+maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
 
 contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
 

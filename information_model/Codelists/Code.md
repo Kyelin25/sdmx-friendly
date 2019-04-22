@@ -33,4 +33,22 @@ child: [Item](../Base/Item.md) (ZeroOrMany) - A child of this item.
 
 [ItemScheme](../Base/ItemScheme.md) (as items)
 
+[HierarchicalCode](../HierarchicalCodelists/HierarchicalCode.md) (as code)
+
+[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as source)
+
+[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as target)
+
+[CodedAttributeValue](../DataStructureDefinitions/CodedAttributeValue.md) (as value)
+
+[CodedKeyValue](../DataStructureDefinitions/CodedKeyValue.md) (as value)
+
+[CodedObservation](../DataStructureDefinitions/CodedObservation.md) (as value)
+
+[EnumeratedAttributeValue](../MetadataStructureDefinitions/EnumeratedAttributeValue.md) (as value)
+
+[SourceCode](../HybridCodelistMap/SourceCode.md) (as code)
+
+[TargetCode](../HybridCodelistMap/TargetCode.md) (as code)
+
 

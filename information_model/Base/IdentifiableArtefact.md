@@ -9,6 +9,8 @@ Inherits from: [AnnotableArtefact](AnnotableArtefact.md)
 
 [Component](Component.md)
 
+[HierarchicalCode](../HierarchicalCodelists/HierarchicalCode.md)
+
 
 
 Provides identity to all derived classes. It also provides Annotations to derived classes because it is a subclass of AnnotableArtefact
@@ -28,5 +30,9 @@ urn: Urn
 contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
 
 
+
+## Referenced By
+
+[Categorisation](../CategorySchemes/Categorisation.md) (as categorisedArtefact)
 
 

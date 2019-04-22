@@ -41,10 +41,20 @@ name: [InternationalString](../Base/InternationalString.md) (One) - A multi-ling
 
 description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
-maintainer: [Placeholder](../Base/Placeholder.md) (One) - No description
+maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
 
 items: [Code](Code.md) (ZeroOrMany) - Association to the Codes in the Codelist.
 
 
+
+## Referenced By
+
+[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (as source)
+
+[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (as target)
+
+[SourceCodelist](../HybridCodelistMap/SourceCodelist.md) (as codelist)
+
+[TargetCodelist](../HybridCodelistMap/TargetCodelist.md) (as codelist)
 
 

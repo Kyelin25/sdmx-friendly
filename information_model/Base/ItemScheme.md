@@ -7,6 +7,14 @@ Inherits from: [MaintainableArtefact](MaintainableArtefact.md)
 
 [Codelist](../Codelists/Codelist.md)
 
+[ConceptScheme](../ConceptSchemes/ConceptScheme.md)
+
+[CategoryScheme](../CategorySchemes/CategoryScheme.md)
+
+[OrganisationScheme](../OrganisationSchemes/OrganisationScheme.md)
+
+[ReportingTaxonomy](../ReportingTaxonomies/ReportingTaxonomy.md)
+
 
 
 The descriptive information for an arrangement or division of objects into groups based on characteristics, which the objects have in common.
@@ -47,11 +55,15 @@ name: [InternationalString](InternationalString.md) (One) - A multi-lingual name
 
 description: [InternationalString](InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
-maintainer: [Placeholder](Placeholder.md) (One) - No description
+maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
 
 
 
 ## Referenced By
+
+[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (as source)
+
+[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (as target)
 
 [Representation](Representation.md) (as enumerated)
 

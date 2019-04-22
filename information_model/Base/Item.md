@@ -7,6 +7,14 @@ Inherits from: [NameableArtefact](NameableArtefact.md)
 
 [Code](../Codelists/Code.md)
 
+[Concept](../ConceptSchemes/Concept.md)
+
+[Category](../CategorySchemes/Category.md)
+
+[Organisation](../OrganisationSchemes/Organisation.md)
+
+[ReportingCategory](../ReportingTaxonomies/ReportingCategory.md)
+
 
 
 The Item is an item of content in an ItemScheme. This may be a node in a taxonomy or ontology, a Code in a Codelist etc. Note that at the conceptual level the Organisation is not hierarchic.
@@ -40,5 +48,25 @@ description: [InternationalString](InternationalString.md) (ZeroOrOne) - A multi
 [Item](Item.md) (as child)
 
 [Item](Item.md) (as child)
+
+[Item](Item.md) (as child)
+
+[Item](Item.md) (as child)
+
+[Item](Item.md) (as child)
+
+[Item](Item.md) (as child)
+
+[Item](Item.md) (as child)
+
+[Item](Item.md) (as child)
+
+[Item](Item.md) (as child)
+
+[Item](Item.md) (as child)
+
+[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as source)
+
+[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as target)
 
 

@@ -12,6 +12,8 @@ Any organised collection of metadata.
 
 ## Attributes
 
+### Inherited
+
 **reportingBegin** (*Date*): A specific time period in a known system of time periods that identifies the start period of a report.
 
 **reportingEnd** (*Date*): A specific time period in a known system of time periods that identifies the end period of a report.
@@ -36,8 +38,6 @@ Any organised collection of metadata.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -55,7 +55,9 @@ Any organised collection of metadata.
 ### Inherited
 
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
 
 
 

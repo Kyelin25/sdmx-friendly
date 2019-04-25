@@ -18,9 +18,9 @@ The value of an attribute, such as the instance of a Coded Attribute or of an Un
 
 ## Attributes
 
-**value** (*string*): The value of the attribute.
-
 ### Inherited
+
+**value** (*string*): The value of the attribute.
 
 
 

@@ -12,6 +12,8 @@ A maintained collection of Maintenance Agencies.
 
 ## Attributes
 
+### Inherited
+
 **isPartial** (*bool*): Denotes whether the ItemScheme contains a sub set of the full set of Items in the maintained scheme.
 
 **final** (*bool*): Defines whether a maintained artefact is draft or final.
@@ -34,8 +36,6 @@ A maintained collection of Maintenance Agencies.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -43,10 +43,15 @@ A maintained collection of Maintenance Agencies.
 ### Inherited
 
 **items** ([Agency](Agency.md) - 0..*): Association to the Agencies in the AgencyScheme.
+
 **maintainer** ([Agency](Agency.md) - 1): No description
+
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 

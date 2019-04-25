@@ -24,6 +24,8 @@ The descriptive information for an arrangement or division of objects into group
 
 ## Attributes
 
+### Inherited
+
 **isPartial** (*bool*): Denotes whether the ItemScheme contains a sub set of the full set of Items in the maintained scheme.
 
 **final** (*bool*): Defines whether a maintained artefact is draft or final.
@@ -46,8 +48,6 @@ The descriptive information for an arrangement or division of objects into group
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -57,9 +57,13 @@ The descriptive information for an arrangement or division of objects into group
 ### Inherited
 
 **maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
 **contains** ([Annotation](Annotation.md) - 0..*): No description
+
 
 
 ## Referenced By

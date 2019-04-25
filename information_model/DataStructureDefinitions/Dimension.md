@@ -18,13 +18,13 @@ A metadata concept used (most probably together with other metadata concepts) to
 
 ## Attributes
 
+### Inherited
+
 **id** (*string*): The unique identifier of the object.
 
 **uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
-
-### Inherited
 
 
 
@@ -35,8 +35,11 @@ A metadata concept used (most probably together with other metadata concepts) to
 ### Inherited
 
 **conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
+
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
+
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 ## Referenced By

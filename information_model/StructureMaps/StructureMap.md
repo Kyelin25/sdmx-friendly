@@ -12,6 +12,8 @@ Links a source and target structure where there is a semantic equivalence betwee
 
 ## Attributes
 
+### Inherited
+
 **isExtension** (*bool*): Whether this map is an extension.
 
 **alias** (*string*): An alternate identification of the map, that allows the relation of multiple maps to be expressed by the sharing of this value.
@@ -22,8 +24,6 @@ Links a source and target structure where there is a semantic equivalence betwee
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -33,8 +33,11 @@ Links a source and target structure where there is a semantic equivalence betwee
 ### Inherited
 
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 ## Referenced By

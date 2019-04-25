@@ -12,6 +12,8 @@ A specialised DataAttribute whose value is used in conjunction with the predefin
 
 ## Attributes
 
+### Inherited
+
 **usageStatus** (*UsageStatus*): Defines the usage status which is constrained by the data type UsageStatus.
 
 **id** (*string*): The unique identifier of the object.
@@ -20,8 +22,6 @@ A specialised DataAttribute whose value is used in conjunction with the predefin
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -29,10 +29,15 @@ A specialised DataAttribute whose value is used in conjunction with the predefin
 ### Inherited
 
 **role** ([Concept](../ConceptSchemes/Concept.md) - 0..*): Association to the Concept that specifies the role that the DataAttribute plays in the DataStructureDefinition.
+
 **relatedTo** ([AttributeRelationship](AttributeRelationship.md) - 1): Association to an AttributeRelationship.
+
 **conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
+
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
+
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 

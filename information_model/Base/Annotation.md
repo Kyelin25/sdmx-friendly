@@ -12,6 +12,8 @@ Additional descriptive information attached to an object.
 
 ## Attributes
 
+### Inherited
+
 **id** (*string*): Identifier for the Annotation. It can be used to disambiguate one Annotation from another when there are several Annotations for the same annotated object.
 
 **title** (*string*): A title used to identify an Annotation.
@@ -19,8 +21,6 @@ Additional descriptive information attached to an object.
 **type** (*string*): Specifies how the Annotation is to be processed.
 
 **url** (*string*): A link to external descriptive text.
-
-### Inherited
 
 
 

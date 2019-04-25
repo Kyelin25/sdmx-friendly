@@ -12,6 +12,8 @@ A maintainable collection of structural maps that link components together in a 
 
 ## Attributes
 
+### Inherited
+
 **final** (*bool*): Defines whether a maintained artefact is draft or final.
 
 **isExternalReference** (*bool*): If set to "true" it indicates that the content of the object is held externally.
@@ -32,8 +34,6 @@ A maintainable collection of structural maps that link components together in a 
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -49,9 +49,13 @@ A maintainable collection of structural maps that link components together in a 
 ### Inherited
 
 **maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 

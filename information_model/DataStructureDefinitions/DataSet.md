@@ -22,6 +22,8 @@ An organised collection of data.
 
 ## Attributes
 
+### Inherited
+
 **reportingBegin** (*Date*): A specific time period in a known system of time periods that identifies the start period of a report.
 
 **reportingEnd** (*Date*): A specific time period in a known system of time periods that identifies the end period of a report.
@@ -40,8 +42,6 @@ An organised collection of data.
 
 **action** (*ActionType*): Defines the action to be taken by the recipient system (update, append, delete).
 
-### Inherited
-
 
 
 ## References
@@ -57,7 +57,9 @@ An organised collection of data.
 ### Inherited
 
 **content** ([ContentConstraint](../Constraints/ContentConstraint.md) - 0..*): Associates the metadata that constrains the content to be found in a data or metadata source linked to the ConstrainableArtefact.
+
 **attachment** ([AttachmentConstraint](../Constraints/AttachmentConstraint.md) - 0..*): Associates the metadata that constrains the valid content of a ConstrainableArtefact to which metadata may be attached.
+
 
 
 

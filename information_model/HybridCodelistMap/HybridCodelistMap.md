@@ -12,6 +12,8 @@ Associates a Codelist and a HierarchicalCodelist.
 
 ## Attributes
 
+### Inherited
+
 **alias** (*string*): An alternate identification of the map, that allows the relation of multiple maps to be expressed by the sharing of this value.
 
 **id** (*string*): The unique identifier of the object.
@@ -19,8 +21,6 @@ Associates a Codelist and a HierarchicalCodelist.
 **uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
-
-### Inherited
 
 
 
@@ -35,8 +35,11 @@ Associates a Codelist and a HierarchicalCodelist.
 ### Inherited
 
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 

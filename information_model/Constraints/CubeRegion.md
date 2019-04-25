@@ -12,9 +12,9 @@ A set of Components and their values that defines a subset or "slice" of the tot
 
 ## Attributes
 
-**isIncluded** (*bool*): Indicates wither the CubeRegion is included in the Constraint definition or excluded from the Constraint definition.
-
 ### Inherited
+
+**isIncluded** (*bool*): Indicates wither the CubeRegion is included in the Constraint definition or excluded from the Constraint definition.
 
 
 

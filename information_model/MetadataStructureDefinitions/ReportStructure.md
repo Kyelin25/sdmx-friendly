@@ -21,6 +21,7 @@ Defines a set of concepts that comprises the MetadataAttributes to be reported.
 **components** ([MetadataAttribute](MetadataAttribute.md) - 0..*): An association to the MetadataAttributes relevant to the ReportStructure.
 
 
+
 ## Referenced By
 
 [MetadataStructureDefinition](MetadataStructureDefinition.md) (as grouping)

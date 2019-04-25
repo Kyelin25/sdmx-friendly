@@ -12,9 +12,9 @@ A set of metadata keys.
 
 ## Attributes
 
-**isIncluded** (*bool*): Indicates whether the MetadataKeySet is included in the Constraint definition or excluded from the Constraint definition.
-
 ### Inherited
+
+**isIncluded** (*bool*): Indicates whether the MetadataKeySet is included in the Constraint definition or excluded from the Constraint definition.
 
 
 

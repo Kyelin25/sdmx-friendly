@@ -12,9 +12,9 @@ Contains the identification of an IdentifiableArtefact.
 
 ## Attributes
 
-**structureType** (*IdentifiableObjectType*): The object type of the target object.
-
 ### Inherited
+
+**structureType** (*IdentifiableObjectType*): The object type of the target object.
 
 
 

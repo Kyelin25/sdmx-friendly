@@ -12,9 +12,9 @@ Specifies format information for Codes at this Level in the hierarchy such as wh
 
 ## Attributes
 
-**codingFormat** (*Facet*): The format describing the Codes at this Level.
-
 ### Inherited
+
+**codingFormat** (*Facet*): The format describing the Codes at this Level.
 
 
 

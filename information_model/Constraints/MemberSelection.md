@@ -12,9 +12,9 @@ A set of permissible values for one component of the axis.
 
 ## Attributes
 
-**isIncluded** (*bool*): Indicates whether the MemberSelection is included in the Constraint definition or excluded from the Constraint definition.
-
 ### Inherited
+
+**isIncluded** (*bool*): Indicates whether the MemberSelection is included in the Constraint definition or excluded from the Constraint definition.
 
 
 

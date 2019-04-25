@@ -12,9 +12,9 @@ Collectively contain the identification of the components and the values that fo
 
 ## Attributes
 
-**value** (*string*): The key value.
-
 ### Inherited
+
+**value** (*string*): The key value.
 
 
 

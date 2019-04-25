@@ -12,9 +12,9 @@ An observation that has a text value.
 
 ## Attributes
 
-**value** (*string*): The value of the UncodedObservation.
-
 ### Inherited
+
+**value** (*string*): The value of the UncodedObservation.
 
 
 

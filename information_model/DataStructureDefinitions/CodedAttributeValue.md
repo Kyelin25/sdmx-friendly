@@ -12,9 +12,9 @@ An Attribute that takes its value from a Code in a Codelist.
 
 ## Attributes
 
-**value** (*string*): The value of the attribute.
-
 ### Inherited
+
+**value** (*string*): The value of the attribute.
 
 
 
@@ -25,6 +25,7 @@ An Attribute that takes its value from a Code in a Codelist.
 ### Inherited
 
 **valueFor** ([DataAttribute](DataAttribute.md) - 1): Association to the DataAttribute defined in the DataStructureDefinition. Note that this is a conceptual association as the Concept is identified explicitly in the DataSet.
+
 
 
 

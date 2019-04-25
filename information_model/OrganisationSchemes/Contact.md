@@ -12,6 +12,8 @@ An instance of a role of an individual or an Organisation (or Organisation part 
 
 ## Attributes
 
+### Inherited
+
 **name** (*string*): The designation of the Contact person by a linguistic expression.
 
 **organisationUnit** (*string*): The designation of the organisational structure by a linguistic expression, within which Contact person works.
@@ -25,8 +27,6 @@ An instance of a role of an individual or an Organisation (or Organisation part 
 **X400** (*string*): The X400 address of the Contact
 
 **uri** (*Uri*): The URL address of the Contact.
-
-### Inherited
 
 
 

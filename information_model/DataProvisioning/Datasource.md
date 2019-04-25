@@ -18,9 +18,9 @@ Identification of the location or service from where data or reference metadata 
 
 ## Attributes
 
-**sourceURL** (*Url*): The URL of the data or reference metadata source (a file or a web service).
-
 ### Inherited
+
+**sourceURL** (*Url*): The URL of the data or reference metadata source (a file or a web service).
 
 
 

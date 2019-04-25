@@ -12,6 +12,8 @@ Describes in textual form the computations involved in the process.
 
 ## Attributes
 
+### Inherited
+
 **localId** (*string*): Distinguishes between Computations in the same Process.
 
 **softwarePackage** (*string*): Together with softwareLanguage and softwareVersion provides information about the software that is used to perform the Computation.
@@ -19,8 +21,6 @@ Describes in textual form the computations involved in the process.
 **softwareLanguage** (*string*): Together with softwarePackage and softwareVersion provides information about the software that is used to perform the Computation.
 
 **softwareVersion** (*string*): Together with softwarePackage and softwareLanguage provides information about the software that is used to perform the Computation.
-
-### Inherited
 
 
 
@@ -31,6 +31,7 @@ Describes in textual form the computations involved in the process.
 ### Inherited
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 ## Referenced By

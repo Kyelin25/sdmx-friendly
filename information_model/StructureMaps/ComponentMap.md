@@ -12,11 +12,11 @@ Links a source and target Component where there is a semantic equivalence betwee
 
 ## Attributes
 
+### Inherited
+
 **alias** (*string*): An alternate identification of the map, that allows relation of multiple maps to be expressed by the sharing of this value.
 
 **preferredLanguage** (*string*): Specifies the language to use for the content of the ToTextFormat option of RepresentationMap.
-
-### Inherited
 
 
 
@@ -31,6 +31,7 @@ Links a source and target Component where there is a semantic equivalence betwee
 ### Inherited
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 ## Referenced By

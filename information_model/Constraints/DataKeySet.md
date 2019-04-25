@@ -12,9 +12,9 @@ A set of data keys.
 
 ## Attributes
 
-**isIncluded** (*bool*): Indicates whether the DataKeySet is included in the Constraint definition of excluded from the Constraint definition.
-
 ### Inherited
+
+**isIncluded** (*bool*): Indicates whether the DataKeySet is included in the Constraint definition of excluded from the Constraint definition.
 
 
 

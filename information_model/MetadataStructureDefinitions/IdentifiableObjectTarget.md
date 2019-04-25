@@ -12,6 +12,8 @@ The target object is a specified object type.
 
 ## Attributes
 
+### Inherited
+
 **objectType** (*IdentifiableObjectType*): Identifies the object type.
 
 **id** (*string*): The unique identifier of the object.
@@ -20,8 +22,6 @@ The target object is a specified object type.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -29,8 +29,11 @@ The target object is a specified object type.
 ### Inherited
 
 **conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): An association to the Concept which carries the values of the measures.
+
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): Associates a Representation to the TargetObject that must be respected when the object is identified in any MetadataSet. This may be enumerated or non-enumerated.
+
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 

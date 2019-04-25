@@ -16,6 +16,8 @@ Provides versioning information for all derived objects.
 
 ## Attributes
 
+### Inherited
+
 **version** (*string*): A version string following an agreed convention.
 
 **validFrom** (*Date*): Date from which the version is valid.
@@ -28,8 +30,6 @@ Provides versioning information for all derived objects.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -37,8 +37,11 @@ Provides versioning information for all derived objects.
 ### Inherited
 
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
 **contains** ([Annotation](Annotation.md) - 0..*): No description
+
 
 
 

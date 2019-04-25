@@ -16,13 +16,13 @@ Identification of the target object by means of its identifier constructs i.e. a
 
 ## Attributes
 
+### Inherited
+
 **agencyID** (*string*): The AgencyID of the referenced object.
 
 **id** (*string*): The id of the referenced object.
 
 **version** (*string*): The version of the referenced object.
-
-### Inherited
 
 
 

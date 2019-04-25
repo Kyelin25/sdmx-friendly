@@ -32,6 +32,7 @@ Inherits from: [AnnotableArtefact](../Base/AnnotableArtefact.md)
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
+
 ## Referenced By
 
 [ItemSchemeMap](ItemSchemeMap.md) (as ItemAssociation)

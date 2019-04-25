@@ -12,13 +12,13 @@ An expression in a textual or formalised way of the transformation of data betwe
 
 ## Attributes
 
+### Inherited
+
 **id** (*string*): The unique identifier of the object.
 
 **uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
-
-### Inherited
 
 
 
@@ -31,6 +31,7 @@ An expression in a textual or formalised way of the transformation of data betwe
 ### Inherited
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 ## Referenced By

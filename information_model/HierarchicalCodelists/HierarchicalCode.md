@@ -12,6 +12,8 @@ A hierarchic structure of code references.
 
 ## Attributes
 
+### Inherited
+
 **validFrom** (*Date*): Date from which construct is valid.
 
 **validTo** (*Date*): Date from which construct is superceded.
@@ -21,8 +23,6 @@ A hierarchic structure of code references.
 **uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
-
-### Inherited
 
 
 
@@ -37,6 +37,7 @@ A hierarchic structure of code references.
 ### Inherited
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 ## Referenced By

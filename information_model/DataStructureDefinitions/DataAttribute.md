@@ -16,6 +16,8 @@ A characteristic of an object or entity.
 
 ## Attributes
 
+### Inherited
+
 **usageStatus** (*UsageStatus*): Defines the usage status which is constrained by the data type UsageStatus.
 
 **id** (*string*): The unique identifier of the object.
@@ -23,8 +25,6 @@ A characteristic of an object or entity.
 **uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
-
-### Inherited
 
 
 
@@ -37,8 +37,11 @@ A characteristic of an object or entity.
 ### Inherited
 
 **conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
+
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
+
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
 
 
 ## Referenced By

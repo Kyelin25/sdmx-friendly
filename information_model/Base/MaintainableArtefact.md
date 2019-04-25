@@ -28,6 +28,8 @@ An abstract class to group together primary structural metadata artefacts that a
 
 ## Attributes
 
+### Inherited
+
 **final** (*bool*): Defines whether a maintained artefact is draft or final.
 
 **isExternalReference** (*bool*): If set to "true" it indicates that the content of the object is held externally.
@@ -48,8 +50,6 @@ An abstract class to group together primary structural metadata artefacts that a
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
-### Inherited
-
 
 
 ## References
@@ -59,8 +59,11 @@ An abstract class to group together primary structural metadata artefacts that a
 ### Inherited
 
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
 **contains** ([Annotation](Annotation.md) - 0..*): No description
+
 
 
 

@@ -22,6 +22,8 @@ Comprises the cross product of values of all the KeyValues that, together with t
 
 **attachedAttribute** ([AttributeValue](AttributeValue.md) - 0..*): Association to the AttributeValues relating to the Series Key or Group Key.
 
+### Inherited
+
 
 
 

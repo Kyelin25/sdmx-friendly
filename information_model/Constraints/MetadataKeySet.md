@@ -14,11 +14,15 @@ A set of metadata keys.
 
 **isIncluded** (*bool*): Indicates whether the MetadataKeySet is included in the Constraint definition or excluded from the Constraint definition.
 
+### Inherited
+
 
 
 ## References
 
 **keys** ([MetadataKey](MetadataKey.md) - 1..*): Association to the MetadataKeys in the set.
+
+### Inherited
 
 
 

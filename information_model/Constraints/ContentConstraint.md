@@ -32,6 +32,8 @@ Defines a Constraint in terms of the content that can be found in data or metada
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -55,6 +57,8 @@ Defines a Constraint in terms of the content that can be found in data or metada
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+
+### Inherited
 
 
 

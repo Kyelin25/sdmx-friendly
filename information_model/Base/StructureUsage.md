@@ -38,6 +38,8 @@ An artefact whose components are described by a Structure. In concrete terms (su
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -51,6 +53,8 @@ An artefact whose components are described by a Structure. In concrete terms (su
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
 **contains** ([Annotation](Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

@@ -20,6 +20,8 @@ Associates the source and target codes in the HybridCodelistMap.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
+### Inherited
+
 
 
 ## Referenced By

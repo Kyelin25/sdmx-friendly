@@ -18,6 +18,8 @@ The target object is a DataSet.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -27,6 +29,8 @@ The target object is a DataSet.
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): Associates a Representation to the TargetObject that must be respected when the object is identified in any MetadataSet. This may be enumerated or non-enumerated.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

@@ -18,6 +18,8 @@ Defines the format for the content of the Component when reported in a DataSet o
 
 **facetValue** (*string*): 
 
+### Inherited
+
 
 
 

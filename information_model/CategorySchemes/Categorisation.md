@@ -18,6 +18,8 @@ Associates an IdentifiableArtefact with a Category.
 
 **categorisedBy** ([Category](Category.md) - 0..*): Associates the Category.
 
+### Inherited
+
 
 
 

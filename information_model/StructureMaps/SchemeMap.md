@@ -16,6 +16,8 @@ Associates an ItemSchemeMap.
 
 **contains** ([ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) - 1): No description
 
+### Inherited
+
 
 
 

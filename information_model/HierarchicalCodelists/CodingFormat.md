@@ -14,6 +14,8 @@ Specifies format information for Codes at this Level in the hierarchy such as wh
 
 **codingFormat** (*Facet*): The format describing the Codes at this Level.
 
+### Inherited
+
 
 
 

@@ -32,6 +32,8 @@ Abstract concept (i.e. the structure without any metadata) of a flow of metadata
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -49,6 +51,8 @@ Abstract concept (i.e. the structure without any metadata) of a flow of metadata
 **content** ([ContentConstraint](../Constraints/ContentConstraint.md) - 0..*): Associates the metadata that constrains the content to be found in a data or metadata source linked to the ConstrainableArtefact.
 
 **attachment** ([AttachmentConstraint](../Constraints/AttachmentConstraint.md) - 0..*): Associates the metadata that constrains the valid content of a ConstrainableArtefact to which metadata may be attached.
+
+### Inherited
 
 
 

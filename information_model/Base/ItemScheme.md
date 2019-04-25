@@ -46,6 +46,8 @@ The descriptive information for an arrangement or division of objects into group
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -59,6 +61,8 @@ The descriptive information for an arrangement or division of objects into group
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
 **contains** ([Annotation](Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

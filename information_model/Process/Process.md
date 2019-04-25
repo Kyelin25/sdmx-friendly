@@ -32,6 +32,8 @@ A scheme which defines or documents the operations performed on data or metadata
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -45,6 +47,8 @@ A scheme which defines or documents the operations performed on data or metadata
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

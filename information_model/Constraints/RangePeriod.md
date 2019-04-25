@@ -18,6 +18,8 @@ The start and end periods in a date range.
 
 **end** ([EndPeriod](EndPeriod.md) - 1): Association to the EndPeriod.
 
+### Inherited
+
 
 
 

@@ -22,6 +22,8 @@ A hierarchic structure of code references.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -33,6 +35,8 @@ A hierarchic structure of code references.
 **level** ([Level](Level.md) - 0..1): Association to a Level where levels have been defined for the Hierarchy.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

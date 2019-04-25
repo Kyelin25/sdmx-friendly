@@ -18,6 +18,8 @@ The schedule of publication or reporting of the data or metadata.
 
 **tolerance** (*duration*): Period after which data or metadata may be deemed late.
 
+### Inherited
+
 
 
 

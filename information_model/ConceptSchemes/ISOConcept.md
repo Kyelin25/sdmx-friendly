@@ -18,6 +18,8 @@ The identity of an ISO concept definition.
 
 **conceptID** (*string*): The identifier of the concept.
 
+### Inherited
+
 
 
 

@@ -24,6 +24,8 @@ A specific operation, performed on data or metadata in order to validate or to d
 
 **child** ([ProcessStep](ProcessStep.md) - 0..*): Association to child ProcessSteps that combine to form a part of this ProcessStep.
 
+### Inherited
+
 
 
 ## Referenced By

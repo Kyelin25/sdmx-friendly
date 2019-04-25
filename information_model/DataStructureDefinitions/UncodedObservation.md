@@ -14,6 +14,8 @@ An observation that has a text value.
 
 **value** (*string*): The value of the UncodedObservation.
 
+### Inherited
+
 
 
 

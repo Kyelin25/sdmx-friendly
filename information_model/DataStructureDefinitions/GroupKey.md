@@ -22,6 +22,8 @@ A set of KeyValues that comprise a partial key, of the same dimensionality as th
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
+### Inherited
+
 
 
 

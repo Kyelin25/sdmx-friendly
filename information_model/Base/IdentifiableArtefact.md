@@ -28,11 +28,15 @@ Provides identity to all derived classes. It also provides Annotations to derive
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
 
 **contains** ([Annotation](Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

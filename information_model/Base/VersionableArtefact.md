@@ -28,6 +28,8 @@ Provides versioning information for all derived objects.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -37,6 +39,8 @@ Provides versioning information for all derived objects.
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
 **contains** ([Annotation](Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

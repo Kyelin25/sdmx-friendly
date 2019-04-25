@@ -22,6 +22,8 @@ The value of the observed phenomenon in the context of the KeyValues comprising 
 
 **contains** ([ObservationValue](ObservationValue.md) - 1): The ObservationValue contained in this Observation.
 
+### Inherited
+
 
 
 ## Referenced By

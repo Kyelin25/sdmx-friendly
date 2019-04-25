@@ -24,6 +24,8 @@ A characteristic of an object or entity.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -37,6 +39,8 @@ A characteristic of an object or entity.
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

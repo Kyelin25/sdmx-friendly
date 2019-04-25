@@ -18,6 +18,8 @@ A set of metadata concepts that define a partial key derived from the DimensionD
 
 **components** ([Dimension](Dimension.md) - 0..*): An association to the Dimension and MeasureDimension components that comprise the group.
 
+### Inherited
+
 
 
 ## Referenced By

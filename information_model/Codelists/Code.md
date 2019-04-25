@@ -18,6 +18,8 @@ A language independent set of letters, numbers of symbols that represent a conce
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -29,6 +31,8 @@ A language independent set of letters, numbers of symbols that represent a conce
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

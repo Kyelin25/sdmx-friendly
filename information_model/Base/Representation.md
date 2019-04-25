@@ -20,6 +20,8 @@ The allowable value or format for Component or Concept.
 
 **nonEnumerated** ([ExtendedFacet](ExtendedFacet.md) - 0..*): Association to a set of Facets that define the allowable format for the content of the Component when reported in a DataSet or MetadataSet.
 
+### Inherited
+
 
 
 ## Referenced By

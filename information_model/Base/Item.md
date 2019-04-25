@@ -30,6 +30,8 @@ The Item is an item of content in an ItemScheme. This may be a node in a taxonom
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -41,6 +43,8 @@ The Item is an item of content in an ItemScheme. This may be a node in a taxonom
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
 **contains** ([Annotation](Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

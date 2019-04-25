@@ -20,6 +20,8 @@ Describes in textual form the computations involved in the process.
 
 **softwareVersion** (*string*): Together with softwarePackage and softwareLanguage provides information about the software that is used to perform the Computation.
 
+### Inherited
+
 
 
 ## References
@@ -27,6 +29,8 @@ Describes in textual form the computations involved in the process.
 **description** ([InternationalString](../Base/InternationalString.md) - 1..*): Text describing of giving additional information about the Computation. This can be in multiple language variants.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

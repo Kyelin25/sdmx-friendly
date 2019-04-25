@@ -16,6 +16,8 @@ A set of metadata concepts that define the attributes of a DataStructureDefiniti
 
 **components** ([DataAttribute](DataAttribute.md) - 1..*): An association to DataAttribute components.
 
+### Inherited
+
 
 
 

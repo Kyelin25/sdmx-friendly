@@ -15,6 +15,8 @@ Inherits from: [AttributeRelationship](AttributeRelationship.md)
 
 **groupKey** ([GroupDimensionDescriptor](GroupDimensionDescriptor.md) - 0..*): Association to the GroupDimensionDescriptor which specifies the set of Dimensions to which the DataAttribute is attached.
 
+### Inherited
+
 
 
 

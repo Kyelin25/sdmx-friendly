@@ -20,11 +20,15 @@ Additional descriptive information attached to an object.
 
 **url** (*string*): A link to external descriptive text.
 
+### Inherited
+
 
 
 ## References
 
 **text** ([InternationalString](InternationalString.md) - 0..1): An InternationalString provides the multilingual text content of the Annotation via this role.
+
+### Inherited
 
 
 

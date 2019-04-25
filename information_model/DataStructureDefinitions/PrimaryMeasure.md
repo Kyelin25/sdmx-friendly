@@ -18,6 +18,8 @@ The metadata concept that is the phenomenon to be measured in a data set. In a d
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -27,6 +29,8 @@ The metadata concept that is the phenomenon to be measured in a data set. In a d
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

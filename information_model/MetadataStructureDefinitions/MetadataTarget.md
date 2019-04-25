@@ -16,6 +16,8 @@ A set of components that define a key of an object type to which metadata may be
 
 **components** ([TargetObject](TargetObject.md) - 0..*): Associates the TargetObject components that define the key of the MetadataTarget.
 
+### Inherited
+
 
 
 ## Referenced By

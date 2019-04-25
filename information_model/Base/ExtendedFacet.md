@@ -18,6 +18,8 @@ This has the same function as Facet, but allows additionally an XHTML representa
 
 **facetValue** (*string*): 
 
+### Inherited
+
 
 
 

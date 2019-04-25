@@ -18,6 +18,8 @@ An expression in a textual or formalised way of the transformation of data betwe
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -27,6 +29,8 @@ An expression in a textual or formalised way of the transformation of data betwe
 **condition** ([InternationalString](../Base/InternationalString.md) - 1): Associates a textual description of the Transition.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

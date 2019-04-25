@@ -20,6 +20,8 @@ Associates a source and target Organisation.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
+### Inherited
+
 
 
 

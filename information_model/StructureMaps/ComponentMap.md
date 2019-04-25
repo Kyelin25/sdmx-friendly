@@ -16,6 +16,8 @@ Links a source and target Component where there is a semantic equivalence betwee
 
 **preferredLanguage** (*string*): Specifies the language to use for the content of the ToTextFormat option of RepresentationMap.
 
+### Inherited
+
 
 
 ## References
@@ -27,6 +29,8 @@ Links a source and target Component where there is a semantic equivalence betwee
 **contentMap** ([RepresentationMapping](RepresentationMapping.md) - 0..1): Association to the constructs that map the content of the Components - this will be either one of the subclasses of ItemScheme or a mapping to text.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

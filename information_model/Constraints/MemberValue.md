@@ -16,6 +16,8 @@ A single value of the set of values for the MemberSelection.
 
 **cascadeValues** (*bool*): Indicates that the child nodes of the member are included in the MemberSelection (e.g. child Codes).
 
+### Inherited
+
 
 
 

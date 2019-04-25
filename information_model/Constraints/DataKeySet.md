@@ -14,11 +14,15 @@ A set of data keys.
 
 **isIncluded** (*bool*): Indicates whether the DataKeySet is included in the Constraint definition of excluded from the Constraint definition.
 
+### Inherited
+
 
 
 ## References
 
 **keys** ([DataKey](DataKey.md) - 1..*): Association to the DataKeys in the set.
+
+### Inherited
 
 
 

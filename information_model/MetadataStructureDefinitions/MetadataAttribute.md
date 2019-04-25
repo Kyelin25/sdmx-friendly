@@ -24,6 +24,8 @@ Identifies a Concept for which a value may be reported in a MetadataSet.
 
 **urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
+### Inherited
+
 
 
 ## References
@@ -35,6 +37,8 @@ Identifies a Concept for which a value may be reported in a MetadataSet.
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): Associates a Representation to the TargetObject that must be respected when the object is identified in any MetadataSet. This may be enumerated or non-enumerated.
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+
+### Inherited
 
 
 

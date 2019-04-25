@@ -14,6 +14,8 @@ Collectively contain the identification of the components and the values that fo
 
 **value** (*string*): The key value.
 
+### Inherited
+
 
 
 ## References
@@ -21,6 +23,8 @@ Collectively contain the identification of the components and the values that fo
 **valueFor** ([Component](../Base/Component.md) - 1): Associates the Component for which the value is declared.
 
 **contains** ([TimeDimensionValue](TimeDimensionValue.md) - 0..*): TimeDimension values.
+
+### Inherited
 
 
 

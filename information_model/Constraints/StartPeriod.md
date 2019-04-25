@@ -16,6 +16,8 @@ The period from which the constrained selection is valid.
 
 **period** (*ObservationalTimePeriod*): The period in question.
 
+### Inherited
+
 
 
 

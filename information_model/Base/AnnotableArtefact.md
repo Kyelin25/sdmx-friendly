@@ -30,6 +30,8 @@ Objects of classes derived from this can have attached annotations.
 
 **contains** ([Annotation](Annotation.md) - 0..*): No description
 
+### Inherited
+
 
 
 

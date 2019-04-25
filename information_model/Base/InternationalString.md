@@ -16,6 +16,8 @@ A collection of LocalisedStrings.
 
 **contains** ([LocalisedString](LocalisedString.md) - 0..*): No description
 
+### Inherited
+
 
 
 ## Referenced By

@@ -18,6 +18,8 @@ Defines a set of concepts that comprises the MetadataAttributes to be reported.
 
 **components** ([MetadataAttribute](MetadataAttribute.md) - 0..*): An association to the MetadataAttributes relevant to the ReportStructure.
 
+### Inherited
+
 
 
 ## Referenced By

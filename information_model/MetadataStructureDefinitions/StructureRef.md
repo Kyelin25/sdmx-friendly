@@ -14,11 +14,15 @@ Contains the identification of an IdentifiableArtefact.
 
 **structureType** (*IdentifiableObjectType*): The object type of the target object.
 
+### Inherited
+
 
 
 ## References
 
 **contains** ([MaintainableArtefactRef](MaintainableArtefactRef.md) - 1): The reference identifying the IdentifiableArtefact.
+
+### Inherited
 
 
 

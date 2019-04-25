@@ -16,6 +16,8 @@ A set of dates that constrain the content that may be found in a DataSet or Meta
 
 **endDate** (*Date*): The end date of the period.
 
+### Inherited
+
 
 
 

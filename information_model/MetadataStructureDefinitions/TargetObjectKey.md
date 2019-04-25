@@ -18,6 +18,8 @@ Identifies the key of the object to which the metadata are to be attached.
 
 **keyValues** ([TargetObjectValue](TargetObjectValue.md) - 1..*): Associates the TargetObjectValues of the TargetObjectKey.
 
+### Inherited
+
 
 
 ## Referenced By

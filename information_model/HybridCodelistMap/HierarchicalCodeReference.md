@@ -18,6 +18,8 @@ References both the Hierarchy and the HierarchicalCode in a HierarchicalCodelist
 
 **codeAssociation** ([HierarchicalCode](../HierarchicalCodelists/HierarchicalCode.md) - 1): Associates the HierarchicalCode in the HierarchicalCodelist.
 
+### Inherited
+
 
 
 ## Referenced By

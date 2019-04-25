@@ -26,6 +26,8 @@ The key of an individual object of the type specified in the MetadataTarget of t
 
 **valueFor** ([TargetObject](TargetObject.md) - 1): Associates the TargetObject for which this value is provided. Note that this is a conceptual association showing the link to the MetadataStructureDefinition construct.
 
+### Inherited
+
 
 
 ## Referenced By

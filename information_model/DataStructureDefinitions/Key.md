@@ -26,6 +26,8 @@ Comprises the cross product of values of dimensions that identify uniquely an Ob
 
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
+### Inherited
+
 
 
 

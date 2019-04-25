@@ -24,6 +24,8 @@ The value for a MetadataAttribute.
 
 **child** ([ReportedAttribute](ReportedAttribute.md) - 0..*): Association to a child ReportedAttribute consistent with the hierarchy defined in the ReportStructure for the MetadataAttribute for which this child is a ReportedAttribute.
 
+### Inherited
+
 
 
 ## Referenced By

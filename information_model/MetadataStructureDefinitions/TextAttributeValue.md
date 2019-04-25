@@ -20,6 +20,8 @@ The value of a ReportedAttribute where the content is human-readable text.
 
 **child** ([ReportedAttribute](ReportedAttribute.md) - 0..*): Association to a child ReportedAttribute consistent with the hierarchy defined in the ReportStructure for the MetadataAttribute for which this child is a ReportedAttribute.
 
+### Inherited
+
 
 
 

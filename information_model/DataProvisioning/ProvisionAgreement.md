@@ -24,6 +24,8 @@ Links the DataProvider to the relevant StructureUsage (e.g. DataflowDefinition o
 
 **attachment** ([AttachmentConstraint](../Constraints/AttachmentConstraint.md) - 0..*): Associates the metadata that constrains the valid content of a ConstrainableArtefact to which metadata may be attached.
 
+### Inherited
+
 
 
 

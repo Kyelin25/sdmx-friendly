@@ -20,6 +20,8 @@ A set of values for MetadataAttributes defined in a ReportStructure of a Metadat
 
 **metadata** ([ReportedAttribute](ReportedAttribute.md) - 1..*): Associates the ReportedAttribute values which are to be associated with the object of objects identified by the TargetObjectKey.
 
+### Inherited
+
 
 
 ## Referenced By

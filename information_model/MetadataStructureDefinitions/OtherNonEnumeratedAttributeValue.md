@@ -12,7 +12,7 @@ The value of a ReportedAttribute where the content is not of human-readable text
 
 ## Attributes
 
-value: string
+**value** (*string*): A text string that is consistent in format to that defined in the Representation of the MetadataAttribute for which this is a ReportedAttribute.
 
 
 

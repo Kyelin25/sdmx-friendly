@@ -12,7 +12,7 @@ Specifies the way the type of content of a Constraint in terms of its purpose.
 
 ## Attributes
 
-role: ConstraintRoleType
+**role** (*ConstraintRoleType*): The type of the Constraint.
 
 
 

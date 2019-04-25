@@ -12,7 +12,7 @@ The content of a ReportedAttribute that is taken from a Code in a Codelist.
 
 ## Attributes
 
-value: string
+**value** (*string*): The Code value of the ReportedAttribute.
 
 
 

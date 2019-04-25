@@ -12,13 +12,13 @@ A specialised DataAttribute whose value is used in conjunction with the predefin
 
 ## Attributes
 
-usageStatus: UsageStatus
+**usageStatus** (*UsageStatus*): Defines the usage status which is constrained by the data type UsageStatus.
 
-id: string
+**id** (*string*): The unique identifier of the object.
 
-uri: Url
+**uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
-urn: Urn
+**urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
 
 

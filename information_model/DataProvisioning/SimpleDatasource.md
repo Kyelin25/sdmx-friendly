@@ -12,7 +12,7 @@ An SDMX-ML Dataset accessible as a file at a URL.
 
 ## Attributes
 
-sourceURL: Url
+**sourceURL** (*Url*): The URL of the data or reference metadata source (a file or a web service).
 
 
 

@@ -12,23 +12,23 @@ A data format structure that is able to contain data corresponding to any DataSt
 
 ## Attributes
 
-reportingBegin: Date
+**reportingBegin** (*Date*): A specific time period in a known system of time periods that identifies the start period of a report.
 
-reportingEnd: Date
+**reportingEnd** (*Date*): A specific time period in a known system of time periods that identifies the end period of a report.
 
-dataExtractionDate: Date
+**dataExtractionDate** (*Date*): A specific time period that identifies the date and time that the data are extracted from a data source.
 
-validFrom: Date
+**validFrom** (*Date*): Indicates the inclusive start time indicating the validity of the information in the DataSet.
 
-validTo: Date
+**validTo** (*Date*): Indicates the inclusive end time indicating the validity of the information in the DataSet.
 
-publicationYear: Date
+**publicationYear** (*Date*): Specifies the year of publication of the data or metadata in terms of whatever provisioning agreements might be in force.
 
-publicationPeriod: Date
+**publicationPeriod** (*Date*): Specifies the period of publication of the data or metadata in terms of whatever provisioning agreements might be in force.
 
-setId: string
+**setId** (*string*): Provides an identification of the DataSet.
 
-action: ActionType
+**action** (*ActionType*): Defines the action to be taken by the recipient system (update, append, delete).
 
 
 

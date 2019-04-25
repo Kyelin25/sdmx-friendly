@@ -12,9 +12,9 @@ Links a source and target Component where there is a semantic equivalence betwee
 
 ## Attributes
 
-alias: string
+**alias** (*string*): An alternate identification of the map, that allows relation of multiple maps to be expressed by the sharing of this value.
 
-preferredLanguage: string
+**preferredLanguage** (*string*): Specifies the language to use for the content of the ToTextFormat option of RepresentationMap.
 
 
 

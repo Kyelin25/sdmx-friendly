@@ -12,7 +12,7 @@ Contains the identification of a DataSet.
 
 ## Attributes
 
-id: string
+**id** (*string*): The identifier of the DataSet.
 
 
 

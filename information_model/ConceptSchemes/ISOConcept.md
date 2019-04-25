@@ -12,11 +12,11 @@ The identity of an ISO concept definition.
 
 ## Attributes
 
-conceptAgency: string
+**conceptAgency** (*string*): The maintenance agency of the concept scheme containing the concept.
 
-conceptSchemeID: string
+**conceptSchemeID** (*string*): The identifier of the concept scheme.
 
-conceptID: string
+**conceptID** (*string*): The identifier of the concept.
 
 
 

@@ -12,7 +12,7 @@ A set of data keys.
 
 ## Attributes
 
-isIncluded: bool
+**isIncluded** (*bool*): Indicates whether the DataKeySet is included in the Constraint definition of excluded from the Constraint definition.
 
 
 

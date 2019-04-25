@@ -12,9 +12,9 @@ An AttributeValue that has a text value.
 
 ## Attributes
 
-startTime: Date
+**startTime** (*Date*): This attribute is only used if the textFormat of the Attribute is of the Timespan type in the DataStructureDefinition (in which case the value field takes a duration).
 
-value: string
+**value** (*string*): The value of the attribute.
 
 
 

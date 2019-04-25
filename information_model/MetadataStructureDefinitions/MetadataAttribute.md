@@ -12,17 +12,17 @@ Identifies a Concept for which a value may be reported in a MetadataSet.
 
 ## Attributes
 
-isPresentational: bool
+**isPresentational** (*bool*): Indication that the MetadataAttribute is present for structural purposes (i.e. it has child attributes) and that no value for this attribute is expected to be reported in a MetadataSet using this ReportStructure.
 
-minOccurs: int
+**minOccurs** (*int*): Specifies how many occurrences of the MetadataAttribute may be reported at this point in the MetadataReport.
 
-maxOccurs: int
+**maxOccurs** (*int*): Specifies how many occurrences of the MetadataAttribute may be reported at this point in the MetadataReport.
 
-id: string
+**id** (*string*): The unique identifier of the object.
 
-uri: Url
+**uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
-urn: Urn
+**urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
 
 

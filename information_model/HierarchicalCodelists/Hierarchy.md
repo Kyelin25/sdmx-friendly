@@ -12,13 +12,13 @@ A classification structure arranged in levels of detail from the broadest to the
 
 ## Attributes
 
-hasFormalLevels: bool
+**hasFormalLevels** (*bool*): If "true" this indicates a hierarchy where the structure is arranged in the levels of detail from the broadest to the most detailed level. If "false" this indicates a hierarchy structure where the items in the hierarchy have no formal level structure.
 
-id: string
+**id** (*string*): The unique identifier of the object.
 
-uri: Url
+**uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
-urn: Urn
+**urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
 
 

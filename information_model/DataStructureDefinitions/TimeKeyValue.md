@@ -12,7 +12,7 @@ The value of the TimeDimension component of the Key.
 
 ## Attributes
 
-timeValue: ObservationalTimePeriod
+**timeValue** (*ObservationalTimePeriod*): The value of the TimeDimension component of the Key.
 
 
 

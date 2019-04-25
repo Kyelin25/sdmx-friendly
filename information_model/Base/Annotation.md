@@ -12,13 +12,13 @@ Additional descriptive information attached to an object.
 
 ## Attributes
 
-id: string
+**id** (*string*): Identifier for the Annotation. It can be used to disambiguate one Annotation from another when there are several Annotations for the same annotated object.
 
-title: string
+**title** (*string*): A title used to identify an Annotation.
 
-type: string
+**type** (*string*): Specifies how the Annotation is to be processed.
 
-url: string
+**url** (*string*): A link to external descriptive text.
 
 
 

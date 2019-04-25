@@ -16,11 +16,11 @@ Identification of the target object by means of its identifier constructs i.e. a
 
 ## Attributes
 
-agencyID: string
+**agencyID** (*string*): The AgencyID of the referenced object.
 
-id: string
+**id** (*string*): The id of the referenced object.
 
-version: string
+**version** (*string*): The version of the referenced object.
 
 
 

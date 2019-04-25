@@ -12,29 +12,29 @@ Any organised collection of metadata.
 
 ## Attributes
 
-reportingBegin: Date
+**reportingBegin** (*Date*): A specific time period in a known system of time periods that identifies the start period of a report.
 
-reportingEnd: Date
+**reportingEnd** (*Date*): A specific time period in a known system of time periods that identifies the end period of a report.
 
-dataExtractionDate: Date
+**dataExtractionDate** (*Date*): A specific time period that identifies the date and time that the metadata are extracted from a metadata source.
 
-validFrom: Date
+**validFrom** (*Date*): Indicates the inclusive start time indicating the validity of the information in the MetadataSet.
 
-validTo: Date
+**validTo** (*Date*): Indicates the inclusive end t ime indicating the validity of the information in the MetadataSet.
 
-publicationYear: Date
+**publicationYear** (*Date*): Specifies the year of publication of the data or metadata in terms of whatever provisioning agreements might be in force.
 
-publicationPeriod: Date
+**publicationPeriod** (*Date*): Specifies the period of publication of the data or metdata in terms of whatever provisioning agreements might be in force.
 
-setId: string
+**setId** (*string*): Provides an identification of the MetadataSet.
 
-action: ActionType
+**action** (*ActionType*): Defines the action to be taken by the recipient system (update, replace, delete).
 
-id: string
+**id** (*string*): The unique identifier of the object.
 
-uri: Url
+**uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
-urn: Urn
+**urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
 
 

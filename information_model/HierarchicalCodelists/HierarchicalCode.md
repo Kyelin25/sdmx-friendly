@@ -12,15 +12,15 @@ A hierarchic structure of code references.
 
 ## Attributes
 
-validFrom: Date
+**validFrom** (*Date*): Date from which construct is valid.
 
-validTo: Date
+**validTo** (*Date*): Date from which construct is superceded.
 
-id: string
+**id** (*string*): The unique identifier of the object.
 
-uri: Url
+**uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
-urn: Urn
+**urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
 
 

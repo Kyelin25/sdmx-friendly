@@ -12,7 +12,7 @@ This contains XHTML.
 
 ## Attributes
 
-value: string
+**value** (*string*): The string value of the XHTML.
 
 
 

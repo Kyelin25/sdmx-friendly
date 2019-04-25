@@ -12,13 +12,13 @@ Associates a Codelist and a HierarchicalCodelist.
 
 ## Attributes
 
-alias: string
+**alias** (*string*): An alternate identification of the map, that allows the relation of multiple maps to be expressed by the sharing of this value.
 
-id: string
+**id** (*string*): The unique identifier of the object.
 
-uri: Url
+**uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
-urn: Urn
+**urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
 
 

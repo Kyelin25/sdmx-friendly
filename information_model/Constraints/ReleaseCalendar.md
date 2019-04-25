@@ -12,11 +12,11 @@ The schedule of publication or reporting of the data or metadata.
 
 ## Attributes
 
-periodicity: duration
+**periodicity** (*duration*): The time period between the releases of the data or metadata.
 
-offset: duration
+**offset** (*duration*): Interval between January 1st and the first release of the data.
 
-tolerance: duration
+**tolerance** (*duration*): Period after which data or metadata may be deemed late.
 
 
 

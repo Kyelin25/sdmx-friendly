@@ -12,7 +12,7 @@ A set of Components and their values that defines a subset or "slice" of the tot
 
 ## Attributes
 
-isIncluded: bool
+**isIncluded** (*bool*): Indicates whether the MetadataTargetRegion is included in the Constraint definition or excluded from the Constraint definition.
 
 
 

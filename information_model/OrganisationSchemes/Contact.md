@@ -12,19 +12,19 @@ An instance of a role of an individual or an Organisation (or Organisation part 
 
 ## Attributes
 
-name: string
+**name** (*string*): The designation of the Contact person by a linguistic expression.
 
-organisationUnit: string
+**organisationUnit** (*string*): The designation of the organisational structure by a linguistic expression, within which Contact person works.
 
-telephone: string
+**telephone** (*string*): The telephone number of the Contact.
 
-fax: string
+**fax** (*string*): The fax number of the Contact.
 
-email: string
+**email** (*string*): The Internet e-mail address of the Contact.
 
-X400: string
+**X400** (*string*): The X400 address of the Contact
 
-uri: Uri
+**uri** (*Uri*): The URL address of the Contact.
 
 
 

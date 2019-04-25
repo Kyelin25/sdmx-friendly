@@ -12,7 +12,7 @@ Contains the period covered by the MetadataReport.
 
 ## Attributes
 
-reportPeriod: string
+**reportPeriod** (*string*): The report period.
 
 
 

@@ -12,9 +12,9 @@ A data or reference metadata source that is accessible via a RESTful web service
 
 ## Attributes
 
-WSDLURL: Url
+**WSDLURL** (*Url*): Association to the URL of the Web Service Definition Language (SOAP) or Web Service Application Language (REST) profile of the web service.
 
-sourceURL: Url
+**sourceURL** (*Url*): The URL of the data or reference metadata source (a file or a web service).
 
 
 

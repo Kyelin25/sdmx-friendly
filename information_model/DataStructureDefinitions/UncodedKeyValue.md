@@ -12,9 +12,9 @@ The value of an uncoded component of the Key.
 
 ## Attributes
 
-value: string
+**value** (*string*): The value of the key component.
 
-startTime: Date
+**startTime** (*Date*): This attribute is only used if the textFormat of the attribute is of the Timespan type in the DataStructureDefinition (in which case the value field takes a duration).
 
 
 

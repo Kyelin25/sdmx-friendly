@@ -12,25 +12,25 @@ Abstract concept (i.e. the structure without any metadata) of a flow of metadata
 
 ## Attributes
 
-final: bool
+**final** (*bool*): Defines whether a maintained artefact is draft or final.
 
-isExternalReference: bool
+**isExternalReference** (*bool*): If set to "true" it indicates that the content of the object is held externally.
 
-serviceUrl: Url
+**serviceUrl** (*Url*): The URL of an SDMX-compliant web service from which the external object can be retrieved.
 
-structureUrl: Url
+**structureUrl** (*Url*): The URL of an SDMX-ML document containing the external object
 
-version: string
+**version** (*string*): A version string following an agreed convention.
 
-validFrom: Date
+**validFrom** (*Date*): Date from which the version is valid.
 
-validTo: Date
+**validTo** (*Date*): Date from which version is superceded.
 
-id: string
+**id** (*string*): The unique identifier of the object.
 
-uri: Url
+**uri** (*Url*): Universal resource identifiers that may or may not be resolvable.
 
-urn: Urn
+**urn** (*Urn*): Universal resource name - this is for use in registries: all registered objects have a urn.
 
 
 

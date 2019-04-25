@@ -12,7 +12,7 @@ An observation that has a text value.
 
 ## Attributes
 
-value: string
+**value** (*string*): The value of the UncodedObservation.
 
 
 

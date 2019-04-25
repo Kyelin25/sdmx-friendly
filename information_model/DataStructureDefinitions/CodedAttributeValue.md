@@ -12,7 +12,7 @@ An Attribute that takes its value from a Code in a Codelist.
 
 ## Attributes
 
-value: string
+**value** (*string*): The value of the attribute.
 
 
 

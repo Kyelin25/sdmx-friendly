@@ -12,7 +12,7 @@ Collectively contain the identification of the components and the values that fo
 
 ## Attributes
 
-value: string
+**value** (*string*): The key value.
 
 
 

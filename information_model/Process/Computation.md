@@ -12,13 +12,13 @@ Describes in textual form the computations involved in the process.
 
 ## Attributes
 
-localId: string
+**localId** (*string*): Distinguishes between Computations in the same Process.
 
-softwarePackage: string
+**softwarePackage** (*string*): Together with softwareLanguage and softwareVersion provides information about the software that is used to perform the Computation.
 
-softwareLanguage: string
+**softwareLanguage** (*string*): Together with softwarePackage and softwareVersion provides information about the software that is used to perform the Computation.
 
-softwareVersion: string
+**softwareVersion** (*string*): Together with softwarePackage and softwareLanguage provides information about the software that is used to perform the Computation.
 
 
 

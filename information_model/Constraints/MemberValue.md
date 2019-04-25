@@ -12,9 +12,9 @@ A single value of the set of values for the MemberSelection.
 
 ## Attributes
 
-value: string
+**value** (*string*): A value of the member.
 
-cascadeValues: bool
+**cascadeValues** (*bool*): Indicates that the child nodes of the member are included in the MemberSelection (e.g. child Codes).
 
 
 

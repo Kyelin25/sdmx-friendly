@@ -12,9 +12,9 @@ The period after which the constrained selection is valid.
 
 ## Attributes
 
-isInclusive: bool
+**isInclusive** (*bool*): Indication of whether the date is inclusive in the period.
 
-period: ObservationalTimePeriod
+**period** (*ObservationalTimePeriod*): The period in question.
 
 
 

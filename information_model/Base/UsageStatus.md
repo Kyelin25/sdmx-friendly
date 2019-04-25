@@ -12,8 +12,8 @@ Used as a data type on a DataAttribute where the value of the attribute in an in
 
 ## Values
 
-**mandatory** (*string*): None given.
+**mandatory** (*string*): No description found.
 
-**conditional** (*string*): None given.
+**conditional** (*string*): No description found.
 
 

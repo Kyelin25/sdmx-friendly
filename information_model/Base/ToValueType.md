@@ -12,10 +12,10 @@ Contains attributes used to support transformations defined in a StructureMap.
 
 ## Values
 
-**name** (*string*): None given.
+**name** (*string*): No description found.
 
-**description** (*string*): None given.
+**description** (*string*): No description found.
 
-**id** (*string*): None given.
+**id** (*string*): No description found.
 
 

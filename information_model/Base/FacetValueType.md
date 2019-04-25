@@ -16,88 +16,88 @@ Used along with FacetType to specify the valid format of the content of a non-en
 
 ## Values
 
-**string**: None given.
+**string**: No description found.
 
-**bigInteger**: None given.
+**bigInteger**: No description found.
 
-**integer**: None given.
+**integer**: No description found.
 
-**long**: None given.
+**long**: No description found.
 
-**short**: None given.
+**short**: No description found.
 
-**decimal**: None given.
+**decimal**: No description found.
 
-**float**: None given.
+**float**: No description found.
 
-**double**: None given.
+**double**: No description found.
 
-**boolean**: None given.
+**boolean**: No description found.
 
-**uri**: None given.
+**uri**: No description found.
 
-**count**: None given.
+**count**: No description found.
 
-**inclusiveValueRange**: None given.
+**inclusiveValueRange**: No description found.
 
-**alpha**: None given.
+**alpha**: No description found.
 
-**alphaNumeric**: None given.
+**alphaNumeric**: No description found.
 
-**numeric**: None given.
+**numeric**: No description found.
 
-**exclusiveValueRange**: None given.
+**exclusiveValueRange**: No description found.
 
-**incremental**: None given.
+**incremental**: No description found.
 
-**observationalTimePeriod**: None given.
+**observationalTimePeriod**: No description found.
 
-**standardTimePeriod**: None given.
+**standardTimePeriod**: No description found.
 
-**basicTimePeriod**: None given.
+**basicTimePeriod**: No description found.
 
-**standardTimePeriod**: None given.
+**standardTimePeriod**: No description found.
 
-**gregorianTimePeriod**: None given.
+**gregorianTimePeriod**: No description found.
 
-**gregorianYearMonth**: None given.
+**gregorianYearMonth**: No description found.
 
-**gregorianDay**: None given.
+**gregorianDay**: No description found.
 
-**reportingTimePeriod**: None given.
+**reportingTimePeriod**: No description found.
 
-**reportingYear**: None given.
+**reportingYear**: No description found.
 
-**reportingSemester**: None given.
+**reportingSemester**: No description found.
 
-**reportingTrimester**: None given.
+**reportingTrimester**: No description found.
 
-**reportingQuarter**: None given.
+**reportingQuarter**: No description found.
 
-**reportingMonth**: None given.
+**reportingMonth**: No description found.
 
-**reportingWeek**: None given.
+**reportingWeek**: No description found.
 
-**reportingDay**: None given.
+**reportingDay**: No description found.
 
-**dateTime**: None given.
+**dateTime**: No description found.
 
-**timesRange**: None given.
+**timesRange**: No description found.
 
-**month**: None given.
+**month**: No description found.
 
-**monthDay**: None given.
+**monthDay**: No description found.
 
-**day**: None given.
+**day**: No description found.
 
-**time**: None given.
+**time**: No description found.
 
-**duration**: None given.
+**duration**: No description found.
 
-**keyValues**: None given.
+**keyValues**: No description found.
 
-**identifiableReference**: None given.
+**identifiableReference**: No description found.
 
-**dataSetReference**: None given.
+**dataSetReference**: No description found.
 
 

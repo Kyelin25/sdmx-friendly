@@ -12,8 +12,8 @@ Contains the attributes that identify the purpose of a Constraint (allowableCont
 
 ## Values
 
-**allowableContent** (*string*): None given.
+**allowableContent** (*string*): No description found.
 
-**actualContent** (*string*): None given.
+**actualContent** (*string*): No description found.
 
 

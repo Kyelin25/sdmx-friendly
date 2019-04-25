@@ -9,6 +9,6 @@ Inherits from: [FacetValueType](FacetValueType.md)
 
 ## Values
 
-**Xhtml** (*string*): None given.
+**Xhtml** (*string*): No description found.
 
 

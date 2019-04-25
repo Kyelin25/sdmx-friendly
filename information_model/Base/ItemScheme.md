@@ -52,18 +52,13 @@ The descriptive information for an arrangement or division of objects into group
 
 ## References
 
-**items** ([Item](Item.md) - 0..*): Association to the Items in the scheme.
-
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
-
-**name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**items** ([Item](Item.md) - 0..*): Association to the Items in the scheme.
+**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](Annotation.md) - 0..*): No description
 
 
 ## Referenced By

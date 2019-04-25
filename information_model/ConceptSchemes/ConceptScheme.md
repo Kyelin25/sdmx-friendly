@@ -40,18 +40,13 @@ The descriptive information for an arrangement or division of concepts into grou
 
 ## References
 
-**items** ([Concept](Concept.md) - 0..*): Association to the Concepts in the ConceptScheme.
-
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
-
-**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**items** ([Concept](Concept.md) - 0..*): Association to the Concepts in the ConceptScheme.
+**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 ## Referenced By

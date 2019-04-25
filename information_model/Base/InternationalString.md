@@ -14,10 +14,9 @@ A collection of LocalisedStrings.
 
 ## References
 
-**contains** ([LocalisedString](LocalisedString.md) - 0..*): No description
-
 ### Inherited
 
+**contains** ([LocalisedString](LocalisedString.md) - 0..*): No description
 
 
 ## Referenced By

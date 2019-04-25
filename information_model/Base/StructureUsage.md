@@ -44,18 +44,13 @@ An artefact whose components are described by a Structure. In concrete terms (su
 
 ## References
 
-**structure** ([Structure](Structure.md) - 0..*): An association to a Structure specifying the structure of the artefact.
-
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
-
-**name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**structure** ([Structure](Structure.md) - 0..*): An association to a Structure specifying the structure of the artefact.
+**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](Annotation.md) - 0..*): No description
 
 
 ## Referenced By

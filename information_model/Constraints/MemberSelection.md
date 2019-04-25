@@ -20,12 +20,10 @@ A set of permissible values for one component of the axis.
 
 ## References
 
-**valuesFor** ([Component](../Base/Component.md) - 1): Association to the Component in the Structure to which the ConstrainableArtefact is linked, which defines the valid Representation for the MemberValues.
-
-**contains** ([SelectionValue](SelectionValue.md) - 0..*): The SelectionValues contained by this MemberSelection.
-
 ### Inherited
 
+**valuesFor** ([Component](../Base/Component.md) - 1): Association to the Component in the Structure to which the ConstrainableArtefact is linked, which defines the valid Representation for the MemberValues.
+**contains** ([SelectionValue](SelectionValue.md) - 0..*): The SelectionValues contained by this MemberSelection.
 
 
 ## Referenced By

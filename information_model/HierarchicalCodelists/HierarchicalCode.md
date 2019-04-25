@@ -28,16 +28,12 @@ A hierarchic structure of code references.
 
 ## References
 
-**code** ([Code](../Codelists/Code.md) - 1): Association to the Code that is used at the specific point in the hierarchy.
-
-**child** ([HierarchicalCode](HierarchicalCode.md) - 0..*): Association to a child Code in the hierarchy.
-
-**level** ([Level](Level.md) - 0..1): Association to a Level where levels have been defined for the Hierarchy.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**code** ([Code](../Codelists/Code.md) - 1): Association to the Code that is used at the specific point in the hierarchy.
+**child** ([HierarchicalCode](HierarchicalCode.md) - 0..*): Association to a child Code in the hierarchy.
+**level** ([Level](Level.md) - 0..1): Association to a Level where levels have been defined for the Hierarchy.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 ## Referenced By

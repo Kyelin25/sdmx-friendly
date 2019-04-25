@@ -34,10 +34,9 @@ Provides identity to all derived classes. It also provides Annotations to derive
 
 ## References
 
-**contains** ([Annotation](Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**contains** ([Annotation](Annotation.md) - 0..*): No description
 
 
 ## Referenced By

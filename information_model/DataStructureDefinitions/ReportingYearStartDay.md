@@ -26,18 +26,13 @@ A specialised DataAttribute whose value is used in conjunction with the predefin
 
 ## References
 
-**role** ([Concept](../ConceptSchemes/Concept.md) - 0..*): Association to the Concept that specifies the role that the DataAttribute plays in the DataStructureDefinition.
-
-**relatedTo** ([AttributeRelationship](AttributeRelationship.md) - 1): Association to an AttributeRelationship.
-
-**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
-
-**localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**role** ([Concept](../ConceptSchemes/Concept.md) - 0..*): Association to the Concept that specifies the role that the DataAttribute plays in the DataStructureDefinition.
+**relatedTo** ([AttributeRelationship](AttributeRelationship.md) - 1): Association to an AttributeRelationship.
+**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
+**localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

@@ -24,22 +24,15 @@ An organisation that produces data or reference metadata.
 
 ## References
 
-**contact** ([Contact](Contact.md) - 1): Association to the Contact information.
-
-**child** ([DataProvider](DataProvider.md) - 0..*): A child of this DataProvider.
-
-**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
-**content** ([ContentConstraint](../Constraints/ContentConstraint.md) - 0..*): Associates the metadata that constrains the content to be found in a data or metadata source linked to the ConstrainableArtefact.
-
-**attachment** ([AttachmentConstraint](../Constraints/AttachmentConstraint.md) - 0..*): Associates the metadata that constrains the valid content of a ConstrainableArtefact to which metadata may be attached.
-
 ### Inherited
 
+**contact** ([Contact](Contact.md) - 1): Association to the Contact information.
+**child** ([DataProvider](DataProvider.md) - 0..*): A child of this DataProvider.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+**content** ([ContentConstraint](../Constraints/ContentConstraint.md) - 0..*): Associates the metadata that constrains the content to be found in a data or metadata source linked to the ConstrainableArtefact.
+**attachment** ([AttachmentConstraint](../Constraints/AttachmentConstraint.md) - 0..*): Associates the metadata that constrains the valid content of a ConstrainableArtefact to which metadata may be attached.
 
 
 ## Referenced By

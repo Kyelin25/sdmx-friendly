@@ -24,20 +24,14 @@ Associates a source and target ReportingTaxonomy.
 
 ## References
 
-**source** ([ReportingTaxonomy](../ReportingTaxonomies/ReportingTaxonomy.md) - 1): Association to the source ReportingTaxonomy.
-
-**target** ([ReportingTaxonomy](../ReportingTaxonomies/ReportingTaxonomy.md) - 1): Association to the target ReportingTaxonomy.
-
-**ItemAssociation** ([ConceptMap](ConceptMap.md) - 1..*): Association to the ItemAssociation.
-
-**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**source** ([ReportingTaxonomy](../ReportingTaxonomies/ReportingTaxonomy.md) - 1): Association to the source ReportingTaxonomy.
+**target** ([ReportingTaxonomy](../ReportingTaxonomies/ReportingTaxonomy.md) - 1): Association to the target ReportingTaxonomy.
+**ItemAssociation** ([ConceptMap](ConceptMap.md) - 1..*): Association to the ItemAssociation.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

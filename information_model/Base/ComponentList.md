@@ -28,10 +28,9 @@ An abstract definition of a list of components. A concrete example is a Dimensio
 
 ## References
 
-**components** ([Component](Component.md) - 1..*): An aggregate association to one or more components which make up the list.
-
 ### Inherited
 
+**components** ([Component](Component.md) - 1..*): An aggregate association to one or more components which make up the list.
 
 
 ## Referenced By

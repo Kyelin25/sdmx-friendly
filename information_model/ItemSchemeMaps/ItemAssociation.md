@@ -23,14 +23,11 @@ Inherits from: [AnnotableArtefact](../Base/AnnotableArtefact.md)
 
 ## References
 
-**source** ([Item](../Base/Item.md) - 1): Association to the source Item.
-
-**target** ([Item](../Base/Item.md) - 1): Association to the target Item.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**source** ([Item](../Base/Item.md) - 1): Association to the source Item.
+**target** ([Item](../Base/Item.md) - 1): Association to the target Item.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 ## Referenced By

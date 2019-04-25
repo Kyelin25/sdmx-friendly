@@ -38,22 +38,15 @@ Abstract concept (i.e. the structure without any data) of a flow of data that pr
 
 ## References
 
-**structure** ([DataStructureDefinition](DataStructureDefinition.md) - 0..*): Associates a DataflowDefinition to the DataStructureDefinition.
-
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
-
-**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
-**content** ([ContentConstraint](../Constraints/ContentConstraint.md) - 0..*): Associates the metadata that constrains the content to be found in a data or metadata source linked to the ConstrainableArtefact.
-
-**attachment** ([AttachmentConstraint](../Constraints/AttachmentConstraint.md) - 0..*): Associates the metadata that constrains the valid content of a ConstrainableArtefact to which metadata may be attached.
-
 ### Inherited
 
+**structure** ([DataStructureDefinition](DataStructureDefinition.md) - 0..*): Associates a DataflowDefinition to the DataStructureDefinition.
+**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
+**content** ([ContentConstraint](../Constraints/ContentConstraint.md) - 0..*): Associates the metadata that constrains the content to be found in a data or metadata source linked to the ConstrainableArtefact.
+**attachment** ([AttachmentConstraint](../Constraints/AttachmentConstraint.md) - 0..*): Associates the metadata that constrains the valid content of a ConstrainableArtefact to which metadata may be attached.
 
 
 ## Referenced By

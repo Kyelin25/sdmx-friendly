@@ -40,18 +40,13 @@ A maintained collection of OrganisationUnits.
 
 ## References
 
-**items** ([OrganisationUnit](OrganisationUnit.md) - 0..*): Association to the OrganisationUnits in the OrganisationUnitScheme.
-
-**maintainer** ([Agency](Agency.md) - 1): No description
-
-**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**items** ([OrganisationUnit](OrganisationUnit.md) - 0..*): Association to the OrganisationUnits in the OrganisationUnitScheme.
+**maintainer** ([Agency](Agency.md) - 1): No description
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

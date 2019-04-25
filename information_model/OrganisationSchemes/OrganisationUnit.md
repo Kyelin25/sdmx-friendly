@@ -24,18 +24,13 @@ A designation in the organisational structure.
 
 ## References
 
-**contact** ([Contact](Contact.md) - 1): Association to the Contact information.
-
-**child** ([OrganisationUnit](OrganisationUnit.md) - 0..*): A child of this OrganisationUnit
-
-**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**contact** ([Contact](Contact.md) - 1): Association to the Contact information.
+**child** ([OrganisationUnit](OrganisationUnit.md) - 0..*): A child of this OrganisationUnit
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 ## Referenced By

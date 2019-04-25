@@ -24,18 +24,13 @@ In a "level based" hierarchy this describes a group of Codes which are character
 
 ## References
 
-**codeFormat** ([CodingFormat](CodingFormat.md) - 0..*): Association to the CodingFormat.
-
-**child** ([Level](Level.md) - 0..*): Association to a child Level of Level.
-
-**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**codeFormat** ([CodingFormat](CodingFormat.md) - 0..*): Association to the CodingFormat.
+**child** ([Level](Level.md) - 0..*): Association to a child Level of Level.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 ## Referenced By

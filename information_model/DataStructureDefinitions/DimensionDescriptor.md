@@ -14,10 +14,9 @@ An ordered set of metadata concepts that, combined, classify a statistical serie
 
 ## References
 
-**components** ([Dimension](Dimension.md) - 1..*): An association to the Dimensions, MeasureDimension and TimeDimension comprising the Key Descriptor.
-
 ### Inherited
 
+**components** ([Dimension](Dimension.md) - 1..*): An association to the Dimensions, MeasureDimension and TimeDimension comprising the Key Descriptor.
 
 
 

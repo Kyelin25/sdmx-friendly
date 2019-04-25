@@ -22,10 +22,9 @@ An AttributeValue that has a text value.
 
 ## References
 
-**valueFor** ([DataAttribute](DataAttribute.md) - 1): Association to the DataAttribute defined in the DataStructureDefinition. Note that this is a conceptual association as the Concept is identified explicitly in the DataSet.
-
 ### Inherited
 
+**valueFor** ([DataAttribute](DataAttribute.md) - 1): Association to the DataAttribute defined in the DataStructureDefinition. Note that this is a conceptual association as the Concept is identified explicitly in the DataSet.
 
 
 

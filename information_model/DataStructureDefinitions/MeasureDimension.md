@@ -24,16 +24,12 @@ A statistical concept that identifies the component in the key structure that ha
 
 ## References
 
-**role** ([Concept](../ConceptSchemes/Concept.md) - 0..*): Association to the Concept that specifies the role that the Dimension plays in the DataStructureDefinition.
-
-**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
-
-**localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**role** ([Concept](../ConceptSchemes/Concept.md) - 0..*): Association to the Concept that specifies the role that the Dimension plays in the DataStructureDefinition.
+**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
+**localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

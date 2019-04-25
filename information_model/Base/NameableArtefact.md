@@ -42,14 +42,11 @@ Provides a name and description to all derived classes in addition to identifica
 
 ## References
 
-**name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
-
-**description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
-
-**contains** ([Annotation](Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
+**description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
+**contains** ([Annotation](Annotation.md) - 0..*): No description
 
 
 

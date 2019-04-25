@@ -20,10 +20,9 @@ A set of data keys.
 
 ## References
 
-**keys** ([DataKey](DataKey.md) - 1..*): Association to the DataKeys in the set.
-
 ### Inherited
 
+**keys** ([DataKey](DataKey.md) - 1..*): Association to the DataKeys in the set.
 
 
 ## Referenced By

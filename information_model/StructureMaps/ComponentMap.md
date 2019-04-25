@@ -22,16 +22,12 @@ Links a source and target Component where there is a semantic equivalence betwee
 
 ## References
 
-**source** ([Component](../Base/Component.md) - 1): Association to the source Component.
-
-**target** ([Component](../Base/Component.md) - 1): Association to the target Component.
-
-**contentMap** ([RepresentationMapping](RepresentationMapping.md) - 0..1): Association to the constructs that map the content of the Components - this will be either one of the subclasses of ItemScheme or a mapping to text.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**source** ([Component](../Base/Component.md) - 1): Association to the source Component.
+**target** ([Component](../Base/Component.md) - 1): Association to the target Component.
+**contentMap** ([RepresentationMapping](RepresentationMapping.md) - 0..1): Association to the constructs that map the content of the Components - this will be either one of the subclasses of ItemScheme or a mapping to text.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 ## Referenced By

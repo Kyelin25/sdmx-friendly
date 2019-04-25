@@ -14,14 +14,11 @@ Associates a source and target Concept.
 
 ## References
 
-**source** ([Concept](../ConceptSchemes/Concept.md) - 1): Association to the source Concept.
-
-**target** ([Concept](../ConceptSchemes/Concept.md) - 1): Association to the target Concept.
-
-**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
-
 ### Inherited
 
+**source** ([Concept](../ConceptSchemes/Concept.md) - 1): Association to the source Concept.
+**target** ([Concept](../ConceptSchemes/Concept.md) - 1): Association to the target Concept.
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 ## Referenced By

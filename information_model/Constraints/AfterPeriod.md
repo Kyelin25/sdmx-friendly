@@ -14,7 +14,7 @@ The period after which the constrained selection is valid.
 
 isInclusive: bool
 
-period: observationalTimePeriod
+period: ObservationalTimePeriod
 
 
 

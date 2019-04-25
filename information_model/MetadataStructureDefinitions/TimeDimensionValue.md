@@ -12,7 +12,7 @@ Contains identification of the TimeDimension and the value.
 
 ## Attributes
 
-timeValue: observationalTimePeriod
+timeValue: ObservationalTimePeriod
 
 operator: string
 

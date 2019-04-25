@@ -12,19 +12,19 @@ A maintainable collection of structural maps that link components together in a 
 
 ## Attributes
 
-final: Defines whether a maintained artefact is draft or final.
+final: bool
 
-isExternalReference: If set to "true" it indicates that the content of the object is held externally. 
+isExternalReference: bool
 
-serviceUrl: The URL of an SDMX-compliant web service from which the external object can be retrieved.
+serviceUrl: Url
 
-structureUrl: The URL of an SDMX-ML document containing the external object
+structureUrl: Url
 
-version: A version string following an agreed convention.
+version: string
 
-validFrom: Date from which the version is valid.
+validFrom: Date
 
-validTo: Date from which version is superceded.
+validTo: Date
 
 id: string
 

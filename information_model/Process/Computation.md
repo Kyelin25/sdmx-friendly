@@ -14,7 +14,7 @@ Describes in textual form the computations involved in the process.
 
 localId: string
 
-softwarePackage: Together with softwareLanguage and softwareVersion provides information about the software that is used to perform the Computation.
+softwarePackage: string
 
 softwareLanguage: string
 

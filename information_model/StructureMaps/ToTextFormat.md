@@ -12,9 +12,9 @@ Defines the text format.
 
 ## Attributes
 
-textFormat: facetType
+textFormat: FacetType
 
-toValueType: toValueType
+toValueType: ToValueType
 
 
 

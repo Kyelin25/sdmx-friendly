@@ -14,19 +14,19 @@ The descriptive information for an arrangement or division of categories into gr
 
 isPartial: bool
 
-final: Defines whether a maintained artefact is draft or final.
+final: bool
 
-isExternalReference: If set to "true" it indicates that the content of the object is held externally. 
+isExternalReference: bool
 
-serviceUrl: The URL of an SDMX-compliant web service from which the external object can be retrieved.
+serviceUrl: Url
 
-structureUrl: The URL of an SDMX-ML document containing the external object
+structureUrl: Url
 
-version: A version string following an agreed convention.
+version: string
 
-validFrom: Date from which the version is valid.
+validFrom: Date
 
-validTo: Date from which version is superceded.
+validTo: Date
 
 id: string
 

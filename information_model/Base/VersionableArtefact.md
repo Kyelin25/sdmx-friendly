@@ -16,11 +16,11 @@ Provides versioning information for all derived objects.
 
 ## Attributes
 
-version: A version string following an agreed convention.
+version: string
 
-validFrom: Date from which the version is valid.
+validFrom: Date
 
-validTo: Date from which version is superceded.
+validTo: Date
 
 id: string
 

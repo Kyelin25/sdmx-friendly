@@ -18,9 +18,9 @@ A set of Components and their values that defines a subset or "slice" of the tot
 
 ## References
 
-componentList: [ComponentList](../Base/ComponentList.md) (One) - Reference to the ComponentList. May be only conceptual.
+**componentList** ([ComponentList](../Base/ComponentList.md) - 1): Reference to the ComponentList. May be only conceptual.
 
-member: [MemberSelection](MemberSelection.md) (ZeroOrMany) - Associates the set of Components that define the subset of values.
+**member** ([MemberSelection](MemberSelection.md) - 0..*): Associates the set of Components that define the subset of values.
 
 
 

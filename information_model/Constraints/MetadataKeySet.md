@@ -18,7 +18,7 @@ A set of metadata keys.
 
 ## References
 
-keys: [MetadataKey](MetadataKey.md) (OneOrMany) - Association to the MetadataKeys in the set.
+**keys** ([MetadataKey](MetadataKey.md) - 1..*): Association to the MetadataKeys in the set.
 
 
 

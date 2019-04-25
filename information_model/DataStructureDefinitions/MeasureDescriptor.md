@@ -14,7 +14,7 @@ A metadata concept that defines the measure of a DataStructureDefinition.
 
 ## References
 
-components: [PrimaryMeasure](PrimaryMeasure.md) (One) - An association to a measure component.
+**components** ([PrimaryMeasure](PrimaryMeasure.md) - 1): An association to a measure component.
 
 
 

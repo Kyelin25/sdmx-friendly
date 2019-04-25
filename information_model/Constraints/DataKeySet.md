@@ -18,7 +18,7 @@ A set of data keys.
 
 ## References
 
-keys: [DataKey](DataKey.md) (OneOrMany) - Association to the DataKeys in the set.
+**keys** ([DataKey](DataKey.md) - 1..*): Association to the DataKeys in the set.
 
 
 

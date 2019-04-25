@@ -14,11 +14,11 @@ Associates the source and target codes in the HybridCodelistMap.
 
 ## References
 
-source: [SourceCodeMap](SourceCodeMap.md) (One) - Associates the SourceCodeMap.
+**source** ([SourceCodeMap](SourceCodeMap.md) - 1): Associates the SourceCodeMap.
 
-target: [TargetCodeMap](TargetCodeMap.md) (One) - Associates the TargetCodeMap.
+**target** ([TargetCodeMap](TargetCodeMap.md) - 1): Associates the TargetCodeMap.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

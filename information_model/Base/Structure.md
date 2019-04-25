@@ -42,15 +42,15 @@ Abstract specification of a list of lists to define a complex tabular structure.
 
 ## References
 
-grouping: [ComponentList](ComponentList.md) (OneOrMany) - A composite association to one or more ComponentLists.
+**grouping** ([ComponentList](ComponentList.md) - 1..*): A composite association to one or more ComponentLists.
 
-maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
+**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
 
-name: [InternationalString](InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
-contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](Annotation.md) - 0..*): No description
 
 
 

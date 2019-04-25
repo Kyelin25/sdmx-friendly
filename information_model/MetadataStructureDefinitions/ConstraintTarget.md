@@ -22,11 +22,11 @@ The target object is the data or reference metadata that is identified in the co
 
 ## References
 
-conceptIdentity: [Concept](../ConceptSchemes/Concept.md) (One) - An association to the Concept which carries the values of the measures.
+**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): An association to the Concept which carries the values of the measures.
 
-localRepresentation: [Representation](../Base/Representation.md) (One) - Associates a Representation to the TargetObject that must be respected when the object is identified in any MetadataSet. This may be enumerated or non-enumerated.
+**localRepresentation** ([Representation](../Base/Representation.md) - 1): Associates a Representation to the TargetObject that must be respected when the object is identified in any MetadataSet. This may be enumerated or non-enumerated.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

@@ -14,9 +14,9 @@ The start and end periods in a date range.
 
 ## References
 
-start: [StartPeriod](StartPeriod.md) (One) - Association to the StartPeriod.
+**start** ([StartPeriod](StartPeriod.md) - 1): Association to the StartPeriod.
 
-end: [EndPeriod](EndPeriod.md) (One) - Association to the EndPeriod.
+**end** ([EndPeriod](EndPeriod.md) - 1): Association to the EndPeriod.
 
 
 

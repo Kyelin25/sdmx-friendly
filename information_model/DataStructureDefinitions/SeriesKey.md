@@ -14,13 +14,13 @@ Comprises the cross product of values of all the KeyValues that, together with t
 
 ## References
 
-describedBy: [GroupDimensionDescriptor](GroupDimensionDescriptor.md) (One) - Associates the DimensionDescriptor defined in the DataStructureDefinition.
+**describedBy** ([GroupDimensionDescriptor](GroupDimensionDescriptor.md) - 1): Associates the DimensionDescriptor defined in the DataStructureDefinition.
 
-contains: [Observation](Observation.md) (OneOrMany) - Observations contained by this SeriesKey.
+**contains** ([Observation](Observation.md) - 1..*): Observations contained by this SeriesKey.
 
-keyValues: [KeyValue](KeyValue.md) (OneOrMany) - Association to the individual KeyValues that comprise the Key.
+**keyValues** ([KeyValue](KeyValue.md) - 1..*): Association to the individual KeyValues that comprise the Key.
 
-attachedAttribute: [AttributeValue](AttributeValue.md) (ZeroOrMany) - Association to the AttributeValues relating to the Series Key or Group Key.
+**attachedAttribute** ([AttributeValue](AttributeValue.md) - 0..*): Association to the AttributeValues relating to the Series Key or Group Key.
 
 
 

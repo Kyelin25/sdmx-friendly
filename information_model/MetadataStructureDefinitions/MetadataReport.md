@@ -14,11 +14,11 @@ A set of values for MetadataAttributes defined in a ReportStructure of a Metadat
 
 ## References
 
-attachesTo: [TargetObjectKey](TargetObjectKey.md) (One) - Associates the object key to which metadata is to be attached.
+**attachesTo** ([TargetObjectKey](TargetObjectKey.md) - 1): Associates the object key to which metadata is to be attached.
 
-target: [MetadataTarget](MetadataTarget.md) (One) - Associates the MetadataTarget that defines the TargetObject to which the metadata are to be associated.
+**target** ([MetadataTarget](MetadataTarget.md) - 1): Associates the MetadataTarget that defines the TargetObject to which the metadata are to be associated.
 
-metadata: [ReportedAttribute](ReportedAttribute.md) (OneOrMany) - Associates the ReportedAttribute values which are to be associated with the object of objects identified by the TargetObjectKey.
+**metadata** ([ReportedAttribute](ReportedAttribute.md) - 1..*): Associates the ReportedAttribute values which are to be associated with the object of objects identified by the TargetObjectKey.
 
 
 

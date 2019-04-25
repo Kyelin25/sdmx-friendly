@@ -38,15 +38,15 @@ A maintained collection of DataProviders.
 
 ## References
 
-items: [DataProvider](DataProvider.md) (ZeroOrMany) - Association to the DataProviders in the DataProviderScheme.
+**items** ([DataProvider](DataProvider.md) - 0..*): Association to the DataProviders in the DataProviderScheme.
 
-maintainer: [Agency](Agency.md) (One) - No description
+**maintainer** ([Agency](Agency.md) - 1): No description
 
-name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

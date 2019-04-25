@@ -24,7 +24,7 @@ The value of an attribute, such as the instance of a Coded Attribute or of an Un
 
 ## References
 
-valueFor: [DataAttribute](DataAttribute.md) (One) - Association to the DataAttribute defined in the DataStructureDefinition. Note that this is a conceptual association as the Concept is identified explicitly in the DataSet.
+**valueFor** ([DataAttribute](DataAttribute.md) - 1): Association to the DataAttribute defined in the DataStructureDefinition. Note that this is a conceptual association as the Concept is identified explicitly in the DataSet.
 
 
 

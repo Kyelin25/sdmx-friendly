@@ -18,9 +18,9 @@ Collectively contain the identification of the components and the values that fo
 
 ## References
 
-valueFor: [Component](../Base/Component.md) (One) - Associates the Component for which the value is declared.
+**valueFor** ([Component](../Base/Component.md) - 1): Associates the Component for which the value is declared.
 
-contains: [TimeDimensionValue](TimeDimensionValue.md) (ZeroOrMany) - TimeDimension values.
+**contains** ([TimeDimensionValue](TimeDimensionValue.md) - 0..*): TimeDimension values.
 
 
 

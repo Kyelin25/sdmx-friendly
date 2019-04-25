@@ -14,7 +14,7 @@ Associates an ItemSchemeMap.
 
 ## References
 
-contains: [ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (One) - No description
+**contains** ([ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) - 1): No description
 
 
 

@@ -30,7 +30,7 @@ An instance of a role of an individual or an Organisation (or Organisation part 
 
 ## References
 
-responsibility: [InternationalString](../Base/InternationalString.md) (One) - The function of the Contact person with respect to the Organisation role for which this person is the Contact.
+**responsibility** ([InternationalString](../Base/InternationalString.md) - 1): The function of the Contact person with respect to the Organisation role for which this person is the Contact.
 
 
 

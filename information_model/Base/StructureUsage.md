@@ -42,15 +42,15 @@ An artefact whose components are described by a Structure. In concrete terms (su
 
 ## References
 
-structure: [Structure](Structure.md) (ZeroOrMany) - An association to a Structure specifying the structure of the artefact.
+**structure** ([Structure](Structure.md) - 0..*): An association to a Structure specifying the structure of the artefact.
 
-maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
+**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
 
-name: [InternationalString](InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
-contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](Annotation.md) - 0..*): No description
 
 
 

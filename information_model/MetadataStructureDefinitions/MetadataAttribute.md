@@ -28,13 +28,13 @@ Identifies a Concept for which a value may be reported in a MetadataSet.
 
 ## References
 
-child: [MetadataAttribute](MetadataAttribute.md) (ZeroOrMany) - A child of this MetadataAttribute.
+**child** ([MetadataAttribute](MetadataAttribute.md) - 0..*): A child of this MetadataAttribute.
 
-conceptIdentity: [Concept](../ConceptSchemes/Concept.md) (One) - An association to the Concept which defines the semantic of the attribute.
+**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): An association to the Concept which defines the semantic of the attribute.
 
-localRepresentation: [Representation](../Base/Representation.md) (One) - Associates a Representation to the TargetObject that must be respected when the object is identified in any MetadataSet. This may be enumerated or non-enumerated.
+**localRepresentation** ([Representation](../Base/Representation.md) - 1): Associates a Representation to the TargetObject that must be respected when the object is identified in any MetadataSet. This may be enumerated or non-enumerated.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

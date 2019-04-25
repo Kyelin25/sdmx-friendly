@@ -24,17 +24,17 @@ Associates a Codelist and a HierarchicalCodelist.
 
 ## References
 
-source: [SourceList](SourceList.md) (One) - Association to the source List.
+**source** ([SourceList](SourceList.md) - 1): Association to the source List.
 
-target: [TargetList](TargetList.md) (One) - Associationg to the target List.
+**target** ([TargetList](TargetList.md) - 1): Associationg to the target List.
 
-hybridCodeMap: [HybridCodeMap](HybridCodeMap.md) (OneOrMany) - Association to the set of HybridCodeMaps in the HybridCodelistMap.
+**hybridCodeMap** ([HybridCodeMap](HybridCodeMap.md) - 1..*): Association to the set of HybridCodeMaps in the HybridCodelistMap.
 
-name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

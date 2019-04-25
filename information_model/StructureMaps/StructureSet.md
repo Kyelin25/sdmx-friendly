@@ -36,21 +36,21 @@ A maintainable collection of structural maps that link components together in a 
 
 ## References
 
-relatedStructure: [Structure](../Base/Structure.md) (ZeroOrMany) - Association to a set of DataStructureDefinitions and MetadataStructureDefinitions.
+**relatedStructure** ([Structure](../Base/Structure.md) - 0..*): Association to a set of DataStructureDefinitions and MetadataStructureDefinitions.
 
-relatedStructureUsage: [StructureUsage](../Base/StructureUsage.md) (ZeroOrMany) - Association to a set of DataflowDefinitions and MetadataflowDefinitions.
+**relatedStructureUsage** ([StructureUsage](../Base/StructureUsage.md) - 0..*): Association to a set of DataflowDefinitions and MetadataflowDefinitions.
 
-map: [StructureMap](StructureMap.md) (ZeroOrMany) - Association to StructureMaps.
+**map** ([StructureMap](StructureMap.md) - 0..*): Association to StructureMaps.
 
-itemSchemeMap: [ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (ZeroOrMany) - Association to a ItemSchemeMaps.
+**itemSchemeMap** ([ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) - 0..*): Association to a ItemSchemeMaps.
 
-maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
+**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
 
-name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

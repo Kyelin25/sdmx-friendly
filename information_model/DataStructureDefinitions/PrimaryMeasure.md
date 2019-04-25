@@ -22,11 +22,11 @@ The metadata concept that is the phenomenon to be measured in a data set. In a d
 
 ## References
 
-conceptIdentity: [Concept](../ConceptSchemes/Concept.md) (One) - An association to the Concept which carries the values of the measures.
+**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): An association to the Concept which carries the values of the measures.
 
-localRepresentation: [Representation](../Base/Representation.md) (One) - No description
+**localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

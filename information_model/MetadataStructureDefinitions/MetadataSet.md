@@ -40,19 +40,19 @@ Any organised collection of metadata.
 
 ## References
 
-describedBy: [MetadataFlowDefinition](MetadataFlowDefinition.md) (ZeroOrOne) - Associates a MetadataflowDefinition to the MetadataSet.
+**describedBy** ([MetadataFlowDefinition](MetadataFlowDefinition.md) - 0..1): Associates a MetadataflowDefinition to the MetadataSet.
 
-structuredBy: [MetadataStructureDefinition](MetadataStructureDefinition.md) (One) - Associates the MetadataStructureDefinition that defines the structure of the MetadataSet. Note that the MetadataStructureDefinition is the same as that associated (non-mandatory) to the MetadataflowDefinition.
+**structuredBy** ([MetadataStructureDefinition](MetadataStructureDefinition.md) - 1): Associates the MetadataStructureDefinition that defines the structure of the MetadataSet. Note that the MetadataStructureDefinition is the same as that associated (non-mandatory) to the MetadataflowDefinition.
 
-describedBy: [ReportStructure](ReportStructure.md) (One) - Reference to the ReportStructure.
+**describedBy** ([ReportStructure](ReportStructure.md) - 1): Reference to the ReportStructure.
 
-publishedBy: [DataProvider](../OrganisationSchemes/DataProvider.md) (ZeroOrOne) - Assocates the DataProvider that reports/publishes the metadata.
+**publishedBy** ([DataProvider](../OrganisationSchemes/DataProvider.md) - 0..1): Assocates the DataProvider that reports/publishes the metadata.
 
-contains: [MetadataReport](MetadataReport.md) (OneOrMany) - MetadataReports contained by this MetadataSet.
+**contains** ([MetadataReport](MetadataReport.md) - 1..*): MetadataReports contained by this MetadataSet.
 
-name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
 
 

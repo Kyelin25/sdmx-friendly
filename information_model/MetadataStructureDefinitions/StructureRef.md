@@ -18,7 +18,7 @@ Contains the identification of an IdentifiableArtefact.
 
 ## References
 
-contains: [MaintainableArtefactRef](MaintainableArtefactRef.md) (One) - The reference identifying the IdentifiableArtefact.
+**contains** ([MaintainableArtefactRef](MaintainableArtefactRef.md) - 1): The reference identifying the IdentifiableArtefact.
 
 
 

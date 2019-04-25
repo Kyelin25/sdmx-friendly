@@ -14,7 +14,7 @@ A set of metadata concepts that define the attributes of a DataStructureDefiniti
 
 ## References
 
-components: [DataAttribute](DataAttribute.md) (OneOrMany) - An association to DataAttribute components.
+**components** ([DataAttribute](DataAttribute.md) - 1..*): An association to DataAttribute components.
 
 
 

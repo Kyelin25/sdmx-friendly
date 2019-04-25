@@ -22,17 +22,17 @@ A concept is a unit of knowledge created by a unique combination of characterist
 
 ## References
 
-coreRepresentation: [Representation](../Base/Representation.md) (ZeroOrOne) - Associates a Representation.
+**coreRepresentation** ([Representation](../Base/Representation.md) - 0..1): Associates a Representation.
 
-ISOConcept: [ISOConcept](ISOConcept.md) (ZeroOrOne) - Association to an ISO concept reference.
+**ISOConcept** ([ISOConcept](ISOConcept.md) - 0..1): Association to an ISO concept reference.
 
-child: [Concept](Concept.md) (ZeroOrMany) - A child of this Concept
+**child** ([Concept](Concept.md) - 0..*): A child of this Concept
 
-name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

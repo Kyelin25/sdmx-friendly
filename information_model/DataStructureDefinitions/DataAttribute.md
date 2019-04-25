@@ -28,15 +28,15 @@ A characteristic of an object or entity.
 
 ## References
 
-role: [Concept](../ConceptSchemes/Concept.md) (ZeroOrMany) - Association to the Concept that specifies the role that the DataAttribute plays in the DataStructureDefinition.
+**role** ([Concept](../ConceptSchemes/Concept.md) - 0..*): Association to the Concept that specifies the role that the DataAttribute plays in the DataStructureDefinition.
 
-relatedTo: [AttributeRelationship](AttributeRelationship.md) (One) - Association to an AttributeRelationship.
+**relatedTo** ([AttributeRelationship](AttributeRelationship.md) - 1): Association to an AttributeRelationship.
 
-conceptIdentity: [Concept](../ConceptSchemes/Concept.md) (One) - No description
+**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
 
-localRepresentation: [Representation](../Base/Representation.md) (One) - No description
+**localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

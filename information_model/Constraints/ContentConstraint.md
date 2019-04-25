@@ -36,25 +36,25 @@ Defines a Constraint in terms of the content that can be found in data or metada
 
 ## References
 
-dataContentRegion: [CubeRegion](CubeRegion.md) (ZeroOrMany) - Association to a subset of Component values that can be derived from the DataStructureDefinition to which the ConstrainableArtefact is linked.
+**dataContentRegion** ([CubeRegion](CubeRegion.md) - 0..*): Association to a subset of Component values that can be derived from the DataStructureDefinition to which the ConstrainableArtefact is linked.
 
-metadataContentRegion: [MetadataTargetRegion](MetadataTargetRegion.md) (ZeroOrMany) - Association to a subset of Component values that can be derived from the MetadataStructureDefinition to which the ConstrainableArtefact is linked.
+**metadataContentRegion** ([MetadataTargetRegion](MetadataTargetRegion.md) - 0..*): Association to a subset of Component values that can be derived from the MetadataStructureDefinition to which the ConstrainableArtefact is linked.
 
-availableDates: [ReferencePeriod](ReferencePeriod.md) (ZeroOrOne) - Association to the time period that identifies the time range for which data or metadata are available in the data source.
+**availableDates** ([ReferencePeriod](ReferencePeriod.md) - 0..1): Association to the time period that identifies the time range for which data or metadata are available in the data source.
 
-contains: [ReleaseCalendar](ReleaseCalendar.md) (ZeroOrOne) - Association to a ReleaseCalendar
+**contains** ([ReleaseCalendar](ReleaseCalendar.md) - 0..1): Association to a ReleaseCalendar
 
-dataContentKeys: [DataKeySet](DataKeySet.md) (ZeroOrMany) - Association to a subset of DataKeySets (i.e. value combinations) that can be derived from the definition of the structure to which the ConstrainableArtefact is linked.
+**dataContentKeys** ([DataKeySet](DataKeySet.md) - 0..*): Association to a subset of DataKeySets (i.e. value combinations) that can be derived from the definition of the structure to which the ConstrainableArtefact is linked.
 
-metadataContentKeys: [MetadataKeySet](MetadataKeySet.md) (ZeroOrMany) - Association to a subset of MetadataKeySets (i.e. value combinations) that can be derived from the definition of the Structure to which the ConstrainableArtefact is linked.
+**metadataContentKeys** ([MetadataKeySet](MetadataKeySet.md) - 0..*): Association to a subset of MetadataKeySets (i.e. value combinations) that can be derived from the definition of the Structure to which the ConstrainableArtefact is linked.
 
-role: [ConstraintRole](ConstraintRole.md) (OneOrMany) - Association to the role that the Constraint plays.
+**role** ([ConstraintRole](ConstraintRole.md) - 1..*): Association to the role that the Constraint plays.
 
-maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
+**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
 
-name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
 
 

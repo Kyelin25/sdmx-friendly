@@ -24,7 +24,7 @@ Additional descriptive information attached to an object.
 
 ## References
 
-text: [InternationalString](InternationalString.md) (ZeroOrOne) - An InternationalString provides the multilingual text content of the Annotation via this role.
+**text** ([InternationalString](InternationalString.md) - 0..1): An InternationalString provides the multilingual text content of the Annotation via this role.
 
 
 

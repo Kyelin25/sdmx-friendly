@@ -32,7 +32,7 @@ Provides identity to all derived classes. It also provides Annotations to derive
 
 ## References
 
-contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](Annotation.md) - 0..*): No description
 
 
 

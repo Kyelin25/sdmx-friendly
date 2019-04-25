@@ -14,9 +14,9 @@ References both the Hierarchy and the HierarchicalCode in a HierarchicalCodelist
 
 ## References
 
-hierarchy: [Hierarchy](../HierarchicalCodelists/Hierarchy.md) (One) - Associates the Hierarchy of the HierarchicalCodelist.
+**hierarchy** ([Hierarchy](../HierarchicalCodelists/Hierarchy.md) - 1): Associates the Hierarchy of the HierarchicalCodelist.
 
-codeAssociation: [HierarchicalCode](../HierarchicalCodelists/HierarchicalCode.md) (One) - Associates the HierarchicalCode in the HierarchicalCodelist.
+**codeAssociation** ([HierarchicalCode](../HierarchicalCodelists/HierarchicalCode.md) - 1): Associates the HierarchicalCode in the HierarchicalCodelist.
 
 
 

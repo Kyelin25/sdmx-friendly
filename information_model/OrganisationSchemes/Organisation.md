@@ -32,15 +32,15 @@ An organisation is a unique framework of authority within which a person or pers
 
 ## References
 
-contact: [Contact](Contact.md) (One) - Association to the Contact information.
+**contact** ([Contact](Contact.md) - 1): Association to the Contact information.
 
-child: [Organisation](Organisation.md) (ZeroOrMany) - A child of this Organisation
+**child** ([Organisation](Organisation.md) - 0..*): A child of this Organisation
 
-name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+**name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
-description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+**description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+**contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
 

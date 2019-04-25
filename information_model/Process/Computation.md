@@ -26,7 +26,7 @@ Describes in textual form the computations involved in the process.
 
 ## References
 
-**description** ([InternationalString](../Base/InternationalString.md) - 1..*): Text describing of giving additional information about the Computation. This can be in multiple language variants.
+**description** ([InternationalString](../Base/InternationalString.md) - 1): Text describing of giving additional information about the Computation. This can be in multiple language variants.
 
 ### Inherited
 

@@ -20,9 +20,10 @@ A set of Components and their values that defines a subset or "slice" of the tot
 
 ## References
 
+**member** ([MemberSelection](MemberSelection.md) - 0..*): Associates the set of Components that define the subset of values.
+
 ### Inherited
 
-**member** ([MemberSelection](MemberSelection.md) - 0..*): Associates the set of Components that define the subset of values.
 
 
 ## Referenced By

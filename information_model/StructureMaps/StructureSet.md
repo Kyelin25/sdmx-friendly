@@ -38,12 +38,16 @@ A maintainable collection of structural maps that link components together in a 
 
 ## References
 
+**relatedStructure** ([Structure](../Base/Structure.md) - 0..*): Association to a set of DataStructureDefinitions and MetadataStructureDefinitions.
+
+**relatedStructureUsage** ([StructureUsage](../Base/StructureUsage.md) - 0..*): Association to a set of DataflowDefinitions and MetadataflowDefinitions.
+
+**map** ([StructureMap](StructureMap.md) - 0..*): Association to StructureMaps.
+
+**itemSchemeMap** ([ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) - 0..*): Association to a ItemSchemeMaps.
+
 ### Inherited
 
-**relatedStructure** ([Structure](../Base/Structure.md) - 0..*): Association to a set of DataStructureDefinitions and MetadataStructureDefinitions.
-**relatedStructureUsage** ([StructureUsage](../Base/StructureUsage.md) - 0..*): Association to a set of DataflowDefinitions and MetadataflowDefinitions.
-**map** ([StructureMap](StructureMap.md) - 0..*): Association to StructureMaps.
-**itemSchemeMap** ([ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) - 0..*): Association to a ItemSchemeMaps.
 **maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.

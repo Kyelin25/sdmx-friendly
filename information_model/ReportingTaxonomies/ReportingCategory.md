@@ -24,10 +24,12 @@ A component that gives structure to the report and links to data and metadata.
 
 ## References
 
+**flow** ([StructureUsage](../Base/StructureUsage.md) - 0..*): Association to the DataflowDefinitions and MetadataflowDefinitions that link to metadata about the provisioning and related data and metadata sets, and the structures that define them.
+
+**structure** ([Structure](../Base/Structure.md) - 0..*): Association to the DataStructureDefinitions and MetadataStructureDefinitions which define the structural metadata describing the data and metadata that are contained at this part of the report.
+
 ### Inherited
 
-**flow** ([StructureUsage](../Base/StructureUsage.md) - 0..*): Association to the DataflowDefinitions and MetadataflowDefinitions that link to metadata about the provisioning and related data and metadata sets, and the structures that define them.
-**structure** ([Structure](../Base/Structure.md) - 0..*): Association to the DataStructureDefinitions and MetadataStructureDefinitions which define the structural metadata describing the data and metadata that are contained at this part of the report.
 **child** ([ReportingCategory](ReportingCategory.md) - 0..*): A child of this ReportingCategory
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.

@@ -26,10 +26,12 @@ A classification structure arranged in levels of detail from the broadest to the
 
 ## References
 
+**codes** ([HierarchicalCode](HierarchicalCode.md) - 0..*): Association to the top-level HierarchicalCodes in the Hierarchy.
+
+**level** ([Level](Level.md) - 0..1): Association to the top Level in the Hierarchy.
+
 ### Inherited
 
-**codes** ([HierarchicalCode](HierarchicalCode.md) - 0..*): Association to the top-level HierarchicalCodes in the Hierarchy.
-**level** ([Level](Level.md) - 0..1): Association to the top Level in the Hierarchy.
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description

@@ -36,9 +36,10 @@ The Item is an item of content in an ItemScheme. This may be a node in a taxonom
 
 ## References
 
+**child** ([Item](Item.md) - 0..*): A child of this item.
+
 ### Inherited
 
-**child** ([Item](Item.md) - 0..*): A child of this item.
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
 **contains** ([Annotation](Annotation.md) - 0..*): No description

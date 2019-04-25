@@ -20,9 +20,10 @@ A set of metadata keys.
 
 ## References
 
+**keys** ([MetadataKey](MetadataKey.md) - 1..*): Association to the MetadataKeys in the set.
+
 ### Inherited
 
-**keys** ([MetadataKey](MetadataKey.md) - 1..*): Association to the MetadataKeys in the set.
 
 
 ## Referenced By

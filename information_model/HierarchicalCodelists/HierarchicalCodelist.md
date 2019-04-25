@@ -38,9 +38,10 @@ An organised collection of codes that may participate in many parent/child relat
 
 ## References
 
+**hierarchy** ([Hierarchy](Hierarchy.md) - 1..*): Association to Hierarchies of Codes
+
 ### Inherited
 
-**hierarchy** ([Hierarchy](Hierarchy.md) - 1..*): Association to Hierarchies of Codes
 **maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.

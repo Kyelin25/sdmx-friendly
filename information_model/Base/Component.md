@@ -36,10 +36,12 @@ A component is an abstract super class used to define qualitative and quantitati
 
 ## References
 
+**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
+
+**localRepresentation** ([Representation](Representation.md) - 1): No description
+
 ### Inherited
 
-**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
-**localRepresentation** ([Representation](Representation.md) - 1): No description
 **contains** ([Annotation](Annotation.md) - 0..*): No description
 
 

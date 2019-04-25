@@ -38,10 +38,12 @@ A collection of metadata concepts, their structure and usage when used to collec
 
 ## References
 
+**grouping** ([MetadataTarget](MetadataTarget.md) - 1..*): An association to a MetadataTarget or ReportStructure.
+
+**grouping** ([ReportStructure](ReportStructure.md) - 1..*): An association to a MetadataTarget or ReportStructure.
+
 ### Inherited
 
-**grouping** ([MetadataTarget](MetadataTarget.md) - 1..*): An association to a MetadataTarget or ReportStructure.
-**grouping** ([ReportStructure](ReportStructure.md) - 1..*): An association to a MetadataTarget or ReportStructure.
 **maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 **description** ([InternationalString](../Base/InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.

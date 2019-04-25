@@ -20,10 +20,12 @@ Comprises the cross product of values of dimensions that identify uniquely an Ob
 
 ## References
 
+**keyValues** ([KeyValue](KeyValue.md) - 1..*): Association to the individual KeyValues that comprise the Key.
+
+**attachedAttribute** ([AttributeValue](AttributeValue.md) - 0..*): Association to the AttributeValues relating to the Series Key or Group Key.
+
 ### Inherited
 
-**keyValues** ([KeyValue](KeyValue.md) - 1..*): Association to the individual KeyValues that comprise the Key.
-**attachedAttribute** ([AttributeValue](AttributeValue.md) - 0..*): Association to the AttributeValues relating to the Series Key or Group Key.
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 

@@ -20,9 +20,10 @@ Contains the identification of an IdentifiableArtefact.
 
 ## References
 
+**contains** ([MaintainableArtefactRef](MaintainableArtefactRef.md) - 1): The reference identifying the IdentifiableArtefact.
+
 ### Inherited
 
-**contains** ([MaintainableArtefactRef](MaintainableArtefactRef.md) - 1): The reference identifying the IdentifiableArtefact.
 
 
 ## Referenced By

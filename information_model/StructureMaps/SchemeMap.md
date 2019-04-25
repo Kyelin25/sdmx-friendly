@@ -14,9 +14,10 @@ Associates an ItemSchemeMap.
 
 ## References
 
+**contains** ([ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) - 1): No description
+
 ### Inherited
 
-**contains** ([ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) - 1): No description
 
 
 

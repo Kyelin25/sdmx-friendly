@@ -20,9 +20,10 @@ The values of a key in a DataSet.
 
 ## References
 
+**keyValue** ([ComponentValue](../MetadataStructureDefinitions/ComponentValue.md) - 1..*): Associates the ComponentValues that comprise the key.
+
 ### Inherited
 
-**keyValue** ([ComponentValue](../MetadataStructureDefinitions/ComponentValue.md) - 1..*): Associates the ComponentValues that comprise the key.
 
 
 ## Referenced By

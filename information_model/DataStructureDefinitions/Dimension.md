@@ -30,9 +30,10 @@ A metadata concept used (most probably together with other metadata concepts) to
 
 ## References
 
+**role** ([Concept](../ConceptSchemes/Concept.md) - 0..*): Association to the Concept that specifies the role that the Dimension plays in the DataStructureDefinition.
+
 ### Inherited
 
-**role** ([Concept](../ConceptSchemes/Concept.md) - 0..*): Association to the Concept that specifies the role that the Dimension plays in the DataStructureDefinition.
 **conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
 **localRepresentation** ([Representation](../Base/Representation.md) - 1): No description
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description

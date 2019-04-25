@@ -5,7 +5,10 @@ Inherits from: [Key](Key.md)
 
 
 
+## Description
+
 Comprises the cross product of values of all the KeyValues that, together with the KeyValue of the observationDimension identify uniquely an Observation.
+
 
 
 

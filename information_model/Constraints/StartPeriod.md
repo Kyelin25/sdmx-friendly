@@ -1,11 +1,14 @@
 
 # StartPeriod
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 The period from which the constrained selection is valid.
+
 
 ## Attributes
 

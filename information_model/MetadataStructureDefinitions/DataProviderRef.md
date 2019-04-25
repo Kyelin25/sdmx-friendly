@@ -1,11 +1,14 @@
 
 # DataProviderRef
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Specifies the identification of a DataProvider. No other information is available in the Information Model.
+
 
 
 

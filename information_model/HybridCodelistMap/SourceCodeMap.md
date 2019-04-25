@@ -1,7 +1,7 @@
 
 # SourceCodeMap
 
-Inherits from: [](..//.md)
+
 
 
 

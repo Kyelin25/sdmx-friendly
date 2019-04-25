@@ -5,7 +5,10 @@ Inherits from: [KeyValue](KeyValue.md)
 
 
 
+## Description
+
 The value of a coded component of the Key. The value is the Code to which this class is associated.
+
 
 
 

@@ -13,7 +13,10 @@ Inherits from: [ReportedAttribute](ReportedAttribute.md)
 
 
 
+## Description
+
 The content of a ReportedAttribute where this is textual.
+
 
 
 

@@ -1,11 +1,14 @@
 
 # CubeRegion
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 A set of Components and their values that defines a subset or "slice" of the total range of possible content of a DataStructureDefinition to which the ConstrainableArtefact is linked.
+
 
 ## Attributes
 

@@ -5,7 +5,10 @@ Inherits from: [AnnotableArtefact](../Base/AnnotableArtefact.md)
 
 
 
+## Description
+
 Links a source and target Component where there is a semantic equivalence between the source and target Components.
+
 
 ## Attributes
 

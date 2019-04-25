@@ -1,11 +1,14 @@
 
 # MetadataKeySet
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 A set of metadata keys.
+
 
 ## Attributes
 
@@ -23,8 +26,8 @@ keys: [MetadataKey](MetadataKey.md) (OneOrMany) - Association to the MetadataKey
 
 [Constraint](Constraint.md) (as metadataContentKeys)
 
-[Constraint](Constraint.md) (as metadataContentKeys)
+[ContentConstraint](ContentConstraint.md) (as metadataContentKeys)
 
-[Constraint](Constraint.md) (as metadataContentKeys)
+[AttachmentConstraint](AttachmentConstraint.md) (as metadataContentKeys)
 
 

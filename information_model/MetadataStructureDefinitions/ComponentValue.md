@@ -1,11 +1,14 @@
 
 # ComponentValue
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Collectively contain the identification of the components and the values that form the data key.
+
 
 ## Attributes
 

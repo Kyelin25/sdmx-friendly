@@ -1,11 +1,14 @@
 
 # ISOConcept
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 The identity of an ISO concept definition.
+
 
 ## Attributes
 

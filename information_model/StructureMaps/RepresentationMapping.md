@@ -1,7 +1,7 @@
 
 # RepresentationMapping
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -11,7 +11,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 Defines the mapping of the content of the source Component to the content of the target Component.
+
 
 
 

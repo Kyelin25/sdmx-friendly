@@ -1,11 +1,14 @@
 
 # ConstraintRole
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Specifies the way the type of content of a Constraint in terms of its purpose.
+
 
 ## Attributes
 
@@ -19,8 +22,8 @@ role: ConstraintRoleType
 
 [Constraint](Constraint.md) (as role)
 
-[Constraint](Constraint.md) (as role)
+[ContentConstraint](ContentConstraint.md) (as role)
 
-[Constraint](Constraint.md) (as role)
+[AttachmentConstraint](AttachmentConstraint.md) (as role)
 
 

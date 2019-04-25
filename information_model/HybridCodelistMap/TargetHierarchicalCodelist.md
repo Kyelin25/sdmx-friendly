@@ -1,11 +1,14 @@
 
 # TargetHierarchicalCodelist
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Identifies the HierarchicalCodelist where this is the target of the map.
+
 
 
 

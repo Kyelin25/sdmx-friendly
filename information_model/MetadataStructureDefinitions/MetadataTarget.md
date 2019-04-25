@@ -5,13 +5,16 @@ Inherits from: [ComponentList](../Base/ComponentList.md)
 
 
 
+## Description
+
 A set of components that define a key of an object type to which metadata may be attached.
+
 
 
 
 ## References
 
-components: [TargetObject](TargetObject.md) (OneOrMany) - Associates the TargetObject components that define the key of the MetadataTarget.
+components: [TargetObject](TargetObject.md) (ZeroOrMany) - Associates the TargetObject components that define the key of the MetadataTarget.
 
 
 

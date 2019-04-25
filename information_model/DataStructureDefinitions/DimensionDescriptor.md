@@ -5,7 +5,10 @@ Inherits from: [ComponentList](../Base/ComponentList.md)
 
 
 
+## Description
+
 An ordered set of metadata concepts that, combined, classify a statistical series, and whose values, when combined (the key) in an instance such as a data set, uniquely identify a specific observation.
+
 
 
 

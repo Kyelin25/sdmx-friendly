@@ -1,11 +1,14 @@
 
 # MemberSelection
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 A set of permissible values for one component of the axis.
+
 
 ## Attributes
 

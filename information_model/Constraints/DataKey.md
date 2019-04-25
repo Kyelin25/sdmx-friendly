@@ -1,11 +1,14 @@
 
 # DataKey
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 The values of a key in a DataSet.
+
 
 ## Attributes
 

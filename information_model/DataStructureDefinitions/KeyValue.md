@@ -1,7 +1,7 @@
 
 # KeyValue
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -15,7 +15,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 The value of a component of a key such as the value of an instance of a Dimension in a DimensionDescriptor of a DataStructureDefinition.
+
 
 
 
@@ -29,9 +32,9 @@ valueFor: [Dimension](Dimension.md) (One) - Association to the key component in 
 
 [Key](Key.md) (as keyValues)
 
-[Key](Key.md) (as keyValues)
+[GroupKey](GroupKey.md) (as keyValues)
 
-[Key](Key.md) (as keyValues)
+[SeriesKey](SeriesKey.md) (as keyValues)
 
 [Observation](Observation.md) (as observationDimension)
 

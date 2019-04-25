@@ -23,7 +23,10 @@ Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
 
 
+## Description
+
 Provides a name and description to all derived classes in addition to identification and Annotations.
+
 
 ## Attributes
 

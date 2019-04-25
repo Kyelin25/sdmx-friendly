@@ -1,11 +1,14 @@
 
 # DataKeySet
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 A set of data keys.
+
 
 ## Attributes
 
@@ -23,8 +26,8 @@ keys: [DataKey](DataKey.md) (OneOrMany) - Association to the DataKeys in the set
 
 [Constraint](Constraint.md) (as dataContentKeys)
 
-[Constraint](Constraint.md) (as dataContentKeys)
+[ContentConstraint](ContentConstraint.md) (as dataContentKeys)
 
-[Constraint](Constraint.md) (as dataContentKeys)
+[AttachmentConstraint](AttachmentConstraint.md) (as dataContentKeys)
 
 

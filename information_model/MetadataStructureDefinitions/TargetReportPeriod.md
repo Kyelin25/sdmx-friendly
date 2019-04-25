@@ -5,7 +5,10 @@ Inherits from: [TargetObjectValue](TargetObjectValue.md)
 
 
 
+## Description
+
 Contains the period covered by the MetadataReport.
+
 
 ## Attributes
 

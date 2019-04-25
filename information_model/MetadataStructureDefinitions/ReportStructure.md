@@ -5,7 +5,10 @@ Inherits from: [ComponentList](../Base/ComponentList.md)
 
 
 
+## Description
+
 Defines a set of concepts that comprises the MetadataAttributes to be reported.
+
 
 
 
@@ -13,7 +16,7 @@ Defines a set of concepts that comprises the MetadataAttributes to be reported.
 
 reportFor: [MetadataTarget](MetadataTarget.md) (OneOrMany) - Associates the MetadataTargets for which this ReportStructure is used.
 
-components: [MetadataAttribute](MetadataAttribute.md) (OneOrMany) - An association to the MetadataAttributes relevant to the ReportStructure.
+components: [MetadataAttribute](MetadataAttribute.md) (ZeroOrMany) - An association to the MetadataAttributes relevant to the ReportStructure.
 
 
 

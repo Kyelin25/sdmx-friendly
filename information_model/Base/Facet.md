@@ -1,11 +1,14 @@
 
 # Facet
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Defines the format for the content of the Component when reported in a DataSet or MetadataSet.
+
 
 ## Attributes
 

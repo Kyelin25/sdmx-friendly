@@ -9,7 +9,10 @@ Inherits from: [NameableArtefact](NameableArtefact.md)
 
 
 
+## Description
+
 Provides versioning information for all derived objects.
+
 
 ## Attributes
 
@@ -29,11 +32,11 @@ urn: Urn
 
 ## References
 
-contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
-
 name: [InternationalString](InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+
+contains: [Annotation](Annotation.md) (ZeroOrMany) - No description
 
 
 

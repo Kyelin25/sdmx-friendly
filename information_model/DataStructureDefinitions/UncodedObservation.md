@@ -5,7 +5,10 @@ Inherits from: [ObservationValue](ObservationValue.md)
 
 
 
+## Description
+
 An observation that has a text value.
+
 
 ## Attributes
 

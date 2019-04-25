@@ -1,7 +1,7 @@
 
 # TargetCodeMap
 
-Inherits from: [](..//.md)
+
 
 
 

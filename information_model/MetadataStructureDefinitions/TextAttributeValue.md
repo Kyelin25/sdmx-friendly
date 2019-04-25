@@ -5,7 +5,10 @@ Inherits from: [NonEnumeratedAttributeValue](NonEnumeratedAttributeValue.md)
 
 
 
+## Description
+
 The value of a ReportedAttribute where the content is human-readable text.
+
 
 
 

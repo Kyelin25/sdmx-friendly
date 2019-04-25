@@ -1,7 +1,7 @@
 
 # AnnotableArtefact
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -15,9 +15,14 @@ Inherits from: [](..//.md)
 
 [ComponentMap](../StructureMaps/ComponentMap.md)
 
+[Computation](../Process/Computation.md)
 
+
+
+## Description
 
 Objects of classes derived from this can have attached annotations.
+
 
 
 

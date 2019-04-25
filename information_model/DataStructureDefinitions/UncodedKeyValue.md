@@ -5,7 +5,10 @@ Inherits from: [KeyValue](KeyValue.md)
 
 
 
+## Description
+
 The value of an uncoded component of the Key.
+
 
 ## Attributes
 

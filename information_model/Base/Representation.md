@@ -1,11 +1,14 @@
 
 # Representation
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 The allowable value or format for Component or Concept.
+
 
 
 
@@ -25,31 +28,31 @@ nonEnumerated: [ExtendedFacet](ExtendedFacet.md) (ZeroOrMany) - Association to a
 
 [Component](Component.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[Dimension](../DataStructureDefinitions/Dimension.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[MeasureDimension](../DataStructureDefinitions/MeasureDimension.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[TimeDimension](../DataStructureDefinitions/TimeDimension.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[DataAttribute](../DataStructureDefinitions/DataAttribute.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[ReportingYearStartDay](../DataStructureDefinitions/ReportingYearStartDay.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[PrimaryMeasure](../DataStructureDefinitions/PrimaryMeasure.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[TargetObject](../MetadataStructureDefinitions/TargetObject.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[DimensionDescriptorValuesTarget](../MetadataStructureDefinitions/DimensionDescriptorValuesTarget.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[IdentifiableObjectTarget](../MetadataStructureDefinitions/IdentifiableObjectTarget.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[DataSetTarget](../MetadataStructureDefinitions/DataSetTarget.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[ReportPeriodTarget](../MetadataStructureDefinitions/ReportPeriodTarget.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[ConstraintTarget](../MetadataStructureDefinitions/ConstraintTarget.md) (as localRepresentation)
 
-[Component](Component.md) (as localRepresentation)
+[MetadataAttribute](../MetadataStructureDefinitions/MetadataAttribute.md) (as localRepresentation)
 
 [ConceptUsage](../MetadataStructureDefinitions/ConceptUsage.md) (as localRepresentation)
 

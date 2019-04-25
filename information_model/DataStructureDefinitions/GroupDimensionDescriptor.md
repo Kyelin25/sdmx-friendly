@@ -5,7 +5,10 @@ Inherits from: [ComponentList](../Base/ComponentList.md)
 
 
 
+## Description
+
 A set of metadata concepts that define a partial key derived from the DimensionDescriptor in a DataStructureDefinition.
+
 
 
 

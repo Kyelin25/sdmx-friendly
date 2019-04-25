@@ -5,7 +5,10 @@ Inherits from: [TargetObjectValue](TargetObjectValue.md)
 
 
 
+## Description
+
 The identification of the components and the values that form the data or metadata key.
+
 
 
 

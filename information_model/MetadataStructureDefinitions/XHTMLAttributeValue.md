@@ -5,7 +5,10 @@ Inherits from: [NonEnumeratedAttributeValue](NonEnumeratedAttributeValue.md)
 
 
 
+## Description
+
 This contains XHTML.
+
 
 ## Attributes
 

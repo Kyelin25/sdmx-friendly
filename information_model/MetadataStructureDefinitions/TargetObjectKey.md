@@ -1,11 +1,14 @@
 
 # TargetObjectKey
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Identifies the key of the object to which the metadata are to be attached.
+
 
 
 

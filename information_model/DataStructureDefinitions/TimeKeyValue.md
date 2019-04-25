@@ -5,7 +5,10 @@ Inherits from: [KeyValue](KeyValue.md)
 
 
 
+## Description
+
 The value of the TimeDimension component of the Key.
+
 
 ## Attributes
 

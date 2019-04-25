@@ -1,7 +1,7 @@
 
 # AttributeValue
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -11,7 +11,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 The value of an attribute, such as the instance of a Coded Attribute or of an Uncoded Attribute in a structure such as a DataStructureDefinition.
+
 
 ## Attributes
 
@@ -29,20 +32,20 @@ valueFor: [DataAttribute](DataAttribute.md) (One) - Association to the DataAttri
 
 [Key](Key.md) (as attachedAttribute)
 
-[Key](Key.md) (as attachedAttribute)
+[GroupKey](GroupKey.md) (as attachedAttribute)
 
-[Key](Key.md) (as attachedAttribute)
-
-[DataSet](DataSet.md) (as attachedAttribute)
-
-[DataSet](DataSet.md) (as attachedAttribute)
-
-[DataSet](DataSet.md) (as attachedAttribute)
-
-[DataSet](DataSet.md) (as attachedAttribute)
-
-[DataSet](DataSet.md) (as attachedAttribute)
+[SeriesKey](SeriesKey.md) (as attachedAttribute)
 
 [Observation](Observation.md) (as attachedAttribute)
+
+[DataSet](DataSet.md) (as attachedAttribute)
+
+[GenericDataSet](GenericDataSet.md) (as attachedAttribute)
+
+[StructureSpecificDataSet](StructureSpecificDataSet.md) (as attachedAttribute)
+
+[GenericTimeseriesDataSet](GenericTimeseriesDataSet.md) (as attachedAttribute)
+
+[StructureSpecificTimeseriesDataSet](StructureSpecificTimeseriesDataSet.md) (as attachedAttribute)
 
 

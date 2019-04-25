@@ -1,7 +1,7 @@
 
 # MaintainableArtefactRef
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -9,7 +9,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 Identification of the target object by means of its identifier constructs i.e. agency ID, id and version.
+
 
 ## Attributes
 

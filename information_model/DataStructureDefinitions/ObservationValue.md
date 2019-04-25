@@ -1,7 +1,7 @@
 
 # ObservationValue
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 

@@ -1,11 +1,14 @@
 
 # TimeDimensionValue
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Contains identification of the TimeDimension and the value.
+
 
 ## Attributes
 

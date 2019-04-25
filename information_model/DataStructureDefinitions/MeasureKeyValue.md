@@ -5,7 +5,10 @@ Inherits from: [KeyValue](KeyValue.md)
 
 
 
+## Description
+
 The value of the MeasureDimension component of the Key. The value is the Concept to which this class is associated.
+
 
 
 

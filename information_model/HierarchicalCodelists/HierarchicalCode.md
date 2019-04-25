@@ -5,7 +5,10 @@ Inherits from: [IdentifiableArtefact](../Base/IdentifiableArtefact.md)
 
 
 
+## Description
+
 A hierarchic structure of code references.
+
 
 ## Attributes
 

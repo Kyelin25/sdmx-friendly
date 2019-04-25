@@ -1,7 +1,7 @@
 
 # TargetList
 
-Inherits from: [](..//.md)
+
 
 
 

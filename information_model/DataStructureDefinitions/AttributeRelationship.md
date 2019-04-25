@@ -1,7 +1,7 @@
 
 # AttributeRelationship
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -15,7 +15,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 Specifies the type of artefact to which a DataAttribute can be attached in a DataSet.
+
 
 
 
@@ -25,6 +28,6 @@ Specifies the type of artefact to which a DataAttribute can be attached in a Dat
 
 [DataAttribute](DataAttribute.md) (as relatedTo)
 
-[DataAttribute](DataAttribute.md) (as relatedTo)
+[ReportingYearStartDay](ReportingYearStartDay.md) (as relatedTo)
 
 

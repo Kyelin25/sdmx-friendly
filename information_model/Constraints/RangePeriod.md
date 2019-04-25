@@ -5,7 +5,10 @@ Inherits from: [TimeRangeValue](TimeRangeValue.md)
 
 
 
+## Description
+
 The start and end periods in a date range.
+
 
 
 

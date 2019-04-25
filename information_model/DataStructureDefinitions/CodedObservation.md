@@ -5,7 +5,10 @@ Inherits from: [ObservationValue](ObservationValue.md)
 
 
 
+## Description
+
 An Observation that takes its value from a code in a Codelist.
+
 
 
 

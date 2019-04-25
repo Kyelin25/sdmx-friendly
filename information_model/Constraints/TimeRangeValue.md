@@ -13,7 +13,10 @@ Inherits from: [SelectionValue](SelectionValue.md)
 
 
 
+## Description
+
 A time value or values that specifies the date or dates for which the constrained selection is valid.
+
 
 
 

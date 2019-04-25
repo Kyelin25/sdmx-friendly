@@ -1,11 +1,14 @@
 
 # HierarchicalCodeReference
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 References both the Hierarchy and the HierarchicalCode in a HierarchicalCodelist.
+
 
 
 

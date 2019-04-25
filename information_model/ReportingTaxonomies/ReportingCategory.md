@@ -5,7 +5,10 @@ Inherits from: [Item](../Base/Item.md)
 
 
 
+## Description
+
 A component that gives structure to the report and links to data and metadata.
+
 
 ## Attributes
 
@@ -23,22 +26,24 @@ flow: [StructureUsage](../Base/StructureUsage.md) (ZeroOrMany) - Association to 
 
 structure: [Structure](../Base/Structure.md) (ZeroOrMany) - Association to the DataStructureDefinitions and MetadataStructureDefinitions which define the structural metadata describing the data and metadata that are contained at this part of the report.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+child: [ReportingCategory](ReportingCategory.md) (ZeroOrMany) - A child of this ReportingCategory
 
 name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
-child: [Item](../Base/Item.md) (ZeroOrMany) - A child of this item.
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 
 ## Referenced By
 
-[ItemScheme](../Base/ItemScheme.md) (as items)
+[ReportingTaxonomy](ReportingTaxonomy.md) (as items)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as source)
+[ReportingCategory](ReportingCategory.md) (as child)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as target)
+[ReportingCategoryMap](../ItemSchemeMaps/ReportingCategoryMap.md) (as source)
+
+[ReportingCategoryMap](../ItemSchemeMaps/ReportingCategoryMap.md) (as target)
 
 

@@ -5,7 +5,10 @@ Inherits from: [NameableArtefact](../Base/NameableArtefact.md)
 
 
 
+## Description
+
 Any organised collection of metadata.
+
 
 ## Attributes
 

@@ -5,7 +5,10 @@ Inherits from: [AttributeValue](AttributeValue.md)
 
 
 
+## Description
+
 An AttributeValue that has a text value.
+
 
 ## Attributes
 

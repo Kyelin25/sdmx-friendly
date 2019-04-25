@@ -5,7 +5,10 @@ Inherits from: [RepresentationMapping](RepresentationMapping.md)
 
 
 
+## Description
+
 Associates an ItemSchemeMap.
+
 
 
 

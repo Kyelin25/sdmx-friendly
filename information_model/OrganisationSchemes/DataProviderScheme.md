@@ -5,21 +5,14 @@ Inherits from: [OrganisationScheme](OrganisationScheme.md)
 
 
 
+## Description
+
 A maintained collection of DataProviders.
+
 
 ## Attributes
 
-id: string
-
-uri: Url
-
-urn: Urn
-
-version: A version string following an agreed convention.
-
-validFrom: Date from which the version is valid.
-
-validTo: Date from which version is superceded.
+isPartial: bool
 
 final: Defines whether a maintained artefact is draft or final.
 
@@ -29,21 +22,31 @@ serviceUrl: The URL of an SDMX-compliant web service from which the external obj
 
 structureUrl: The URL of an SDMX-ML document containing the external object
 
-isPartial: bool
+version: A version string following an agreed convention.
+
+validFrom: Date from which the version is valid.
+
+validTo: Date from which version is superceded.
+
+id: string
+
+uri: Url
+
+urn: Urn
 
 
 
 ## References
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+items: [DataProvider](DataProvider.md) (ZeroOrMany) - Association to the DataProviders in the DataProviderScheme.
+
+maintainer: [Agency](Agency.md) (One) - No description
 
 name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
-maintainer: [Agency](Agency.md) (One) - No description
-
-items: [DataProvider](DataProvider.md) (ZeroOrMany) - Association to the DataProviders in the DataProviderScheme.
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 

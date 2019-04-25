@@ -15,7 +15,10 @@ Inherits from: [Item](../Base/Item.md)
 
 
 
+## Description
+
 An organisation is a unique framework of authority within which a person or persons act, or are designated to act, towards some purpose.
+
 
 ## Attributes
 
@@ -31,22 +34,24 @@ urn: Urn
 
 contact: [Contact](Contact.md) (One) - Association to the Contact information.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+child: [Organisation](Organisation.md) (ZeroOrMany) - A child of this Organisation
 
 name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
-child: [Item](../Base/Item.md) (ZeroOrMany) - A child of this item.
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 
 ## Referenced By
 
-[ItemScheme](../Base/ItemScheme.md) (as items)
+[OrganisationScheme](OrganisationScheme.md) (as items)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as source)
+[Organisation](Organisation.md) (as child)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as target)
+[OrganisationMap](../ItemSchemeMaps/OrganisationMap.md) (as source)
+
+[OrganisationMap](../ItemSchemeMaps/OrganisationMap.md) (as target)
 
 

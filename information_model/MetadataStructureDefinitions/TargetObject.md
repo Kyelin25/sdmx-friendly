@@ -31,26 +31,26 @@ urn: Urn
 
 ## References
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
-
-conceptIdentity: [Concept](../ConceptSchemes/Concept.md) (One) - No description
+conceptIdentity: [Concept](../ConceptSchemes/Concept.md) (One) - An association to the Concept which carries the values of the measures.
 
 localRepresentation: [Representation](../Base/Representation.md) (One) - Associates a Representation to the TargetObject that must be respected when the object is identified in any MetadataSet. This may be enumerated or non-enumerated.
+
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 
 ## Referenced By
 
-[ComponentList](../Base/ComponentList.md) (as components)
+[MetadataTarget](MetadataTarget.md) (as components)
 
 [TargetObjectValue](TargetObjectValue.md) (as valueFor)
 
-[TargetObjectValue](TargetObjectValue.md) (as valueFor)
+[TargetDataKey](TargetDataKey.md) (as valueFor)
 
-[TargetObjectValue](TargetObjectValue.md) (as valueFor)
+[TargetIdentifiableObject](TargetIdentifiableObject.md) (as valueFor)
 
-[TargetObjectValue](TargetObjectValue.md) (as valueFor)
+[TargetDataSet](TargetDataSet.md) (as valueFor)
 
-[TargetObjectValue](TargetObjectValue.md) (as valueFor)
+[TargetReportPeriod](TargetReportPeriod.md) (as valueFor)
 
 

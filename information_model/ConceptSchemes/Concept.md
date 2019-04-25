@@ -5,7 +5,10 @@ Inherits from: [Item](../Base/Item.md)
 
 
 
+## Description
+
 A concept is a unit of knowledge created by a unique combination of characteristics.
+
 
 ## Attributes
 
@@ -23,61 +26,63 @@ coreRepresentation: [Representation](../Base/Representation.md) (ZeroOrOne) - As
 
 ISOConcept: [ISOConcept](ISOConcept.md) (ZeroOrOne) - Association to an ISO concept reference.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+child: [Concept](Concept.md) (ZeroOrMany) - A child of this Concept
 
 name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
-child: [Item](../Base/Item.md) (ZeroOrMany) - A child of this item.
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 
 ## Referenced By
 
-[ItemScheme](../Base/ItemScheme.md) (as items)
+[ConceptScheme](ConceptScheme.md) (as items)
+
+[Concept](Concept.md) (as child)
 
 [Component](../Base/Component.md) (as conceptIdentity)
 
 [Dimension](../DataStructureDefinitions/Dimension.md) (as role)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[Dimension](../DataStructureDefinitions/Dimension.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[MeasureDimension](../DataStructureDefinitions/MeasureDimension.md) (as role)
 
-[Dimension](../DataStructureDefinitions/Dimension.md) (as role)
+[MeasureDimension](../DataStructureDefinitions/MeasureDimension.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[TimeDimension](../DataStructureDefinitions/TimeDimension.md) (as role)
 
-[Dimension](../DataStructureDefinitions/Dimension.md) (as role)
+[TimeDimension](../DataStructureDefinitions/TimeDimension.md) (as conceptIdentity)
 
 [DataAttribute](../DataStructureDefinitions/DataAttribute.md) (as role)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[DataAttribute](../DataStructureDefinitions/DataAttribute.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[ReportingYearStartDay](../DataStructureDefinitions/ReportingYearStartDay.md) (as role)
 
-[DataAttribute](../DataStructureDefinitions/DataAttribute.md) (as role)
+[ReportingYearStartDay](../DataStructureDefinitions/ReportingYearStartDay.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[PrimaryMeasure](../DataStructureDefinitions/PrimaryMeasure.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[TargetObject](../MetadataStructureDefinitions/TargetObject.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[DimensionDescriptorValuesTarget](../MetadataStructureDefinitions/DimensionDescriptorValuesTarget.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[IdentifiableObjectTarget](../MetadataStructureDefinitions/IdentifiableObjectTarget.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[DataSetTarget](../MetadataStructureDefinitions/DataSetTarget.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[ReportPeriodTarget](../MetadataStructureDefinitions/ReportPeriodTarget.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[ConstraintTarget](../MetadataStructureDefinitions/ConstraintTarget.md) (as conceptIdentity)
 
-[Component](../Base/Component.md) (as conceptIdentity)
+[MetadataAttribute](../MetadataStructureDefinitions/MetadataAttribute.md) (as conceptIdentity)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as source)
+[ConceptMap](../ItemSchemeMaps/ConceptMap.md) (as source)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as target)
+[ConceptMap](../ItemSchemeMaps/ConceptMap.md) (as target)
 
 [MeasureKeyValue](../DataStructureDefinitions/MeasureKeyValue.md) (as value)
 

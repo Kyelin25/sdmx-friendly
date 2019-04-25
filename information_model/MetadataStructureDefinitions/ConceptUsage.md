@@ -1,11 +1,14 @@
 
 # ConceptUsage
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 The use of a Concept as a MetadataAttribute.
+
 
 
 

@@ -5,7 +5,10 @@ Inherits from: [AnnotableArtefact](../Base/AnnotableArtefact.md)
 
 
 
+## Description
+
 Associates the source and target codes in the HybridCodelistMap.
+
 
 
 

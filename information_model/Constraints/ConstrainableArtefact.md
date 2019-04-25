@@ -1,11 +1,34 @@
 
 # ConstrainableArtefact
 
-Inherits from: [](..//.md)
 
 
+## Subclasses
+
+[DataflowDefinition](../DataStructureDefinitions/DataflowDefinition.md)
+
+[MetadataFlowDefinition](../MetadataStructureDefinitions/MetadataFlowDefinition.md)
+
+[DataStructureDefinition](../DataStructureDefinitions/DataStructureDefinition.md)
+
+[MetadataStructureDefinition](../MetadataStructureDefinitions/MetadataStructureDefinition.md)
+
+[DataProvider](../OrganisationSchemes/DataProvider.md)
+
+[DataSet](../DataStructureDefinitions/DataSet.md)
+
+[ProvisionAgreement](../DataProvisioning/ProvisionAgreement.md)
+
+[SimpleDatasource](../DataProvisioning/SimpleDatasource.md)
+
+[WebServicesDatasource](../DataProvisioning/WebServicesDatasource.md)
+
+
+
+## Description
 
 An artefact that can have Constraints specified.
+
 
 
 

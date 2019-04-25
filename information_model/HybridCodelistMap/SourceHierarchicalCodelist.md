@@ -1,11 +1,14 @@
 
 # SourceHierarchicalCodelist
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Identifies the HierarchicalCodelist where this is the source of the map.
+
 
 
 

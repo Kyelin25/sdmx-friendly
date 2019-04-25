@@ -5,7 +5,10 @@ Inherits from: [ReportedAttribute](ReportedAttribute.md)
 
 
 
+## Description
+
 The content of a ReportedAttribute that is taken from a Code in a Codelist.
+
 
 ## Attributes
 

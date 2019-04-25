@@ -5,7 +5,10 @@ Inherits from: [AttributeValue](AttributeValue.md)
 
 
 
+## Description
+
 An Attribute that takes its value from a Code in a Codelist.
+
 
 ## Attributes
 

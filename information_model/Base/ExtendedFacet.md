@@ -1,11 +1,14 @@
 
 # ExtendedFacet
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 This has the same function as Facet, but allows additionally an XHTML representation. This is constrained for use with a MetadataAttribute.
+
 
 ## Attributes
 

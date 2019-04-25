@@ -5,7 +5,10 @@ Inherits from: [Item](../Base/Item.md)
 
 
 
+## Description
+
 An item at any level within a classification, typically tabulation categories, sections, subsections, divisions, subdivisions, groups, subgroups, classes and subclasses.
+
 
 ## Attributes
 
@@ -19,23 +22,25 @@ urn: Urn
 
 ## References
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+child: [Category](Category.md) (ZeroOrMany) - A child of this Category
 
 name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
-child: [Item](../Base/Item.md) (ZeroOrMany) - A child of this item.
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 
 ## Referenced By
 
-[ItemScheme](../Base/ItemScheme.md) (as items)
+[CategoryScheme](CategoryScheme.md) (as items)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as source)
+[Category](Category.md) (as child)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as target)
+[CategoryMap](../ItemSchemeMaps/CategoryMap.md) (as source)
+
+[CategoryMap](../ItemSchemeMaps/CategoryMap.md) (as target)
 
 [Categorisation](Categorisation.md) (as categorisedBy)
 

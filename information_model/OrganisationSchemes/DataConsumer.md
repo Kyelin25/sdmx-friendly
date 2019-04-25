@@ -5,7 +5,10 @@ Inherits from: [Organisation](Organisation.md)
 
 
 
+## Description
+
 An organisation using data as input for further processing.
+
 
 ## Attributes
 
@@ -19,20 +22,22 @@ urn: Urn
 
 ## References
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
+contact: [Contact](Contact.md) (One) - Association to the Contact information.
+
+child: [DataConsumer](DataConsumer.md) (ZeroOrMany) - A child of this DataConsumer
 
 name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
 
-child: [Item](../Base/Item.md) (ZeroOrMany) - A child of this item.
-
-contact: [Contact](Contact.md) (One) - Association to the Contact information.
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 
 ## Referenced By
 
-[ItemScheme](../Base/ItemScheme.md) (as items)
+[DataConsumerScheme](DataConsumerScheme.md) (as items)
+
+[DataConsumer](DataConsumer.md) (as child)
 
 

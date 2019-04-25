@@ -1,11 +1,14 @@
 
 # StructureRef
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 Contains the identification of an IdentifiableArtefact.
+
 
 ## Attributes
 

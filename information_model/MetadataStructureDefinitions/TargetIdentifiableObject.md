@@ -5,7 +5,10 @@ Inherits from: [TargetObjectValue](TargetObjectValue.md)
 
 
 
+## Description
+
 Specifies the identification of an IdentifiableArtefact.
+
 
 
 

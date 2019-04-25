@@ -1,7 +1,7 @@
 
 # SourceList
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 

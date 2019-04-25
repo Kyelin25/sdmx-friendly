@@ -1,11 +1,14 @@
 
 # ReleaseCalendar
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 The schedule of publication or reporting of the data or metadata.
+
 
 ## Attributes
 

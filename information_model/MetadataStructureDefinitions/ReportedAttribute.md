@@ -1,7 +1,7 @@
 
 # ReportedAttribute
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -11,7 +11,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 The value for a MetadataAttribute.
+
 
 
 
@@ -27,15 +30,15 @@ child: [ReportedAttribute](ReportedAttribute.md) (ZeroOrMany) - Association to a
 
 [ReportedAttribute](ReportedAttribute.md) (as child)
 
-[ReportedAttribute](ReportedAttribute.md) (as child)
+[NonEnumeratedAttributeValue](NonEnumeratedAttributeValue.md) (as child)
 
-[ReportedAttribute](ReportedAttribute.md) (as child)
+[XHTMLAttributeValue](XHTMLAttributeValue.md) (as child)
 
-[ReportedAttribute](ReportedAttribute.md) (as child)
+[TextAttributeValue](TextAttributeValue.md) (as child)
 
-[ReportedAttribute](ReportedAttribute.md) (as child)
+[OtherNonEnumeratedAttributeValue](OtherNonEnumeratedAttributeValue.md) (as child)
 
-[ReportedAttribute](ReportedAttribute.md) (as child)
+[EnumeratedAttributeValue](EnumeratedAttributeValue.md) (as child)
 
 [MetadataReport](MetadataReport.md) (as metadata)
 

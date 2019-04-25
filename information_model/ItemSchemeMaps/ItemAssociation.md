@@ -35,12 +35,4 @@ contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 [ItemSchemeMap](ItemSchemeMap.md) (as ItemAssociation)
 
-[ItemSchemeMap](ItemSchemeMap.md) (as ItemAssociation)
-
-[ItemSchemeMap](ItemSchemeMap.md) (as ItemAssociation)
-
-[ItemSchemeMap](ItemSchemeMap.md) (as ItemAssociation)
-
-[ItemSchemeMap](ItemSchemeMap.md) (as ItemAssociation)
-
 

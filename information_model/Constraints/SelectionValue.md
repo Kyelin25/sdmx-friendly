@@ -1,7 +1,7 @@
 
 # SelectionValue
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -11,7 +11,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 A collection of values for the MemberSelections that, combined with other MemberSelections, comprise the value content of the CubeRegion.
+
 
 
 

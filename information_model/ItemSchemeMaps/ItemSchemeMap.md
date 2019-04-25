@@ -17,7 +17,10 @@ Inherits from: [NameableArtefact](../Base/NameableArtefact.md)
 
 
 
+## Description
+
 Associates two ItemSchemes.
+
 
 ## Attributes
 
@@ -37,11 +40,11 @@ target: [ItemScheme](../Base/ItemScheme.md) (One) - Association to the target It
 
 ItemAssociation: [ItemAssociation](ItemAssociation.md) (OneOrMany) - Association to the ItemAssociation.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
-
 name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
 
 description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 

@@ -1,7 +1,7 @@
 
 # DataSet
 
-Inherits from: [](..//.md)
+Inherits from: [ConstrainableArtefact](../Constraints/ConstrainableArtefact.md)
 
 ## Subclasses
 
@@ -15,7 +15,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 An organised collection of data.
+
 
 ## Attributes
 
@@ -48,6 +51,10 @@ structuredBy: [DataStructureDefinition](DataStructureDefinition.md) (One) - Asso
 publishedBy: [DataProvider](../OrganisationSchemes/DataProvider.md) (ZeroOrOne) - Association to the DataProvider that reports/publishes the data.
 
 attachedAttribute: [AttributeValue](AttributeValue.md) (ZeroOrMany) - Association to the AttributeValues relating to the DataSet.
+
+content: [ContentConstraint](../Constraints/ContentConstraint.md) (ZeroOrMany) - Associates the metadata that constrains the content to be found in a data or metadata source linked to the ConstrainableArtefact.
+
+attachment: [AttachmentConstraint](../Constraints/AttachmentConstraint.md) (ZeroOrMany) - Associates the metadata that constrains the valid content of a ConstrainableArtefact to which metadata may be attached.
 
 
 

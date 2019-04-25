@@ -1,7 +1,7 @@
 
 # ComponentList
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -19,7 +19,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 An abstract definition of a list of components. A concrete example is a DimensionDescriptor which defines the list of Dimensions in a DataStructureDefinition.
+
 
 
 
@@ -33,7 +36,7 @@ components: [Component](Component.md) (OneOrMany) - An aggregate association to 
 
 [Structure](Structure.md) (as grouping)
 
-[Structure](Structure.md) (as grouping)
+[DataStructureDefinition](../DataStructureDefinitions/DataStructureDefinition.md) (as grouping)
 
 [MetadataTargetRegion](../Constraints/MetadataTargetRegion.md) (as componentList)
 

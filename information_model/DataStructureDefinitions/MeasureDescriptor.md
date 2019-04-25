@@ -5,7 +5,10 @@ Inherits from: [ComponentList](../Base/ComponentList.md)
 
 
 
+## Description
+
 A metadata concept that defines the measure of a DataStructureDefinition.
+
 
 
 

@@ -5,21 +5,12 @@ Inherits from: [Constraint](Constraint.md)
 
 
 
+## Description
+
 Defines a Constraint in terms of the content that can be found in data or metadata sources linked to the ConstrainableArtefact to which this constraint is associated.
 
+
 ## Attributes
-
-id: string
-
-uri: Url
-
-urn: Urn
-
-version: A version string following an agreed convention.
-
-validFrom: Date from which the version is valid.
-
-validTo: Date from which version is superceded.
 
 final: Defines whether a maintained artefact is draft or final.
 
@@ -28,6 +19,18 @@ isExternalReference: If set to "true" it indicates that the content of the objec
 serviceUrl: The URL of an SDMX-compliant web service from which the external object can be retrieved.
 
 structureUrl: The URL of an SDMX-ML document containing the external object
+
+version: A version string following an agreed convention.
+
+validFrom: Date from which the version is valid.
+
+validTo: Date from which version is superceded.
+
+id: string
+
+uri: Url
+
+urn: Urn
 
 
 
@@ -41,22 +44,52 @@ availableDates: [ReferencePeriod](ReferencePeriod.md) (ZeroOrOne) - Association 
 
 contains: [ReleaseCalendar](ReleaseCalendar.md) (ZeroOrOne) - Association to a ReleaseCalendar
 
-name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
-
-description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
-
-maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
-
 dataContentKeys: [DataKeySet](DataKeySet.md) (ZeroOrMany) - Association to a subset of DataKeySets (i.e. value combinations) that can be derived from the definition of the structure to which the ConstrainableArtefact is linked.
 
 metadataContentKeys: [MetadataKeySet](MetadataKeySet.md) (ZeroOrMany) - Association to a subset of MetadataKeySets (i.e. value combinations) that can be derived from the definition of the Structure to which the ConstrainableArtefact is linked.
 
 role: [ConstraintRole](ConstraintRole.md) (OneOrMany) - Association to the role that the Constraint plays.
 
+maintainer: [Agency](../OrganisationSchemes/Agency.md) (One) - No description
+
+name: [InternationalString](../Base/InternationalString.md) (One) - A multi-lingual name is provided by this role via the InternationalString class.
+
+description: [InternationalString](../Base/InternationalString.md) (ZeroOrOne) - A multi-lingual description is provided by this role via the InternationalString class.
+
 
 
 ## Referenced By
 
 [ConstrainableArtefact](ConstrainableArtefact.md) (as content)
+
+[DataStructureDefinition](../DataStructureDefinitions/DataStructureDefinition.md) (as content)
+
+[MetadataStructureDefinition](../MetadataStructureDefinitions/MetadataStructureDefinition.md) (as content)
+
+[DataflowDefinition](../DataStructureDefinitions/DataflowDefinition.md) (as content)
+
+[MetadataFlowDefinition](../MetadataStructureDefinitions/MetadataFlowDefinition.md) (as content)
+
+[DataProvider](../OrganisationSchemes/DataProvider.md) (as content)
+
+[DataSet](../DataStructureDefinitions/DataSet.md) (as content)
+
+[GenericDataSet](../DataStructureDefinitions/GenericDataSet.md) (as content)
+
+[StructureSpecificDataSet](../DataStructureDefinitions/StructureSpecificDataSet.md) (as content)
+
+[GenericTimeseriesDataSet](../DataStructureDefinitions/GenericTimeseriesDataSet.md) (as content)
+
+[StructureSpecificTimeseriesDataSet](../DataStructureDefinitions/StructureSpecificTimeseriesDataSet.md) (as content)
+
+[ProvisionAgreement](../DataProvisioning/ProvisionAgreement.md) (as content)
+
+[SimpleDatasource](../DataProvisioning/SimpleDatasource.md) (as content)
+
+[WebServicesDatasource](../DataProvisioning/WebServicesDatasource.md) (as content)
+
+[RESTDatasource](../DataProvisioning/RESTDatasource.md) (as content)
+
+[SOAPDatasource](../DataProvisioning/SOAPDatasource.md) (as content)
 
 

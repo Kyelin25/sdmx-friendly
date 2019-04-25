@@ -5,7 +5,10 @@ Inherits from: [MaintainableArtefactRef](MaintainableArtefactRef.md)
 
 
 
+## Description
+
 Identification of the target object by means of its identifier constructs i.e. agency ID, id, version and the IdentifiableObject id.
+
 
 ## Attributes
 

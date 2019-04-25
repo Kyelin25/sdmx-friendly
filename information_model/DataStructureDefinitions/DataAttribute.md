@@ -9,7 +9,10 @@ Inherits from: [Component](../Base/Component.md)
 
 
 
+## Description
+
 A characteristic of an object or entity.
+
 
 ## Attributes
 
@@ -29,22 +32,22 @@ role: [Concept](../ConceptSchemes/Concept.md) (ZeroOrMany) - Association to the 
 
 relatedTo: [AttributeRelationship](AttributeRelationship.md) (One) - Association to an AttributeRelationship.
 
-contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
-
 conceptIdentity: [Concept](../ConceptSchemes/Concept.md) (One) - No description
 
 localRepresentation: [Representation](../Base/Representation.md) (One) - No description
+
+contains: [Annotation](../Base/Annotation.md) (ZeroOrMany) - No description
 
 
 
 ## Referenced By
 
-[ComponentList](../Base/ComponentList.md) (as components)
+[AttributeDescriptor](AttributeDescriptor.md) (as components)
 
 [AttributeValue](AttributeValue.md) (as valueFor)
 
-[AttributeValue](AttributeValue.md) (as valueFor)
+[UncodedAttributeValue](UncodedAttributeValue.md) (as valueFor)
 
-[AttributeValue](AttributeValue.md) (as valueFor)
+[CodedAttributeValue](CodedAttributeValue.md) (as valueFor)
 
 

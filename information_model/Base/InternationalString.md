@@ -1,11 +1,14 @@
 
 # InternationalString
 
-Inherits from: [](..//.md)
 
 
+
+
+## Description
 
 A collection of LocalisedStrings.
+
 
 
 
@@ -23,181 +26,189 @@ contains: [LocalisedString](LocalisedString.md) (ZeroOrMany) - No description
 
 [NameableArtefact](NameableArtefact.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[VersionableArtefact](VersionableArtefact.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[VersionableArtefact](VersionableArtefact.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[MaintainableArtefact](MaintainableArtefact.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[MaintainableArtefact](MaintainableArtefact.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[ItemScheme](ItemScheme.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[ItemScheme](ItemScheme.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Codelist](../Codelists/Codelist.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Codelist](../Codelists/Codelist.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[ConceptScheme](../ConceptSchemes/ConceptScheme.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[ConceptScheme](../ConceptSchemes/ConceptScheme.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[CategoryScheme](../CategorySchemes/CategoryScheme.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[CategoryScheme](../CategorySchemes/CategoryScheme.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[OrganisationScheme](../OrganisationSchemes/OrganisationScheme.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[OrganisationScheme](../OrganisationSchemes/OrganisationScheme.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[AgencyScheme](../OrganisationSchemes/AgencyScheme.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[AgencyScheme](../OrganisationSchemes/AgencyScheme.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[DataProviderScheme](../OrganisationSchemes/DataProviderScheme.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[DataProviderScheme](../OrganisationSchemes/DataProviderScheme.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[DataConsumerScheme](../OrganisationSchemes/DataConsumerScheme.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[DataConsumerScheme](../OrganisationSchemes/DataConsumerScheme.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[OrganisationUnitScheme](../OrganisationSchemes/OrganisationUnitScheme.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[OrganisationUnitScheme](../OrganisationSchemes/OrganisationUnitScheme.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[ReportingTaxonomy](../ReportingTaxonomies/ReportingTaxonomy.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[ReportingTaxonomy](../ReportingTaxonomies/ReportingTaxonomy.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Structure](Structure.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Structure](Structure.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[DataStructureDefinition](../DataStructureDefinitions/DataStructureDefinition.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[DataStructureDefinition](../DataStructureDefinitions/DataStructureDefinition.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[MetadataStructureDefinition](../MetadataStructureDefinitions/MetadataStructureDefinition.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[MetadataStructureDefinition](../MetadataStructureDefinitions/MetadataStructureDefinition.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[StructureUsage](StructureUsage.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[StructureUsage](StructureUsage.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[DataflowDefinition](../DataStructureDefinitions/DataflowDefinition.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[DataflowDefinition](../DataStructureDefinitions/DataflowDefinition.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[MetadataFlowDefinition](../MetadataStructureDefinitions/MetadataFlowDefinition.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[MetadataFlowDefinition](../MetadataStructureDefinitions/MetadataFlowDefinition.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[HierarchicalCodelist](../HierarchicalCodelists/HierarchicalCodelist.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[HierarchicalCodelist](../HierarchicalCodelists/HierarchicalCodelist.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[StructureSet](../StructureMaps/StructureSet.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[StructureSet](../StructureMaps/StructureSet.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Constraint](../Constraints/Constraint.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Constraint](../Constraints/Constraint.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[ContentConstraint](../Constraints/ContentConstraint.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[ContentConstraint](../Constraints/ContentConstraint.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[AttachmentConstraint](../Constraints/AttachmentConstraint.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[AttachmentConstraint](../Constraints/AttachmentConstraint.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Process](../Process/Process.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Process](../Process/Process.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Item](Item.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Item](Item.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Code](../Codelists/Code.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Code](../Codelists/Code.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Concept](../ConceptSchemes/Concept.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Concept](../ConceptSchemes/Concept.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Category](../CategorySchemes/Category.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Category](../CategorySchemes/Category.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Organisation](../OrganisationSchemes/Organisation.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Organisation](../OrganisationSchemes/Organisation.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Agency](../OrganisationSchemes/Agency.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Agency](../OrganisationSchemes/Agency.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[DataProvider](../OrganisationSchemes/DataProvider.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[DataProvider](../OrganisationSchemes/DataProvider.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[DataConsumer](../OrganisationSchemes/DataConsumer.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[DataConsumer](../OrganisationSchemes/DataConsumer.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[OrganisationUnit](../OrganisationSchemes/OrganisationUnit.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[OrganisationUnit](../OrganisationSchemes/OrganisationUnit.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[ReportingCategory](../ReportingTaxonomies/ReportingCategory.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[ReportingCategory](../ReportingTaxonomies/ReportingCategory.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[MetadataSet](../MetadataStructureDefinitions/MetadataSet.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[MetadataSet](../MetadataStructureDefinitions/MetadataSet.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Level](../HierarchicalCodelists/Level.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Level](../HierarchicalCodelists/Level.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[Hierarchy](../HierarchicalCodelists/Hierarchy.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[Hierarchy](../HierarchicalCodelists/Hierarchy.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[ConceptSchemeMap](../ItemSchemeMaps/ConceptSchemeMap.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[ConceptSchemeMap](../ItemSchemeMaps/ConceptSchemeMap.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[CodelistMap](../ItemSchemeMaps/CodelistMap.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[CodelistMap](../ItemSchemeMaps/CodelistMap.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[CategorySchemeMap](../ItemSchemeMaps/CategorySchemeMap.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[CategorySchemeMap](../ItemSchemeMaps/CategorySchemeMap.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[OrganisationSchemeMap](../ItemSchemeMaps/OrganisationSchemeMap.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[OrganisationSchemeMap](../ItemSchemeMaps/OrganisationSchemeMap.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[ReportingTaxonomyMap](../ItemSchemeMaps/ReportingTaxonomyMap.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[ReportingTaxonomyMap](../ItemSchemeMaps/ReportingTaxonomyMap.md) (as description)
 
-[NameableArtefact](NameableArtefact.md) (as name)
+[HybridCodelistMap](../HybridCodelistMap/HybridCodelistMap.md) (as name)
 
-[NameableArtefact](NameableArtefact.md) (as description)
+[HybridCodelistMap](../HybridCodelistMap/HybridCodelistMap.md) (as description)
+
+[StructureMap](../StructureMaps/StructureMap.md) (as name)
+
+[StructureMap](../StructureMaps/StructureMap.md) (as description)
+
+[Transition](../Process/Transition.md) (as condition)
+
+[Computation](../Process/Computation.md) (as description)
 
 [Contact](../OrganisationSchemes/Contact.md) (as responsibility)
 

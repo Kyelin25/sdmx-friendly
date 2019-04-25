@@ -1,7 +1,7 @@
 
 # TargetObjectValue
 
-Inherits from: [](..//.md)
+
 
 ## Subclasses
 
@@ -15,7 +15,10 @@ Inherits from: [](..//.md)
 
 
 
+## Description
+
 The key of an individual object of the type specified in the MetadataTarget of the MetadataStructureDefinition.
+
 
 
 

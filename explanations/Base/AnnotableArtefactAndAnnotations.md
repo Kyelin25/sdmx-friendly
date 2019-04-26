@@ -39,7 +39,7 @@ Finally, let's look at perhaps a bit of a stretched example. We want to attach a
 ```javascript
 {
     "type": "FLAG_LINK",
-    "url": "https://flagsoftheworld/Australia/100_200.jpg"
+    "url": "https://flagsoftheworld.org/Australia/100_200.jpg"
 }
 ```
 

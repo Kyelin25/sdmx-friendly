@@ -7,7 +7,7 @@ If an [ItemScheme](ItemScheme.md) is essentially just a list of things, then the
 
 As an abstract artefact, the Item exists to provide a pattern for concrete artefacts like Codes and Categories to follow.
 
-## Example
+## Examples
 
 Let's build up a simple inheritance tree from a single person. Our inheritance tree represents the flow of inheritance from a wealthy family matriarch, Jenny. 
 
@@ -29,4 +29,4 @@ If we assume that these Persons live inside a PersonScheme with AgencyId *SDMX*,
 
 Artefacts that inherit from Item inherit the parent-child relationship, but flavour it so it can only refer to artefacts of the same type. That is, a Code can only have Codes as children, not any Item.
 
-As an IdentifiableArtefact (inherited through NameableArtefact), an Item can only be referenced **through** its parent ItemScheme. In order to do this, each Item in an ItemScheme must have a unique identifier amongst its siblings (Items with the same parent Item, or with no parent Item). **Note**: The SDMX standard does not specify how unique the identifier must be (i.e. globally unique vs unique in an ItemScheme vs unique to its parent Item). The SdmxSource (an open-source reference implementation of SDMX) documentation states that an Item need only be unique amongst its siblings, but whenever I try do this **using** .NET SdmxSource it complains of duplicate identifiers. From what I can see, as at version 1.18.0, unless you're using the Java implementation of SdmxSource, you'll need to have Items unique in the entire ItemScheme.
+As an IdentifiableArtefact (inherited through NameableArtefact), an Item can only be referenced **through** its parent ItemScheme. In order to do this, each Item in an ItemScheme must have a unique identifier **to some degree** (i.e. unique within its ItemScheme vs unique amongst its siblings). Unfortunately, which is the case depends on the concrete implementations of ItemScheme and Item (just to confuse you). I will explain in each one specifically how to identify an individual Item.

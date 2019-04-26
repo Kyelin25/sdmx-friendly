@@ -9,7 +9,7 @@ What are Annotations? Essentially, whatever you want them to be. They can be use
 
 When creating an Annotation, you can provide an *id*, a *title*, a *type*, a *url* and some multi-lingual *text*. Despite having an *id*, Annotation doesn't inherit from IdentifiableArtefact, and so this is not required. In fact, as near as I can tell, none of these are actually required, though it's probably a good idea to provide a *type*, so that people (or systems) know how to interpret the Annotation.
 
-## Example
+## Examples
 
 Let's put together a few examples of Annotations. The first is meant to be read by humans, and provides further information about a Codelist. For anybody who actually understands French, I am **so** sorry for the terrible translation.
 ```javascript

@@ -23,6 +23,8 @@ Because Item is abstract, for our example we're going to use the made-up artefac
 
 In this set of Items, the parent-child relationship literally represents a parent-child relationship, and the flow of inheritance from the family's wealthy matriarch, Jenny. Note that although Edith named her son Barry after his uncle, we had to give him a different id to the "original" Barry, as the identifiers must be unique within the tree (actually unique within their parent ItemScheme).
 
+If we assume that these Persons live inside a PersonScheme with AgencyId *SDMX*, Id *PS_JNY_MONEY* and Version *1.0.2* (see explanation of [MaintainableArtefact](MaintainableArtefact.md) for why we need to know this), we can uniquely refer to any Person in this scheme using that plus the Person's id. For example, say we want to refer to Edith's son Barry: SDMX:PS_JNY_MONEY(1.0.2).BRY2 is enough to uniquely identify it.
+
 ## Notes
 
 Artefacts that inherit from Item inherit the parent-child relationship, but flavour it so it can only refer to artefacts of the same type. That is, a Code can only have Codes as children, not any Item.

@@ -5,15 +5,15 @@ Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
 ## Subclasses
 
-[Dimension](../DataStructureDefinitions/Dimension.md)
+[Dimension](../DataStructure/Dimension.md)
 
-[DataAttribute](../DataStructureDefinitions/DataAttribute.md)
+[DataAttribute](../DataStructure/DataAttribute.md)
 
-[PrimaryMeasure](../DataStructureDefinitions/PrimaryMeasure.md)
+[PrimaryMeasure](../DataStructure/PrimaryMeasure.md)
 
-[TargetObject](../MetadataStructureDefinitions/TargetObject.md)
+[TargetObject](../MetadataStructure/TargetObject.md)
 
-[MetadataAttribute](../MetadataStructureDefinitions/MetadataAttribute.md)
+[MetadataAttribute](../MetadataStructure/MetadataAttribute.md)
 
 
 
@@ -36,7 +36,7 @@ A component is an abstract super class used to define qualitative and quantitati
 
 ## References
 
-**conceptIdentity** ([Concept](../ConceptSchemes/Concept.md) - 1): No description
+**conceptIdentity** ([Concept](../ConceptScheme/Concept.md) - 1): No description
 
 **localRepresentation** ([Representation](Representation.md) - 1): No description
 
@@ -48,14 +48,14 @@ A component is an abstract super class used to define qualitative and quantitati
 
 ## Referenced By
 
-[ComponentMap](../StructureMaps/ComponentMap.md) (as source)
+[ComponentMap](../Mapping/ComponentMap.md) (as source)
 
-[ComponentMap](../StructureMaps/ComponentMap.md) (as target)
+[ComponentMap](../Mapping/ComponentMap.md) (as target)
 
 [ComponentList](ComponentList.md) (as components)
 
-[ComponentValue](../MetadataStructureDefinitions/ComponentValue.md) (as valueFor)
+[ComponentValue](../MetadataStructure/ComponentValue.md) (as valueFor)
 
-[MemberSelection](../Constraints/MemberSelection.md) (as valuesFor)
+[MemberSelection](../Registry/MemberSelection.md) (as valuesFor)
 
 

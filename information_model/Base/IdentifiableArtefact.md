@@ -9,7 +9,7 @@ Inherits from: [AnnotableArtefact](AnnotableArtefact.md)
 
 [Component](Component.md)
 
-[HierarchicalCode](../HierarchicalCodelists/HierarchicalCode.md)
+[HierarchicalCode](../Codelist/HierarchicalCode.md)
 
 [Transition](../Process/Transition.md)
 
@@ -42,7 +42,7 @@ Provides identity to all derived classes. It also provides Annotations to derive
 
 ## Referenced By
 
-[Categorisation](../CategorySchemes/Categorisation.md) (as categorisedArtefact)
+[Categorisation](../CategoryScheme/Categorisation.md) (as categorisedArtefact)
 
 [ProcessArtefact](../Process/ProcessArtefact.md) (as artefact)
 

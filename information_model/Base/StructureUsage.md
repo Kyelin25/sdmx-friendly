@@ -5,9 +5,9 @@ Inherits from: [MaintainableArtefact](MaintainableArtefact.md)
 
 ## Subclasses
 
-[DataflowDefinition](../DataStructureDefinitions/DataflowDefinition.md)
+[DataflowDefinition](../DataStructure/DataflowDefinition.md)
 
-[MetadataFlowDefinition](../MetadataStructureDefinitions/MetadataFlowDefinition.md)
+[MetadataFlowDefinition](../MetadataStructure/MetadataFlowDefinition.md)
 
 
 
@@ -48,7 +48,7 @@ An artefact whose components are described by a Structure. In concrete terms (su
 
 ### Inherited
 
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**maintainer** ([Agency](Agency.md) - 1): No description
 
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
@@ -60,10 +60,10 @@ An artefact whose components are described by a Structure. In concrete terms (su
 
 ## Referenced By
 
-[StructureSet](../StructureMaps/StructureSet.md) (as relatedStructureUsage)
+[StructureSet](../Mapping/StructureSet.md) (as relatedStructureUsage)
 
-[ReportingCategory](../ReportingTaxonomies/ReportingCategory.md) (as flow)
+[ReportingCategory](../CategoryScheme/ReportingCategory.md) (as flow)
 
-[ProvisionAgreement](../DataProvisioning/ProvisionAgreement.md) (as controlledBy)
+[ProvisionAgreement](../Registry/ProvisionAgreement.md) (as controlledBy)
 
 

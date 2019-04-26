@@ -11,11 +11,11 @@ Inherits from: [VersionableArtefact](VersionableArtefact.md)
 
 [StructureUsage](StructureUsage.md)
 
-[HierarchicalCodelist](../HierarchicalCodelists/HierarchicalCodelist.md)
+[HierarchicalCodelist](../Codelist/HierarchicalCodelist.md)
 
-[StructureSet](../StructureMaps/StructureSet.md)
+[StructureSet](../Mapping/StructureSet.md)
 
-[Constraint](../Constraints/Constraint.md)
+[Constraint](../Registry/Constraint.md)
 
 [Process](../Process/Process.md)
 
@@ -54,7 +54,7 @@ An abstract class to group together primary structural metadata artefacts that a
 
 ## References
 
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**maintainer** ([Agency](Agency.md) - 1): No description
 
 ### Inherited
 

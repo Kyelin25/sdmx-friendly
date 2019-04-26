@@ -5,9 +5,9 @@ Inherits from: [MaintainableArtefact](MaintainableArtefact.md)
 
 ## Subclasses
 
-[DataStructureDefinition](../DataStructureDefinitions/DataStructureDefinition.md)
+[DataStructureDefinition](../DataStructure/DataStructureDefinition.md)
 
-[MetadataStructureDefinition](../MetadataStructureDefinitions/MetadataStructureDefinition.md)
+[MetadataStructureDefinition](../MetadataStructure/MetadataStructureDefinition.md)
 
 
 
@@ -48,7 +48,7 @@ Abstract specification of a list of lists to define a complex tabular structure.
 
 ### Inherited
 
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**maintainer** ([Agency](Agency.md) - 1): No description
 
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
@@ -62,8 +62,8 @@ Abstract specification of a list of lists to define a complex tabular structure.
 
 [StructureUsage](StructureUsage.md) (as structure)
 
-[StructureSet](../StructureMaps/StructureSet.md) (as relatedStructure)
+[StructureSet](../Mapping/StructureSet.md) (as relatedStructure)
 
-[ReportingCategory](../ReportingTaxonomies/ReportingCategory.md) (as structure)
+[ReportingCategory](../CategoryScheme/ReportingCategory.md) (as structure)
 
 

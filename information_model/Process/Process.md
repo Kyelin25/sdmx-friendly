@@ -42,7 +42,7 @@ A scheme which defines or documents the operations performed on data or metadata
 
 ### Inherited
 
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**maintainer** ([Agency](../Base/Agency.md) - 1): No description
 
 **name** ([InternationalString](../Base/InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 

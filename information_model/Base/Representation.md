@@ -26,36 +26,36 @@ The allowable value or format for Component or Concept.
 
 ## Referenced By
 
-[Concept](../ConceptSchemes/Concept.md) (as coreRepresentation)
+[Concept](../ConceptScheme/Concept.md) (as coreRepresentation)
 
 [Component](Component.md) (as localRepresentation)
 
-[Dimension](../DataStructureDefinitions/Dimension.md) (as localRepresentation)
+[Dimension](../DataStructure/Dimension.md) (as localRepresentation)
 
-[MeasureDimension](../DataStructureDefinitions/MeasureDimension.md) (as localRepresentation)
+[MeasureDimension](../DataStructure/MeasureDimension.md) (as localRepresentation)
 
-[TimeDimension](../DataStructureDefinitions/TimeDimension.md) (as localRepresentation)
+[TimeDimension](../DataStructure/TimeDimension.md) (as localRepresentation)
 
-[DataAttribute](../DataStructureDefinitions/DataAttribute.md) (as localRepresentation)
+[DataAttribute](../DataStructure/DataAttribute.md) (as localRepresentation)
 
-[ReportingYearStartDay](../DataStructureDefinitions/ReportingYearStartDay.md) (as localRepresentation)
+[ReportingYearStartDay](../DataStructure/ReportingYearStartDay.md) (as localRepresentation)
 
-[PrimaryMeasure](../DataStructureDefinitions/PrimaryMeasure.md) (as localRepresentation)
+[PrimaryMeasure](../DataStructure/PrimaryMeasure.md) (as localRepresentation)
 
-[TargetObject](../MetadataStructureDefinitions/TargetObject.md) (as localRepresentation)
+[TargetObject](../MetadataStructure/TargetObject.md) (as localRepresentation)
 
-[DimensionDescriptorValuesTarget](../MetadataStructureDefinitions/DimensionDescriptorValuesTarget.md) (as localRepresentation)
+[DimensionDescriptorValuesTarget](../MetadataStructure/DimensionDescriptorValuesTarget.md) (as localRepresentation)
 
-[IdentifiableObjectTarget](../MetadataStructureDefinitions/IdentifiableObjectTarget.md) (as localRepresentation)
+[IdentifiableObjectTarget](../MetadataStructure/IdentifiableObjectTarget.md) (as localRepresentation)
 
-[DataSetTarget](../MetadataStructureDefinitions/DataSetTarget.md) (as localRepresentation)
+[DataSetTarget](../MetadataStructure/DataSetTarget.md) (as localRepresentation)
 
-[ReportPeriodTarget](../MetadataStructureDefinitions/ReportPeriodTarget.md) (as localRepresentation)
+[ReportPeriodTarget](../MetadataStructure/ReportPeriodTarget.md) (as localRepresentation)
 
-[ConstraintTarget](../MetadataStructureDefinitions/ConstraintTarget.md) (as localRepresentation)
+[ConstraintTarget](../MetadataStructure/ConstraintTarget.md) (as localRepresentation)
 
-[MetadataAttribute](../MetadataStructureDefinitions/MetadataAttribute.md) (as localRepresentation)
+[MetadataAttribute](../MetadataStructure/MetadataAttribute.md) (as localRepresentation)
 
-[ConceptUsage](../MetadataStructureDefinitions/ConceptUsage.md) (as localRepresentation)
+[ConceptUsage](../MetadataStructure/ConceptUsage.md) (as localRepresentation)
 
 

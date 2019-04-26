@@ -7,13 +7,13 @@
 
 [IdentifiableArtefact](IdentifiableArtefact.md)
 
-[Key](../DataStructureDefinitions/Key.md)
+[Key](../DataStructure/Key.md)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md)
+[ItemAssociation](../Mapping/ItemAssociation.md)
 
-[HybridCodeMap](../HybridCodelistMap/HybridCodeMap.md)
+[HybridCodeMap](../Mapping/HybridCodeMap.md)
 
-[ComponentMap](../StructureMaps/ComponentMap.md)
+[ComponentMap](../Mapping/ComponentMap.md)
 
 [Computation](../Process/Computation.md)
 

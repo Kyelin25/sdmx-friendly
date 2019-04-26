@@ -9,17 +9,17 @@ Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
 [Item](Item.md)
 
-[MetadataSet](../MetadataStructureDefinitions/MetadataSet.md)
+[MetadataSet](../MetadataStructure/MetadataSet.md)
 
-[Level](../HierarchicalCodelists/Level.md)
+[Level](../Codelist/Level.md)
 
-[Hierarchy](../HierarchicalCodelists/Hierarchy.md)
+[Hierarchy](../Codelist/Hierarchy.md)
 
-[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md)
+[ItemSchemeMap](../Mapping/ItemSchemeMap.md)
 
-[HybridCodelistMap](../HybridCodelistMap/HybridCodelistMap.md)
+[HybridCodelistMap](../Mapping/HybridCodelistMap.md)
 
-[StructureMap](../StructureMaps/StructureMap.md)
+[StructureMap](../Mapping/StructureMap.md)
 
 
 

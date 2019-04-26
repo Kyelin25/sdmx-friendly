@@ -5,17 +5,17 @@
 
 ## Subclasses
 
-[DimensionDescriptor](../DataStructureDefinitions/DimensionDescriptor.md)
+[DimensionDescriptor](../DataStructure/DimensionDescriptor.md)
 
-[AttributeDescriptor](../DataStructureDefinitions/AttributeDescriptor.md)
+[AttributeDescriptor](../DataStructure/AttributeDescriptor.md)
 
-[MeasureDescriptor](../DataStructureDefinitions/MeasureDescriptor.md)
+[MeasureDescriptor](../DataStructure/MeasureDescriptor.md)
 
-[GroupDimensionDescriptor](../DataStructureDefinitions/GroupDimensionDescriptor.md)
+[GroupDimensionDescriptor](../DataStructure/GroupDimensionDescriptor.md)
 
-[MetadataTarget](../MetadataStructureDefinitions/MetadataTarget.md)
+[MetadataTarget](../MetadataStructure/MetadataTarget.md)
 
-[ReportStructure](../MetadataStructureDefinitions/ReportStructure.md)
+[ReportStructure](../MetadataStructure/ReportStructure.md)
 
 
 
@@ -38,8 +38,8 @@ An abstract definition of a list of components. A concrete example is a Dimensio
 
 [Structure](Structure.md) (as grouping)
 
-[DataStructureDefinition](../DataStructureDefinitions/DataStructureDefinition.md) (as grouping)
+[DataStructureDefinition](../DataStructure/DataStructureDefinition.md) (as grouping)
 
-[MetadataTargetRegion](../Constraints/MetadataTargetRegion.md) (as componentList)
+[MetadataTargetRegion](../Registry/MetadataTargetRegion.md) (as componentList)
 
 

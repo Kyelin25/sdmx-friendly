@@ -5,15 +5,15 @@ Inherits from: [NameableArtefact](NameableArtefact.md)
 
 ## Subclasses
 
-[Code](../Codelists/Code.md)
+[Code](../Codelist/Code.md)
 
-[Concept](../ConceptSchemes/Concept.md)
+[Concept](../ConceptScheme/Concept.md)
 
-[Category](../CategorySchemes/Category.md)
+[Category](../CategoryScheme/Category.md)
 
-[Organisation](../OrganisationSchemes/Organisation.md)
+[Organisation](Organisation.md)
 
-[ReportingCategory](../ReportingTaxonomies/ReportingCategory.md)
+[ReportingCategory](../CategoryScheme/ReportingCategory.md)
 
 
 
@@ -54,8 +54,8 @@ The Item is an item of content in an ItemScheme. This may be a node in a taxonom
 
 [Item](Item.md) (as child)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as source)
+[ItemAssociation](../Mapping/ItemAssociation.md) (as source)
 
-[ItemAssociation](../ItemSchemeMaps/ItemAssociation.md) (as target)
+[ItemAssociation](../Mapping/ItemAssociation.md) (as target)
 
 

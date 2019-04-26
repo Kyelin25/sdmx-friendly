@@ -5,15 +5,15 @@ Inherits from: [MaintainableArtefact](MaintainableArtefact.md)
 
 ## Subclasses
 
-[Codelist](../Codelists/Codelist.md)
+[Codelist](../Codelist/Codelist.md)
 
-[ConceptScheme](../ConceptSchemes/ConceptScheme.md)
+[ConceptScheme](../ConceptScheme/ConceptScheme.md)
 
-[CategoryScheme](../CategorySchemes/CategoryScheme.md)
+[CategoryScheme](../CategoryScheme/CategoryScheme.md)
 
-[OrganisationScheme](../OrganisationSchemes/OrganisationScheme.md)
+[OrganisationScheme](OrganisationScheme.md)
 
-[ReportingTaxonomy](../ReportingTaxonomies/ReportingTaxonomy.md)
+[ReportingTaxonomy](../CategoryScheme/ReportingTaxonomy.md)
 
 
 
@@ -56,7 +56,7 @@ The descriptive information for an arrangement or division of objects into group
 
 ### Inherited
 
-**maintainer** ([Agency](../OrganisationSchemes/Agency.md) - 1): No description
+**maintainer** ([Agency](Agency.md) - 1): No description
 
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
@@ -68,9 +68,9 @@ The descriptive information for an arrangement or division of objects into group
 
 ## Referenced By
 
-[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (as source)
+[ItemSchemeMap](../Mapping/ItemSchemeMap.md) (as source)
 
-[ItemSchemeMap](../ItemSchemeMaps/ItemSchemeMap.md) (as target)
+[ItemSchemeMap](../Mapping/ItemSchemeMap.md) (as target)
 
 [Representation](Representation.md) (as enumerated)
 

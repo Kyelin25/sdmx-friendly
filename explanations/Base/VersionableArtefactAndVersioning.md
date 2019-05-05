@@ -1,5 +1,5 @@
 # VersionableArtefact
-[Information Model Description](../../information_model/Base/VersionableArtefact.md)
+[Definition](../../information_model/Base/VersionableArtefact.md)
 
 ## Description
 

@@ -1,5 +1,5 @@
 # IdentifiableArtefact
-[Information Model Description](../../information_model/Base/IdentifiableArtefact.md)
+[Definition](../../information_model/Base/IdentifiableArtefact.md)
 
 ## Description
 

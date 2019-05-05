@@ -1,6 +1,6 @@
 # Facets and ExtendedFacets
-[Facet Information Model Description](../../information_model/Base/Facet.md)
-[ExtendedFacet Information Model Description](../../information_model/Base/Facet.md)
+[Facet Definition](../../information_model/Base/Facet.md)
+[ExtendedFacet Definition](../../information_model/Base/Facet.md)
 
 # Important!
 

@@ -1,5 +1,5 @@
 # MaintainableArtefact
-[Information Model Description](../../information_model/Base/MaintainableArtefact.md)
+[Definition](../../information_model/Base/MaintainableArtefact.md)
 
 ## Description
 

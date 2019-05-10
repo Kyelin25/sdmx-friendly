@@ -93,7 +93,7 @@ Although Codes have parents, and are maintained in a hierarchy, they're not stor
 
 Identification of a Codelist works just like any other MaintainableArtefact (see [IdentifiableArtefact](../Base/IdentifiableArtefact.md) for details).
 
-As mentioned in the Notes section, Codes are not stored in hierarchy. This means a Code's parent codes are ignored when identifying it as per the rules laid out in the [IdentifiableArtefact](../Base/IdentifiableArtefact.md) explanation. So a Code is always identified like so:
+As mentioned in the Notes section, Codes are not stored in hierarchy. This means a Code's parent Codes are ignored when identifying it as per the rules laid out in the [IdentifiableArtefact](../Base/IdentifiableArtefact.md) explanation. So a Code is always identified like so:
 ```
     urn:sdmx:org.sdmx.infomodel.codelist.Code={AgencyIdChain}:{CodelistId}({CodelistVersion}).{CodeId}
 ```

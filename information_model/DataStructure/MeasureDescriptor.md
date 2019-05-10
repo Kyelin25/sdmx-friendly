@@ -1,6 +1,8 @@
 
 # MeasureDescriptor
 
+
+
 Inherits from: [ComponentList](../Base/ComponentList.md)
 
 

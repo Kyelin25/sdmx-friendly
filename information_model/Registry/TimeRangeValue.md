@@ -1,6 +1,8 @@
 
 # TimeRangeValue
 
+*Abstract*
+
 Inherits from: [SelectionValue](SelectionValue.md)
 
 ## Subclasses

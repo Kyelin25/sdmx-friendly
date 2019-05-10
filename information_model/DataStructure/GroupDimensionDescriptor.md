@@ -1,6 +1,8 @@
 
 # GroupDimensionDescriptor
 
+
+
 Inherits from: [ComponentList](../Base/ComponentList.md)
 
 

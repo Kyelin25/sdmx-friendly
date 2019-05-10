@@ -1,6 +1,8 @@
 
 # ItemSchemeMap
 
+*Abstract*
+
 Inherits from: [NameableArtefact](../Base/NameableArtefact.md)
 
 ## Subclasses

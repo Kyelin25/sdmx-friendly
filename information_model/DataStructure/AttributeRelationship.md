@@ -1,6 +1,8 @@
 
 # AttributeRelationship
 
+*Abstract*
+
 
 
 ## Subclasses

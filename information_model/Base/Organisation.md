@@ -1,6 +1,8 @@
 
 # Organisation
 
+*Abstract*
+
 Inherits from: [Item](Item.md)
 
 ## Subclasses

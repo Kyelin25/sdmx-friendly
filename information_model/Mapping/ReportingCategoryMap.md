@@ -1,6 +1,8 @@
 
 # ReportingCategoryMap
 
+
+
 Inherits from: [ItemAssociation](ItemAssociation.md)
 
 

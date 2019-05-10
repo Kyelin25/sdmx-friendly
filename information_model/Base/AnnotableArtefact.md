@@ -1,6 +1,8 @@
 
 # AnnotableArtefact
 
+*Abstract*
+
 
 
 ## Subclasses

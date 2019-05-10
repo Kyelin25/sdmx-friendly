@@ -1,6 +1,8 @@
 
 # MetadataStructureDefinition
 
+
+
 Inherits from: [Structure](../Base/Structure.md), [ConstrainableArtefact](../Registry/ConstrainableArtefact.md)
 
 

@@ -1,6 +1,8 @@
 
 # RangePeriod
 
+
+
 Inherits from: [TimeRangeValue](TimeRangeValue.md)
 
 

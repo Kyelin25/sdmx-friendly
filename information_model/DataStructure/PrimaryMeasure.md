@@ -1,6 +1,8 @@
 
 # PrimaryMeasure
 
+
+
 Inherits from: [Component](../Base/Component.md)
 
 

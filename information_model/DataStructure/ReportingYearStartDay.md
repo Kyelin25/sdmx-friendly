@@ -1,6 +1,8 @@
 
 # ReportingYearStartDay
 
+
+
 Inherits from: [DataAttribute](DataAttribute.md)
 
 

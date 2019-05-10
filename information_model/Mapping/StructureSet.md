@@ -1,6 +1,8 @@
 
 # StructureSet
 
+
+
 Inherits from: [MaintainableArtefact](../Base/MaintainableArtefact.md)
 
 

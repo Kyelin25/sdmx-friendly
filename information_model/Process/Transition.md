@@ -1,6 +1,8 @@
 
 # Transition
 
+
+
 Inherits from: [IdentifiableArtefact](../Base/IdentifiableArtefact.md)
 
 

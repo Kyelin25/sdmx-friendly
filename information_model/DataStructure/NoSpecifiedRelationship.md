@@ -1,6 +1,8 @@
 
 # NoSpecifiedRelationship
 
+
+
 Inherits from: [AttributeRelationship](AttributeRelationship.md)
 
 

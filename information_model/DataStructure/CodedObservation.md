@@ -1,6 +1,8 @@
 
 # CodedObservation
 
+
+
 Inherits from: [ObservationValue](ObservationValue.md)
 
 

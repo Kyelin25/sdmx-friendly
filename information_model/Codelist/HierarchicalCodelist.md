@@ -1,6 +1,8 @@
 
 # HierarchicalCodelist
 
+
+
 Inherits from: [MaintainableArtefact](../Base/MaintainableArtefact.md)
 
 

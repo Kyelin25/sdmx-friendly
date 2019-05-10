@@ -1,6 +1,8 @@
 
 # SelectionValue
 
+*Abstract*
+
 
 
 ## Subclasses

@@ -1,6 +1,8 @@
 
 # ComponentMap
 
+
+
 Inherits from: [AnnotableArtefact](../Base/AnnotableArtefact.md)
 
 

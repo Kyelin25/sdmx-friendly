@@ -1,6 +1,8 @@
 
 # CategoryScheme
 
+
+
 Inherits from: [ItemScheme](../Base/ItemScheme.md)
 
 

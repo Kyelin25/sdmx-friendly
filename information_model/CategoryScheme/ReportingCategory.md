@@ -1,6 +1,8 @@
 
 # ReportingCategory
 
+
+
 Inherits from: [Item](../Base/Item.md)
 
 

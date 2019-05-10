@@ -1,6 +1,8 @@
 
 # ReportingTaxonomyMap
 
+
+
 Inherits from: [ItemSchemeMap](ItemSchemeMap.md)
 
 

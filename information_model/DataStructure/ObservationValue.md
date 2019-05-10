@@ -1,6 +1,8 @@
 
 # ObservationValue
 
+*Abstract*
+
 
 
 ## Subclasses

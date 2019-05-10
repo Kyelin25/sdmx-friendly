@@ -1,6 +1,8 @@
 
 # Dimension
 
+
+
 Inherits from: [Component](../Base/Component.md)
 
 ## Subclasses

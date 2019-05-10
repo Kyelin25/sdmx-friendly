@@ -1,6 +1,8 @@
 
 # HybridCodeMap
 
+
+
 Inherits from: [AnnotableArtefact](../Base/AnnotableArtefact.md)
 
 

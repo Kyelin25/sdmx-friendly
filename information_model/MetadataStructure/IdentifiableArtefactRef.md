@@ -1,6 +1,8 @@
 
 # IdentifiableArtefactRef
 
+
+
 Inherits from: [MaintainableArtefactRef](MaintainableArtefactRef.md)
 
 

@@ -1,6 +1,8 @@
 
 # WebServicesDatasource
 
+*Abstract*
+
 Inherits from: [Datasource](Datasource.md), [ConstrainableArtefact](ConstrainableArtefact.md)
 
 ## Subclasses

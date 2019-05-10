@@ -1,6 +1,8 @@
 
 # CategorySchemeMap
 
+
+
 Inherits from: [ItemSchemeMap](ItemSchemeMap.md)
 
 

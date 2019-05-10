@@ -1,6 +1,8 @@
 
 # Key
 
+*Abstract*
+
 Inherits from: [AnnotableArtefact](../Base/AnnotableArtefact.md)
 
 ## Subclasses

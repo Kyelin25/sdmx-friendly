@@ -1,6 +1,8 @@
 
 # ReportingTaxonomy
 
+
+
 Inherits from: [ItemScheme](../Base/ItemScheme.md)
 
 

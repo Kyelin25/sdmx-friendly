@@ -5,6 +5,8 @@
 
 
 
+
+
 ## Description
 
 Specifies format information for Codes at this Level in the hierarchy such as whether the Codes at the level are alphabetic, numeric or alphanumeric and the code length.

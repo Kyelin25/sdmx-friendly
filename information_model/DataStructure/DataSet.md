@@ -1,6 +1,8 @@
 
 # DataSet
 
+*Abstract*
+
 Inherits from: [ConstrainableArtefact](../Registry/ConstrainableArtefact.md)
 
 ## Subclasses

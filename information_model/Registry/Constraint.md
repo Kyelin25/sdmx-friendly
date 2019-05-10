@@ -1,6 +1,8 @@
 
 # Constraint
 
+*Abstract*
+
 Inherits from: [MaintainableArtefact](../Base/MaintainableArtefact.md)
 
 ## Subclasses

@@ -1,6 +1,8 @@
 
 # SimpleDatasource
 
+
+
 Inherits from: [Datasource](Datasource.md), [ConstrainableArtefact](ConstrainableArtefact.md)
 
 

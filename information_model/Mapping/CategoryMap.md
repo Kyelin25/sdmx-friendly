@@ -1,6 +1,8 @@
 
 # CategoryMap
 
+
+
 Inherits from: [ItemAssociation](ItemAssociation.md)
 
 

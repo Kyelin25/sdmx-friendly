@@ -1,6 +1,8 @@
 
 # MaintainableArtefact
 
+*Abstract*
+
 Inherits from: [VersionableArtefact](VersionableArtefact.md)
 
 ## Subclasses

@@ -1,6 +1,8 @@
 
 # Concept
 
+
+
 Inherits from: [Item](../Base/Item.md)
 
 

@@ -1,6 +1,8 @@
 
 # NonEnumeratedAttributeValue
 
+*Abstract*
+
 Inherits from: [ReportedAttribute](ReportedAttribute.md)
 
 ## Subclasses

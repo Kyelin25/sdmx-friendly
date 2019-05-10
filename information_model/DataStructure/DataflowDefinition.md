@@ -1,6 +1,8 @@
 
 # DataflowDefinition
 
+
+
 Inherits from: [StructureUsage](../Base/StructureUsage.md), [ConstrainableArtefact](../Registry/ConstrainableArtefact.md)
 
 

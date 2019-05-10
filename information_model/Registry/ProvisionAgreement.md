@@ -1,6 +1,8 @@
 
 # ProvisionAgreement
 
+
+
 Inherits from: [ConstrainableArtefact](ConstrainableArtefact.md)
 
 

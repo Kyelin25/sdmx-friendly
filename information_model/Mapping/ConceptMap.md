@@ -1,6 +1,8 @@
 
 # ConceptMap
 
+
+
 Inherits from: [ItemAssociation](ItemAssociation.md)
 
 

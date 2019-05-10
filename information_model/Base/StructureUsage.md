@@ -1,6 +1,8 @@
 
 # StructureUsage
 
+*Abstract*
+
 Inherits from: [MaintainableArtefact](MaintainableArtefact.md)
 
 ## Subclasses

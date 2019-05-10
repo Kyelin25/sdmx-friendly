@@ -1,6 +1,8 @@
 
 # DataProvider
 
+
+
 Inherits from: [Organisation](Organisation.md), [ConstrainableArtefact](../Registry/ConstrainableArtefact.md)
 
 

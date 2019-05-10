@@ -1,6 +1,8 @@
 
 # DimensionRelationship
 
+
+
 Inherits from: [AttributeRelationship](AttributeRelationship.md)
 
 

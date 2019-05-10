@@ -1,6 +1,8 @@
 
 # PrimaryMeasureRelationship
 
+
+
 Inherits from: [AttributeRelationship](AttributeRelationship.md)
 
 

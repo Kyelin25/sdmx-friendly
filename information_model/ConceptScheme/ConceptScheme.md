@@ -1,6 +1,8 @@
 
 # ConceptScheme
 
+
+
 Inherits from: [ItemScheme](../Base/ItemScheme.md)
 
 

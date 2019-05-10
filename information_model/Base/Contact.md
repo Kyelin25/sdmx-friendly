@@ -5,6 +5,8 @@
 
 
 
+
+
 ## Description
 
 An instance of a role of an individual or an Organisation (or Organisation part or Organisation person) to whom an information item(s), a material object(s) and/or person(s) can be sent to or from in a specified context.

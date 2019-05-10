@@ -1,6 +1,8 @@
 
 # HierarchicalCode
 
+
+
 Inherits from: [IdentifiableArtefact](../Base/IdentifiableArtefact.md)
 
 

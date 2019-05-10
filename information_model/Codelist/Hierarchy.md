@@ -1,6 +1,8 @@
 
 # Hierarchy
 
+
+
 Inherits from: [NameableArtefact](../Base/NameableArtefact.md)
 
 

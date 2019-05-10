@@ -1,6 +1,8 @@
 
 # OrganisationScheme
 
+*Abstract*
+
 Inherits from: [ItemScheme](ItemScheme.md)
 
 ## Subclasses

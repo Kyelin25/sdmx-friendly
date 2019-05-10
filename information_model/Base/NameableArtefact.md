@@ -1,6 +1,8 @@
 
 # NameableArtefact
 
+*Abstract*
+
 Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
 ## Subclasses

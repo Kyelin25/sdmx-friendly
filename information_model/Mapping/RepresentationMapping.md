@@ -1,6 +1,8 @@
 
 # RepresentationMapping
 
+*Abstract*
+
 
 
 ## Subclasses

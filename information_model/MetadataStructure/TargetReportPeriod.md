@@ -1,6 +1,8 @@
 
 # TargetReportPeriod
 
+
+
 Inherits from: [TargetObjectValue](TargetObjectValue.md)
 
 

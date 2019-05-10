@@ -1,6 +1,8 @@
 
 # TargetObject
 
+*Abstract*
+
 Inherits from: [Component](../Base/Component.md)
 
 ## Subclasses

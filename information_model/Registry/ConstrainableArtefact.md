@@ -1,6 +1,8 @@
 
 # ConstrainableArtefact
 
+*Abstract*
+
 
 
 ## Subclasses

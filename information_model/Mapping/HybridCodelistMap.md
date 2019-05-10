@@ -1,6 +1,8 @@
 
 # HybridCodelistMap
 
+
+
 Inherits from: [NameableArtefact](../Base/NameableArtefact.md)
 
 

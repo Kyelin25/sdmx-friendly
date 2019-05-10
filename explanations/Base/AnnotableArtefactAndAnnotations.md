@@ -1,5 +1,5 @@
 # AnnotableArtefact and Annotation
-[AnnotableArtefact Information Model Description](../../information_model/Base/AnnotableArtefact.md) [Annotation Information Model Description](../../information_model/Base/Annotation.md)
+[AnnotableArtefact Description](../../information_model/Base/AnnotableArtefact.md) [Annotation Description](../../information_model/Base/Annotation.md)
 
 ## Description
 

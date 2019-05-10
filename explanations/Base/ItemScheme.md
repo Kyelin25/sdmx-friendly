@@ -1,5 +1,5 @@
 # ItemScheme
-[Information Model Description](../../information_model/Base/ItemScheme.md)
+[Description](../../information_model/Base/ItemScheme.md)
 
 ## Description
 

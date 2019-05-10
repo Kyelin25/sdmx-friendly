@@ -13,13 +13,47 @@ Let's build up a simple inheritance tree from a single person. Our inheritance t
 
 Because Item is abstract, for our example we're going to use the made-up artefact Person, which inherits everything from Item and doesn't add anything.
 
-- **Id**: JNY **Name**: Jenny **Description**: Jenny is the first person in the tree, and the mother of this line of inheritance.
-    - **Id**: BRY **Name**: Barry
-        - **Id**: SRH **Name**: Sarah **Description**: Sarah is Jenny's favourite granddaughter
-    - **Id**: JON **Name**: Jon **Description**: Jon offended Jenny at a recent luncheon and will receive only a lump of coal.
-    - **Id**: EDT **Name**: Edith **Description**: Edith thinks she's receiving the house in Budapest, but will actually inherit Jenny's collection of ceramic cats.
-        - **Id**: APL **Name**: Apple **Description**: Jenny disapproves of Apple's name. This is why Edith will only be inheriting the cats.
-        - **Id**: BRY **Name**: Barry
+```javascript
+{
+    "id": "JNY",
+    "name": [{"en", "Jenny"}]
+    "description": [{"en", "Jenny is the first person in the tree, and the mother of this line of inheritance."}],
+    "items":[
+        {
+            "id": "BRY",
+            "name": [{"en", "Barry"}]
+            "items":[
+                {
+                    "id": "SRH",
+                    "name": [{"en", "Sarah"}],
+                    "description": [{"en", "Sarah is Jenny's favourite granddaughter."}]
+                }
+            ]
+        },
+        {
+            "id": "JON",
+            "name": [{"en", "Jon"}],
+            "description": [{"en", "Jon offended Jenny at a recent luncheon and will receive only a lump of coal."}]
+        },
+        {
+            "id": "EDT",
+            "name": [{"en", "Edith"}],
+            "description": [{"en", "Edith thinks she's receiving the house in Budapest, but will actually inherit Jenny's collection of ceramic cats."}],
+            "items": [
+                {
+                    "id": "APL",
+                    "name": [{"en", "Apple"}],
+                    "description": [{"en", "Jenny disapproves of Apple's name. This is why Edith will only be inheriting the cats."}]
+                },
+                {
+                    "id": "BRY",
+                    "name": [{"en", "Barry"}]
+                }
+            ]
+        }
+    ]
+}
+```
 
 In this set of Items, the parent-child relationship literally represents a parent-child relationship, and the flow of inheritance from the family's wealthy matriarch, Jenny. Note that although Edith named her son Barry after his uncle, we didn't have to give him a different id, as he falls under a different parent in the tree. It's important to note that this is not true for all concrete implementations of Item (see Code for one where this is not true), and I'll specify in each of them which is the case.
 

@@ -30,8 +30,6 @@ An organisation that produces data or reference metadata.
 
 **contact** ([Contact](Contact.md) - 1): Association to the Contact information.
 
-**child** ([DataProvider](DataProvider.md) - 0..*): A child of this DataProvider.
-
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
@@ -47,8 +45,6 @@ An organisation that produces data or reference metadata.
 ## Referenced By
 
 [DataProviderScheme](DataProviderScheme.md) (as items)
-
-[DataProvider](DataProvider.md) (as child)
 
 [MetadataSet](../MetadataStructure/MetadataSet.md) (as publishedBy)
 

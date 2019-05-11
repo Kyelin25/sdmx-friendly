@@ -30,8 +30,6 @@ Responsible Agency for maintaining artefacts such as statistical classifications
 
 **contact** ([Contact](Contact.md) - 1): Association to the Contact information.
 
-**child** ([Agency](Agency.md) - 0..*): A child of this Agency
-
 **name** ([InternationalString](InternationalString.md) - 1): A multi-lingual name is provided by this role via the InternationalString class.
 
 **description** ([InternationalString](InternationalString.md) - 0..1): A multi-lingual description is provided by this role via the InternationalString class.
@@ -89,7 +87,5 @@ Responsible Agency for maintaining artefacts such as statistical classifications
 [AttachmentConstraint](../Registry/AttachmentConstraint.md) (as maintainer)
 
 [Process](../Process/Process.md) (as maintainer)
-
-[Agency](Agency.md) (as child)
 
 

@@ -12,12 +12,6 @@ Inherits from: [AttributeValue](AttributeValue.md)
 An Attribute that takes its value from a Code in a Codelist.
 
 
-## Attributes
-
-### Inherited
-
-**value** (*string*): The value of the attribute.
-
 
 
 ## References

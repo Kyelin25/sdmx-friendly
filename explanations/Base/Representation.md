@@ -22,3 +22,16 @@ As previously mentioned, Dimensions are most commonly going to have enumerated R
 A non-enumerated Representation determines its acceptable values by providing a number of Facets which constrain them. See the explanation of [Facets](../Base/Facets.md) for precisely how this works. Non-enumerated Representations don't rely on a pre-defined set of allowable values like enumerated Representations do. In fact, their allowable values can be infinite. The TimeDimension in a DataStructureDefinition always has a non-enumerated Representation. This makes sense, as it's impossible to list in advance every single possible time value (even if you're constrained to just years!).
 
 Another common use of the non-enumerated Representation is to allow a "comments" DataAttribute, which takes any textual comment.
+
+## Notes
+
+A number of artefacts refer to Representations, but not all are allowed to refer to all Representation types. Some are constrained to certain types. This will be noted in each artefact's explanation, but let's list them here for completeness:
+- Dimension: Enumerated (Codelist only) or non-enumerated
+- DataAttribute: Enumerated (Codelist only) or non-enumerated
+- PrimaryMeasure: Enumerated (Codelist only) or non-enumerated
+- MeasureDimension: Enumerated (ConceptScheme only)
+- MetadataAttribute: Enumerated (Codelist only) or non-enumerated (ExtendedFacet, not just Facet)
+- TargetObject: Enumerated (any ItemScheme) or non-enumerated
+- Concept: Enumerated (Codelist only) or non-enumerated
+- TimeDimension: Non-enumerated (restricted to time FacetTypes only)
+- ReportingYearStartDate: Non-enumerated (restricted to MonthDay FacetType only)

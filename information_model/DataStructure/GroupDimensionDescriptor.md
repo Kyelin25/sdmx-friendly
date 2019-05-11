@@ -16,11 +16,11 @@ A set of metadata concepts that define a partial key derived from the DimensionD
 
 ## References
 
-**constraint** ([Placeholder](../Base/Placeholder.md) - 0..1): Identifies an AttachmentConstraint that specifies the subset of Dimension, Measure or Attribute values to which an Attribute can be attached.
+**constraint** ([Constraint](../Registry/Constraint.md) - 0..1): Identifies an AttachmentConstraint that specifies the subset of Dimension, Measure or Attribute values to which an Attribute can be attached.
 
 ### Inherited
 
-**components** ([Dimension](Dimension.md) - 0..*): An association to the Dimension and MeasureDimension components that comprise the group.
+**components** ([DimensionComponent](DimensionComponent.md) - 0..*): An association to the Dimension and MeasureDimension components that comprise the group.
 
 
 

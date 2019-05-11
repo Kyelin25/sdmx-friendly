@@ -3,7 +3,7 @@
 
 
 
-Inherits from: [Dimension](Dimension.md)
+Inherits from: [DimensionComponent](DimensionComponent.md)
 
 
 
@@ -15,6 +15,8 @@ A metadata concept that identifies the component in the key structure that has t
 ## Attributes
 
 ### Inherited
+
+**order** (*int*): The order in which the DimensionComponent appears in the DataStructureDefinition.
 
 **id** (*string*): The unique identifier of the object.
 

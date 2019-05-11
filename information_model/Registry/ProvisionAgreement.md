@@ -20,7 +20,7 @@ Links the DataProvider to the relevant StructureUsage (e.g. DataflowDefinition o
 
 **controlledBy** ([StructureUsage](../Base/StructureUsage.md) - 0..*): Association to the StructureUsage.
 
-**source** ([Placeholder](../Base/Placeholder.md) - 0..1): Association to a data or metadata source which can process a data or metadata query.
+**source** ([Datasource](Datasource.md) - 0..1): Association to a data or metadata source which can process a data or metadata query.
 
 ### Inherited
 

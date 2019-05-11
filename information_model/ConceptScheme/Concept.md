@@ -50,6 +50,10 @@ A concept is a unit of knowledge created by a unique combination of characterist
 
 [Component](../Base/Component.md) (as conceptIdentity)
 
+[DimensionComponent](../DataStructure/DimensionComponent.md) (as role)
+
+[DimensionComponent](../DataStructure/DimensionComponent.md) (as conceptIdentity)
+
 [Dimension](../DataStructure/Dimension.md) (as role)
 
 [Dimension](../DataStructure/Dimension.md) (as conceptIdentity)

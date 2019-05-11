@@ -130,6 +130,8 @@ Additional descriptive information attached to an object.
 
 [Component](Component.md) (as contains)
 
+[DimensionComponent](../DataStructure/DimensionComponent.md) (as contains)
+
 [Dimension](../DataStructure/Dimension.md) (as contains)
 
 [MeasureDimension](../DataStructure/MeasureDimension.md) (as contains)

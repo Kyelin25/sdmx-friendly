@@ -26,7 +26,7 @@ The value of a component of a key such as the value of an instance of a Dimensio
 
 ## References
 
-**valueFor** ([Dimension](Dimension.md) - 1): Association to the key component in the DataStructureDefinition for which this KeyValue is a valid representation. Note that this is a conceptual association as the key component is identified explicitly in the DataSet.
+**valueFor** ([DimensionComponent](DimensionComponent.md) - 1): Association to the key component in the DataStructureDefinition for which this KeyValue is a valid representation. Note that this is a conceptual association as the key component is identified explicitly in the DataSet.
 
 ### Inherited
 

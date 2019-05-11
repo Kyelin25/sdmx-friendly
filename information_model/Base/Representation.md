@@ -32,6 +32,8 @@ The allowable value or format for Component or Concept.
 
 [Component](Component.md) (as localRepresentation)
 
+[DimensionComponent](../DataStructure/DimensionComponent.md) (as localRepresentation)
+
 [Dimension](../DataStructure/Dimension.md) (as localRepresentation)
 
 [MeasureDimension](../DataStructure/MeasureDimension.md) (as localRepresentation)

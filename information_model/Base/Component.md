@@ -7,7 +7,7 @@ Inherits from: [IdentifiableArtefact](IdentifiableArtefact.md)
 
 ## Subclasses
 
-[Dimension](../DataStructure/Dimension.md)
+[DimensionComponent](../DataStructure/DimensionComponent.md)
 
 [DataAttribute](../DataStructure/DataAttribute.md)
 

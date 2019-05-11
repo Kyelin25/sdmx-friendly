@@ -64,4 +64,8 @@ Specifies a subset of the definition of the allowable or actual content of a dat
 
 
 
+## Referenced By
+
+[GroupDimensionDescriptor](../DataStructure/GroupDimensionDescriptor.md) (as constraint)
+
 

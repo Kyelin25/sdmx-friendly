@@ -1,15 +1,23 @@
 
-# Dimension
+# DimensionComponent
 
+*Abstract*
 
+Inherits from: [Component](../Base/Component.md)
 
-Inherits from: [DimensionComponent](DimensionComponent.md)
+## Subclasses
+
+[Dimension](Dimension.md)
+
+[MeasureDimension](MeasureDimension.md)
+
+[TimeDimension](TimeDimension.md)
 
 
 
 ## Description
 
-A metadata concept used (most probably together with other metadata concepts) to classify a statistical series, e.g. a statistical concept indicating a certain economic activity or a geographical reference area.
+Abstract class providing a base for Dimension, TimeDimension and MeasureDimension.
 
 
 ## Attributes
@@ -28,9 +36,9 @@ A metadata concept used (most probably together with other metadata concepts) to
 
 ## References
 
-### Inherited
-
 **role** ([Concept](../ConceptScheme/Concept.md) - 0..*): Association to the Concept that specifies the role that the Dimension plays in the DataStructureDefinition.
+
+### Inherited
 
 **conceptIdentity** ([Concept](../ConceptScheme/Concept.md) - 1): No description
 
@@ -39,5 +47,23 @@ A metadata concept used (most probably together with other metadata concepts) to
 **contains** ([Annotation](../Base/Annotation.md) - 0..*): No description
 
 
+
+## Referenced By
+
+[DimensionDescriptor](DimensionDescriptor.md) (as components)
+
+[GroupDimensionDescriptor](GroupDimensionDescriptor.md) (as components)
+
+[DimensionRelationship](DimensionRelationship.md) (as dimensions)
+
+[KeyValue](KeyValue.md) (as valueFor)
+
+[MeasureKeyValue](MeasureKeyValue.md) (as valueFor)
+
+[TimeKeyValue](TimeKeyValue.md) (as valueFor)
+
+[CodedKeyValue](CodedKeyValue.md) (as valueFor)
+
+[UncodedKeyValue](UncodedKeyValue.md) (as valueFor)
 
 

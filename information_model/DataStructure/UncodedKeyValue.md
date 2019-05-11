@@ -26,7 +26,7 @@ The value of an uncoded component of the Key.
 
 ### Inherited
 
-**valueFor** ([Dimension](Dimension.md) - 1): Associates Dimension, MeasureDimension, or TimeDimension to the Keyvalue, and thereby to the Concept that is the semantic of the Dimension, or TimeDimension.
+**valueFor** ([DimensionComponent](DimensionComponent.md) - 1): Associates Dimension, MeasureDimension, or TimeDimension to the Keyvalue, and thereby to the Concept that is the semantic of the Dimension, or TimeDimension.
 
 
 

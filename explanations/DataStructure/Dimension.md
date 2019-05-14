@@ -45,6 +45,8 @@ As stated in the Description section, Dimensions are constrained in their choice
 
 It's worth highlighting that Dimension is **not** a subclass of NameableArtefact and so does **not** get its own name. The name of the Dimension comes from its *conceptIdentity*. This can be a problem if you have Dimensions in different DataStructureDefinitions that are in essence describing the same thing (and so ought to refer to the same Concept for comparability and discoverability) but you wish to have different display names for them.
 
+Although Dimensions are IdentifiableArtefacts and thus require an *id*, in the SDMX-ML implementation of SDMX (and likely others), if none is explicitly provided, it's assumed that the *id* of the Dimension is the *id* of the *conceptIdentity*. Now, because the Dimensions need to be differentiated from one another by their *id*, if multiple Dimensions reference Concepts with the same *id* (even if they're different Concepts, in different ConceptSchemes), then at least one of them will need to have an explicit *id* provided.
+
  ## Identification
 
  Dimensions are not MaintainableArtefacts. They may only be identified through their DataStructureDefinitions using the following pattern:
@@ -56,3 +58,5 @@ It's worth highlighting that Dimension is **not** a subclass of NameableArtefact
  ```
     urn:sdmx:org.sdmx.infomodel.datastructure.Dimension=ABS:LFS(1.0.0).COB
  ```
+
+ For those paying close attention, yes, Dimensions are actually contained in a DimensionDescriptor, which would imply that its *id* should be used in the URN for a Dimension. However, because there is only ever one DimensionDescriptor in a DSD, it is omitted from the URN.

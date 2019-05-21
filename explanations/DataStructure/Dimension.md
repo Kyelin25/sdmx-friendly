@@ -27,7 +27,7 @@ In this example, we don't declare a *localRepresentation* and so inherit whateve
     "conceptIdentity": "urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=ABS:CS_COUNTRY_CONCEPTS(1.0.0).COB"
     "localRepresentation": {
         "enumeration": "urn:sdmx:org.sdmx.infomodel.codelist.Codelist=ABS:CL_ALTERNATE_COUNTRY(1.0.0)"
-    },
+    }
 }
 ```
 To mark the "Country of Birth" Dimension as being mappable, we could use the *role* reference to refer to a "Geography" Concept:
@@ -45,7 +45,7 @@ As stated in the Description section, Dimensions are constrained in their choice
 
 It's worth highlighting that Dimension is **not** a subclass of NameableArtefact and so does **not** get its own name. The name of the Dimension comes from its *conceptIdentity*. This can be a problem if you have Dimensions in different DataStructureDefinitions that are in essence describing the same thing (and so ought to refer to the same Concept for comparability and discoverability) but you wish to have different display names for them.
 
-Although Dimensions are IdentifiableArtefacts and thus require an *id*, in the SDMX-ML implementation of SDMX (and likely others), if none is explicitly provided, it's assumed that the *id* of the Dimension is the *id* of the *conceptIdentity*. Now, because the Dimensions need to be differentiated from one another by their *id*, if multiple Dimensions reference Concepts with the same *id* (even if they're different Concepts, in different ConceptSchemes), then at least one of them will need to have an explicit *id* provided.
+Although Dimensions are IdentifiableArtefacts and thus require an *id*, in the SDMX-ML implementation of SDMX (and likely others), if none is explicitly provided, it's assumed that the *id* of the Dimension is the *id* of the *conceptIdentity*. Now, because the Dimensions need to be differentiated from one another by their *id*, if multiple Dimensions reference Concepts with the same *id* (even if they're different Concepts, in different ConceptSchemes), then at least one of them will need to have an explicit *id* provided. Note that this clash can occur between Dimensions and MeasureDimensions and TimeDimensions.
 
  ## Identification
 

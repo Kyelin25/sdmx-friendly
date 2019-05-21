@@ -17,7 +17,10 @@ The most common use of the TimeDimension is simply to allow all "observationalTi
     "conceptIdentity": "urn:sdmx:org.sdmx.infomodel.conceptscheme.Concept=ABS:CS_COMMON(1.0.0).TIME_PERIOD"
     "representation":
     {
-        "facetValueType": "observationalTimePeriod"
+        "textFormat":
+        {
+            "facetValueType": "observationalTimePeriod"
+        }
     }
 }
 ```
